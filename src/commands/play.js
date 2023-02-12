@@ -48,16 +48,17 @@ module.exports = {
 
         for (let i = 0; i < 5; i++) {
             const index = Math.floor(Math.random() * countries.length);
-            const country = countries.splice(index, 1)[0];
-            const flag = new AttachmentBuilder(`src/assets/flags/${country.cca2}.png`);
+            const { cca2, flag, name } = countries.splice(index, 1)[0];
+            const flagImage = new AttachmentBuilder(`src/assets/flags/${cca2}.png`);
             const messageEmbed = new EmbedBuilder();
             messageEmbed.setTitle(strings['GUESS']);
-            messageEmbed.setImage(`attachment://${country.cca2}.png`);
+            messageEmbed.setImage(`attachment://${cca2}.png`);
             messageEmbed.setColor('#FFFFFF');
             const attachment = {
                 embed: messageEmbed,
-                flag: flag,
-                answers: [country.name.official, country.name.common]
+                file: flagImage,
+                answers: [name.official, name.common],
+                emoji: flag
             }
             attachments.push(attachment);
         }
@@ -69,16 +70,16 @@ module.exports = {
             await interaction.reply(strings['STARTING']);
             let message = null;
             for (const attachment of attachments) {
-                const { embed, flag, answers } = attachment;
-                if (message) message.edit({ embeds: [embed], files: [flag] });
-                else message = await interaction.channel.send({ embeds: [embed], files: [flag] });
+                const { embed, file, answers, emoji } = attachment;
+                if (message) message.edit({ embeds: [embed], files: [file] });
+                else message = await interaction.channel.send({ embeds: [embed], files: [file] });
 
                 const filter = response => {
                     return answers.some(r => normalizeText(r) === normalizeText(response.content) && userID === response.author.id);
                 }
                 await interaction.channel.awaitMessages({ filter, max: 1, time: 10000, errors: ['time'] })
                     .then((collected) => {
-                        collected.first().react('✅');
+                        collected.first().react(emoji);
                         sessionScore += 10;
                         sessionCorrectAnswers++;
                     })
