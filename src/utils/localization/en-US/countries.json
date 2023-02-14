@@ -22,8 +22,8 @@
         "borders": [],
         "area": "180 km²",
         "flag": {
-            "image": "src/assets/flags/ABW.png",
-            "url": "attachment://ABW.png",
+            "url": "src/assets/flags/ABW.png",
+            "attachment": "attachment://ABW.png",
             "emoji": "🇦🇼"
         }
     },
@@ -76,8 +76,8 @@
         ],
         "area": "652230 km²",
         "flag": {
-            "image": "src/assets/flags/AFG.png",
-            "url": "attachment://AFG.png",
+            "url": "src/assets/flags/AFG.png",
+            "attachment": "attachment://AFG.png",
             "emoji": "🇦🇫"
         }
     },
@@ -120,8 +120,8 @@
         ],
         "area": "1246700 km²",
         "flag": {
-            "image": "src/assets/flags/AGO.png",
-            "url": "attachment://AGO.png",
+            "url": "src/assets/flags/AGO.png",
+            "attachment": "attachment://AGO.png",
             "emoji": "🇦🇴"
         }
     },
@@ -147,14 +147,14 @@
         "borders": [],
         "area": "91 km²",
         "flag": {
-            "image": "src/assets/flags/AIA.png",
-            "url": "attachment://AIA.png",
+            "url": "src/assets/flags/AIA.png",
+            "attachment": "attachment://AIA.png",
             "emoji": "🇦🇮"
         }
     },
     {
         "name": {
-            "common": "Åland Islands",
+            "common": "Åland",
             "official": "Åland Islands"
         },
         "cca2": "AX",
@@ -174,8 +174,8 @@
         "borders": [],
         "area": "1580 km²",
         "flag": {
-            "image": "src/assets/flags/ALA.png",
-            "url": "attachment://ALA.png",
+            "url": "src/assets/flags/ALA.png",
+            "attachment": "attachment://ALA.png",
             "emoji": "🇦🇽"
         }
     },
@@ -218,8 +218,8 @@
         ],
         "area": "28748 km²",
         "flag": {
-            "image": "src/assets/flags/ALB.png",
-            "url": "attachment://ALB.png",
+            "url": "src/assets/flags/ALB.png",
+            "attachment": "attachment://ALB.png",
             "emoji": "🇦🇱"
         }
     },
@@ -254,8 +254,8 @@
         ],
         "area": "468 km²",
         "flag": {
-            "image": "src/assets/flags/AND.png",
-            "url": "attachment://AND.png",
+            "url": "src/assets/flags/AND.png",
+            "attachment": "attachment://AND.png",
             "emoji": "🇦🇩"
         }
     },
@@ -290,8 +290,8 @@
         ],
         "area": "83600 km²",
         "flag": {
-            "image": "src/assets/flags/ARE.png",
-            "url": "attachment://ARE.png",
+            "url": "src/assets/flags/ARE.png",
+            "attachment": "attachment://ARE.png",
             "emoji": "🇦🇪"
         }
     },
@@ -339,8 +339,8 @@
         ],
         "area": "2780400 km²",
         "flag": {
-            "image": "src/assets/flags/ARG.png",
-            "url": "attachment://ARG.png",
+            "url": "src/assets/flags/ARG.png",
+            "attachment": "attachment://ARG.png",
             "emoji": "🇦🇷"
         }
     },
@@ -383,8 +383,8 @@
         ],
         "area": "29743 km²",
         "flag": {
-            "image": "src/assets/flags/ARM.png",
-            "url": "attachment://ARM.png",
+            "url": "src/assets/flags/ARM.png",
+            "attachment": "attachment://ARM.png",
             "emoji": "🇦🇲"
         }
     },
@@ -411,8 +411,8 @@
         "borders": [],
         "area": "199 km²",
         "flag": {
-            "image": "src/assets/flags/ASM.png",
-            "url": "attachment://ASM.png",
+            "url": "src/assets/flags/ASM.png",
+            "attachment": "attachment://ASM.png",
             "emoji": "🇦🇸"
         }
     },
@@ -434,8 +434,8 @@
         "borders": [],
         "area": "14000000 km²",
         "flag": {
-            "image": "src/assets/flags/ATA.png",
-            "url": "attachment://ATA.png",
+            "url": "src/assets/flags/ATA.png",
+            "attachment": "attachment://ATA.png",
             "emoji": "🇦🇶"
         }
     },
@@ -461,8 +461,8 @@
         "borders": [],
         "area": "7747 km²",
         "flag": {
-            "image": "src/assets/flags/ATF.png",
-            "url": "attachment://ATF.png",
+            "url": "src/assets/flags/ATF.png",
+            "attachment": "attachment://ATF.png",
             "emoji": "🇹🇫"
         }
     },
@@ -488,8 +488,8 @@
         "borders": [],
         "area": "442 km²",
         "flag": {
-            "image": "src/assets/flags/ATG.png",
-            "url": "attachment://ATG.png",
+            "url": "src/assets/flags/ATG.png",
+            "attachment": "attachment://ATG.png",
             "emoji": "🇦🇬"
         }
     },
@@ -515,8 +515,8 @@
         "borders": [],
         "area": "7692024 km²",
         "flag": {
-            "image": "src/assets/flags/AUS.png",
-            "url": "attachment://AUS.png",
+            "url": "src/assets/flags/AUS.png",
+            "attachment": "attachment://AUS.png",
             "emoji": "🇦🇺"
         }
     },
@@ -575,8 +575,8 @@
         ],
         "area": "83871 km²",
         "flag": {
-            "image": "src/assets/flags/AUT.png",
-            "url": "attachment://AUT.png",
+            "url": "src/assets/flags/AUT.png",
+            "attachment": "attachment://AUT.png",
             "emoji": "🇦🇹"
         }
     },
@@ -624,8 +624,8 @@
         ],
         "area": "86600 km²",
         "flag": {
-            "image": "src/assets/flags/AZE.png",
-            "url": "attachment://AZE.png",
+            "url": "src/assets/flags/AZE.png",
+            "attachment": "attachment://AZE.png",
             "emoji": "🇦🇿"
         }
     },
@@ -665,8 +665,8 @@
         ],
         "area": "27834 km²",
         "flag": {
-            "image": "src/assets/flags/BDI.png",
-            "url": "attachment://BDI.png",
+            "url": "src/assets/flags/BDI.png",
+            "attachment": "attachment://BDI.png",
             "emoji": "🇧🇮"
         }
     },
@@ -711,8 +711,8 @@
         ],
         "area": "30528 km²",
         "flag": {
-            "image": "src/assets/flags/BEL.png",
-            "url": "attachment://BEL.png",
+            "url": "src/assets/flags/BEL.png",
+            "attachment": "attachment://BEL.png",
             "emoji": "🇧🇪"
         }
     },
@@ -755,8 +755,8 @@
         ],
         "area": "112622 km²",
         "flag": {
-            "image": "src/assets/flags/BEN.png",
-            "url": "attachment://BEN.png",
+            "url": "src/assets/flags/BEN.png",
+            "attachment": "attachment://BEN.png",
             "emoji": "🇧🇯"
         }
     },
@@ -807,8 +807,8 @@
         ],
         "area": "272967 km²",
         "flag": {
-            "image": "src/assets/flags/BFA.png",
-            "url": "attachment://BFA.png",
+            "url": "src/assets/flags/BFA.png",
+            "attachment": "attachment://BFA.png",
             "emoji": "🇧🇫"
         }
     },
@@ -843,8 +843,8 @@
         ],
         "area": "147570 km²",
         "flag": {
-            "image": "src/assets/flags/BGD.png",
-            "url": "attachment://BGD.png",
+            "url": "src/assets/flags/BGD.png",
+            "attachment": "attachment://BGD.png",
             "emoji": "🇧🇩"
         }
     },
@@ -891,8 +891,8 @@
         ],
         "area": "110879 km²",
         "flag": {
-            "image": "src/assets/flags/BGR.png",
-            "url": "attachment://BGR.png",
+            "url": "src/assets/flags/BGR.png",
+            "attachment": "attachment://BGR.png",
             "emoji": "🇧🇬"
         }
     },
@@ -918,8 +918,8 @@
         "borders": [],
         "area": "765 km²",
         "flag": {
-            "image": "src/assets/flags/BHR.png",
-            "url": "attachment://BHR.png",
+            "url": "src/assets/flags/BHR.png",
+            "attachment": "attachment://BHR.png",
             "emoji": "🇧🇭"
         }
     },
@@ -946,8 +946,8 @@
         "borders": [],
         "area": "13943 km²",
         "flag": {
-            "image": "src/assets/flags/BHS.png",
-            "url": "attachment://BHS.png",
+            "url": "src/assets/flags/BHS.png",
+            "attachment": "attachment://BHS.png",
             "emoji": "🇧🇸"
         }
     },
@@ -988,8 +988,8 @@
         ],
         "area": "51209 km²",
         "flag": {
-            "image": "src/assets/flags/BIH.png",
-            "url": "attachment://BIH.png",
+            "url": "src/assets/flags/BIH.png",
+            "attachment": "attachment://BIH.png",
             "emoji": "🇧🇦"
         }
     },
@@ -1015,8 +1015,8 @@
         "borders": [],
         "area": "21 km²",
         "flag": {
-            "image": "src/assets/flags/BLM.png",
-            "url": "attachment://BLM.png",
+            "url": "src/assets/flags/BLM.png",
+            "attachment": "attachment://BLM.png",
             "emoji": "🇧🇱"
         }
     },
@@ -1043,8 +1043,8 @@
         "borders": [],
         "area": "394 km²",
         "flag": {
-            "image": "src/assets/flags/SHN.png",
-            "url": "attachment://SHN.png",
+            "url": "src/assets/flags/SHN.png",
+            "attachment": "attachment://SHN.png",
             "emoji": "🇸🇭"
         }
     },
@@ -1092,8 +1092,8 @@
         ],
         "area": "207600 km²",
         "flag": {
-            "image": "src/assets/flags/BLR.png",
-            "url": "attachment://BLR.png",
+            "url": "src/assets/flags/BLR.png",
+            "attachment": "attachment://BLR.png",
             "emoji": "🇧🇾"
         }
     },
@@ -1130,8 +1130,8 @@
         ],
         "area": "22966 km²",
         "flag": {
-            "image": "src/assets/flags/BLZ.png",
-            "url": "attachment://BLZ.png",
+            "url": "src/assets/flags/BLZ.png",
+            "attachment": "attachment://BLZ.png",
             "emoji": "🇧🇿"
         }
     },
@@ -1157,8 +1157,8 @@
         "borders": [],
         "area": "54 km²",
         "flag": {
-            "image": "src/assets/flags/BMU.png",
-            "url": "attachment://BMU.png",
+            "url": "src/assets/flags/BMU.png",
+            "attachment": "attachment://BMU.png",
             "emoji": "🇧🇲"
         }
     },
@@ -1208,8 +1208,8 @@
         ],
         "area": "1098581 km²",
         "flag": {
-            "image": "src/assets/flags/BOL.png",
-            "url": "attachment://BOL.png",
+            "url": "src/assets/flags/BOL.png",
+            "attachment": "attachment://BOL.png",
             "emoji": "🇧🇴"
         }
     },
@@ -1239,8 +1239,8 @@
         "borders": [],
         "area": "328 km²",
         "flag": {
-            "image": "src/assets/flags/BES.png",
-            "url": "attachment://BES.png",
+            "url": "src/assets/flags/BES.png",
+            "attachment": "attachment://BES.png",
             "emoji": ""
         }
     },
@@ -1307,8 +1307,8 @@
         ],
         "area": "8515767 km²",
         "flag": {
-            "image": "src/assets/flags/BRA.png",
-            "url": "attachment://BRA.png",
+            "url": "src/assets/flags/BRA.png",
+            "attachment": "attachment://BRA.png",
             "emoji": "🇧🇷"
         }
     },
@@ -1334,8 +1334,8 @@
         "borders": [],
         "area": "430 km²",
         "flag": {
-            "image": "src/assets/flags/BRB.png",
-            "url": "attachment://BRB.png",
+            "url": "src/assets/flags/BRB.png",
+            "attachment": "attachment://BRB.png",
             "emoji": "🇧🇧"
         }
     },
@@ -1367,8 +1367,8 @@
         ],
         "area": "5765 km²",
         "flag": {
-            "image": "src/assets/flags/BRN.png",
-            "url": "attachment://BRN.png",
+            "url": "src/assets/flags/BRN.png",
+            "attachment": "attachment://BRN.png",
             "emoji": "🇧🇳"
         }
     },
@@ -1404,8 +1404,8 @@
         ],
         "area": "38394 km²",
         "flag": {
-            "image": "src/assets/flags/BTN.png",
-            "url": "attachment://BTN.png",
+            "url": "src/assets/flags/BTN.png",
+            "attachment": "attachment://BTN.png",
             "emoji": "🇧🇹"
         }
     },
@@ -1429,8 +1429,8 @@
         "borders": [],
         "area": "49 km²",
         "flag": {
-            "image": "src/assets/flags/BVT.png",
-            "url": "attachment://BVT.png",
+            "url": "src/assets/flags/BVT.png",
+            "attachment": "attachment://BVT.png",
             "emoji": "🇧🇻"
         }
     },
@@ -1474,8 +1474,8 @@
         ],
         "area": "582000 km²",
         "flag": {
-            "image": "src/assets/flags/BWA.png",
-            "url": "attachment://BWA.png",
+            "url": "src/assets/flags/BWA.png",
+            "attachment": "attachment://BWA.png",
             "emoji": "🇧🇼"
         }
     },
@@ -1527,8 +1527,8 @@
         ],
         "area": "622984 km²",
         "flag": {
-            "image": "src/assets/flags/CAF.png",
-            "url": "attachment://CAF.png",
+            "url": "src/assets/flags/CAF.png",
+            "attachment": "attachment://CAF.png",
             "emoji": "🇨🇫"
         }
     },
@@ -1560,8 +1560,8 @@
         ],
         "area": "9984670 km²",
         "flag": {
-            "image": "src/assets/flags/CAN.png",
-            "url": "attachment://CAN.png",
+            "url": "src/assets/flags/CAN.png",
+            "attachment": "attachment://CAN.png",
             "emoji": "🇨🇦"
         }
     },
@@ -1587,8 +1587,8 @@
         "borders": [],
         "area": "14 km²",
         "flag": {
-            "image": "src/assets/flags/CCK.png",
-            "url": "attachment://CCK.png",
+            "url": "src/assets/flags/CCK.png",
+            "attachment": "attachment://CCK.png",
             "emoji": "🇨🇨"
         }
     },
@@ -1638,8 +1638,8 @@
         ],
         "area": "41284 km²",
         "flag": {
-            "image": "src/assets/flags/CHE.png",
-            "url": "attachment://CHE.png",
+            "url": "src/assets/flags/CHE.png",
+            "attachment": "attachment://CHE.png",
             "emoji": "🇨🇭"
         }
     },
@@ -1678,8 +1678,8 @@
         ],
         "area": "756102 km²",
         "flag": {
-            "image": "src/assets/flags/CHL.png",
-            "url": "attachment://CHL.png",
+            "url": "src/assets/flags/CHL.png",
+            "attachment": "attachment://CHL.png",
             "emoji": "🇨🇱"
         }
     },
@@ -1770,8 +1770,8 @@
         ],
         "area": "9706961 km²",
         "flag": {
-            "image": "src/assets/flags/CHN.png",
-            "url": "attachment://CHN.png",
+            "url": "src/assets/flags/CHN.png",
+            "attachment": "attachment://CHN.png",
             "emoji": "🇨🇳"
         }
     },
@@ -1818,8 +1818,8 @@
         ],
         "area": "322463 km²",
         "flag": {
-            "image": "src/assets/flags/CIV.png",
-            "url": "attachment://CIV.png",
+            "url": "src/assets/flags/CIV.png",
+            "attachment": "attachment://CIV.png",
             "emoji": "🇨🇮"
         }
     },
@@ -1871,8 +1871,8 @@
         ],
         "area": "475442 km²",
         "flag": {
-            "image": "src/assets/flags/CMR.png",
-            "url": "attachment://CMR.png",
+            "url": "src/assets/flags/CMR.png",
+            "attachment": "attachment://CMR.png",
             "emoji": "🇨🇲"
         }
     },
@@ -1939,8 +1939,8 @@
         ],
         "area": "2344858 km²",
         "flag": {
-            "image": "src/assets/flags/COD.png",
-            "url": "attachment://COD.png",
+            "url": "src/assets/flags/COD.png",
+            "attachment": "attachment://COD.png",
             "emoji": "🇨🇩"
         }
     },
@@ -1989,8 +1989,8 @@
         ],
         "area": "342000 km²",
         "flag": {
-            "image": "src/assets/flags/COG.png",
-            "url": "attachment://COG.png",
+            "url": "src/assets/flags/COG.png",
+            "attachment": "attachment://COG.png",
             "emoji": "🇨🇬"
         }
     },
@@ -2018,8 +2018,8 @@
         "borders": [],
         "area": "236 km²",
         "flag": {
-            "image": "src/assets/flags/COK.png",
-            "url": "attachment://COK.png",
+            "url": "src/assets/flags/COK.png",
+            "attachment": "attachment://COK.png",
             "emoji": "🇨🇰"
         }
     },
@@ -2066,8 +2066,8 @@
         ],
         "area": "1141748 km²",
         "flag": {
-            "image": "src/assets/flags/COL.png",
-            "url": "attachment://COL.png",
+            "url": "src/assets/flags/COL.png",
+            "attachment": "attachment://COL.png",
             "emoji": "🇨🇴"
         }
     },
@@ -2095,8 +2095,8 @@
         "borders": [],
         "area": "1862 km²",
         "flag": {
-            "image": "src/assets/flags/COM.png",
-            "url": "attachment://COM.png",
+            "url": "src/assets/flags/COM.png",
+            "attachment": "attachment://COM.png",
             "emoji": "🇰🇲"
         }
     },
@@ -2122,8 +2122,8 @@
         "borders": [],
         "area": "4033 km²",
         "flag": {
-            "image": "src/assets/flags/CPV.png",
-            "url": "attachment://CPV.png",
+            "url": "src/assets/flags/CPV.png",
+            "attachment": "attachment://CPV.png",
             "emoji": "🇨🇻"
         }
     },
@@ -2158,8 +2158,8 @@
         ],
         "area": "51100 km²",
         "flag": {
-            "image": "src/assets/flags/CRI.png",
-            "url": "attachment://CRI.png",
+            "url": "src/assets/flags/CRI.png",
+            "attachment": "attachment://CRI.png",
             "emoji": "🇨🇷"
         }
     },
@@ -2186,8 +2186,8 @@
         "borders": [],
         "area": "109884 km²",
         "flag": {
-            "image": "src/assets/flags/CUB.png",
-            "url": "attachment://CUB.png",
+            "url": "src/assets/flags/CUB.png",
+            "attachment": "attachment://CUB.png",
             "emoji": "🇨🇺"
         }
     },
@@ -2215,8 +2215,8 @@
         "borders": [],
         "area": "444 km²",
         "flag": {
-            "image": "src/assets/flags/CUW.png",
-            "url": "attachment://CUW.png",
+            "url": "src/assets/flags/CUW.png",
+            "attachment": "attachment://CUW.png",
             "emoji": "🇨🇼"
         }
     },
@@ -2242,8 +2242,8 @@
         "borders": [],
         "area": "135 km²",
         "flag": {
-            "image": "src/assets/flags/CXR.png",
-            "url": "attachment://CXR.png",
+            "url": "src/assets/flags/CXR.png",
+            "attachment": "attachment://CXR.png",
             "emoji": "🇨🇽"
         }
     },
@@ -2269,8 +2269,8 @@
         "borders": [],
         "area": "264 km²",
         "flag": {
-            "image": "src/assets/flags/CYM.png",
-            "url": "attachment://CYM.png",
+            "url": "src/assets/flags/CYM.png",
+            "attachment": "attachment://CYM.png",
             "emoji": "🇰🇾"
         }
     },
@@ -2297,8 +2297,8 @@
         "borders": [],
         "area": "9251 km²",
         "flag": {
-            "image": "src/assets/flags/CYP.png",
-            "url": "attachment://CYP.png",
+            "url": "src/assets/flags/CYP.png",
+            "attachment": "attachment://CYP.png",
             "emoji": "🇨🇾"
         }
     },
@@ -2342,8 +2342,8 @@
         ],
         "area": "78865 km²",
         "flag": {
-            "image": "src/assets/flags/CZE.png",
-            "url": "attachment://CZE.png",
+            "url": "src/assets/flags/CZE.png",
+            "attachment": "attachment://CZE.png",
             "emoji": "🇨🇿"
         }
     },
@@ -2406,8 +2406,8 @@
         ],
         "area": "357114 km²",
         "flag": {
-            "image": "src/assets/flags/DEU.png",
-            "url": "attachment://DEU.png",
+            "url": "src/assets/flags/DEU.png",
+            "attachment": "attachment://DEU.png",
             "emoji": "🇩🇪"
         }
     },
@@ -2447,8 +2447,8 @@
         ],
         "area": "23200 km²",
         "flag": {
-            "image": "src/assets/flags/DJI.png",
-            "url": "attachment://DJI.png",
+            "url": "src/assets/flags/DJI.png",
+            "attachment": "attachment://DJI.png",
             "emoji": "🇩🇯"
         }
     },
@@ -2474,8 +2474,8 @@
         "borders": [],
         "area": "751 km²",
         "flag": {
-            "image": "src/assets/flags/DMA.png",
-            "url": "attachment://DMA.png",
+            "url": "src/assets/flags/DMA.png",
+            "attachment": "attachment://DMA.png",
             "emoji": "🇩🇲"
         }
     },
@@ -2506,8 +2506,8 @@
         ],
         "area": "43094 km²",
         "flag": {
-            "image": "src/assets/flags/DNK.png",
-            "url": "attachment://DNK.png",
+            "url": "src/assets/flags/DNK.png",
+            "attachment": "attachment://DNK.png",
             "emoji": "🇩🇰"
         }
     },
@@ -2538,8 +2538,8 @@
         ],
         "area": "48671 km²",
         "flag": {
-            "image": "src/assets/flags/DOM.png",
-            "url": "attachment://DOM.png",
+            "url": "src/assets/flags/DOM.png",
+            "attachment": "attachment://DOM.png",
             "emoji": "🇩🇴"
         }
     },
@@ -2594,8 +2594,8 @@
         ],
         "area": "2381741 km²",
         "flag": {
-            "image": "src/assets/flags/DZA.png",
-            "url": "attachment://DZA.png",
+            "url": "src/assets/flags/DZA.png",
+            "attachment": "attachment://DZA.png",
             "emoji": "🇩🇿"
         }
     },
@@ -2630,8 +2630,8 @@
         ],
         "area": "276841 km²",
         "flag": {
-            "image": "src/assets/flags/ECU.png",
-            "url": "attachment://ECU.png",
+            "url": "src/assets/flags/ECU.png",
+            "attachment": "attachment://ECU.png",
             "emoji": "🇪🇨"
         }
     },
@@ -2674,8 +2674,8 @@
         ],
         "area": "1002450 km²",
         "flag": {
-            "image": "src/assets/flags/EGY.png",
-            "url": "attachment://EGY.png",
+            "url": "src/assets/flags/EGY.png",
+            "attachment": "attachment://EGY.png",
             "emoji": "🇪🇬"
         }
     },
@@ -2716,8 +2716,8 @@
         ],
         "area": "117600 km²",
         "flag": {
-            "image": "src/assets/flags/ERI.png",
-            "url": "attachment://ERI.png",
+            "url": "src/assets/flags/ERI.png",
+            "attachment": "attachment://ERI.png",
             "emoji": "🇪🇷"
         }
     },
@@ -2760,8 +2760,8 @@
         ],
         "area": "266000 km²",
         "flag": {
-            "image": "src/assets/flags/ESH.png",
-            "url": "attachment://ESH.png",
+            "url": "src/assets/flags/ESH.png",
+            "attachment": "attachment://ESH.png",
             "emoji": "🇪🇭"
         }
     },
@@ -2808,8 +2808,8 @@
         ],
         "area": "505992 km²",
         "flag": {
-            "image": "src/assets/flags/ESP.png",
-            "url": "attachment://ESP.png",
+            "url": "src/assets/flags/ESP.png",
+            "attachment": "attachment://ESP.png",
             "emoji": "🇪🇸"
         }
     },
@@ -2844,8 +2844,8 @@
         ],
         "area": "45227 km²",
         "flag": {
-            "image": "src/assets/flags/EST.png",
-            "url": "attachment://EST.png",
+            "url": "src/assets/flags/EST.png",
+            "attachment": "attachment://EST.png",
             "emoji": "🇪🇪"
         }
     },
@@ -2896,8 +2896,8 @@
         ],
         "area": "1104300 km²",
         "flag": {
-            "image": "src/assets/flags/ETH.png",
-            "url": "attachment://ETH.png",
+            "url": "src/assets/flags/ETH.png",
+            "attachment": "attachment://ETH.png",
             "emoji": "🇪🇹"
         }
     },
@@ -2937,8 +2937,8 @@
         ],
         "area": "338424 km²",
         "flag": {
-            "image": "src/assets/flags/FIN.png",
-            "url": "attachment://FIN.png",
+            "url": "src/assets/flags/FIN.png",
+            "attachment": "attachment://FIN.png",
             "emoji": "🇫🇮"
         }
     },
@@ -2966,8 +2966,8 @@
         "borders": [],
         "area": "18272 km²",
         "flag": {
-            "image": "src/assets/flags/FJI.png",
-            "url": "attachment://FJI.png",
+            "url": "src/assets/flags/FJI.png",
+            "attachment": "attachment://FJI.png",
             "emoji": "🇫🇯"
         }
     },
@@ -2993,8 +2993,8 @@
         "borders": [],
         "area": "12173 km²",
         "flag": {
-            "image": "src/assets/flags/FLK.png",
-            "url": "attachment://FLK.png",
+            "url": "src/assets/flags/FLK.png",
+            "attachment": "attachment://FLK.png",
             "emoji": "🇫🇰"
         }
     },
@@ -3053,8 +3053,8 @@
         ],
         "area": "551695 km²",
         "flag": {
-            "image": "src/assets/flags/FRA.png",
-            "url": "attachment://FRA.png",
+            "url": "src/assets/flags/FRA.png",
+            "attachment": "attachment://FRA.png",
             "emoji": "🇫🇷"
         }
     },
@@ -3082,8 +3082,8 @@
         "borders": [],
         "area": "1393 km²",
         "flag": {
-            "image": "src/assets/flags/FRO.png",
-            "url": "attachment://FRO.png",
+            "url": "src/assets/flags/FRO.png",
+            "attachment": "attachment://FRO.png",
             "emoji": "🇫🇴"
         }
     },
@@ -3107,8 +3107,8 @@
         "borders": [],
         "area": "702 km²",
         "flag": {
-            "image": "src/assets/flags/FSM.png",
-            "url": "attachment://FSM.png",
+            "url": "src/assets/flags/FSM.png",
+            "attachment": "attachment://FSM.png",
             "emoji": "🇫🇲"
         }
     },
@@ -3147,8 +3147,8 @@
         ],
         "area": "267668 km²",
         "flag": {
-            "image": "src/assets/flags/GAB.png",
-            "url": "attachment://GAB.png",
+            "url": "src/assets/flags/GAB.png",
+            "attachment": "attachment://GAB.png",
             "emoji": "🇬🇦"
         }
     },
@@ -3179,8 +3179,8 @@
         ],
         "area": "242900 km²",
         "flag": {
-            "image": "src/assets/flags/GBR.png",
-            "url": "attachment://GBR.png",
+            "url": "src/assets/flags/GBR.png",
+            "attachment": "attachment://GBR.png",
             "emoji": "🇬🇧"
         }
     },
@@ -3223,8 +3223,8 @@
         ],
         "area": "69700 km²",
         "flag": {
-            "image": "src/assets/flags/GEO.png",
-            "url": "attachment://GEO.png",
+            "url": "src/assets/flags/GEO.png",
+            "attachment": "attachment://GEO.png",
             "emoji": "🇬🇪"
         }
     },
@@ -3253,8 +3253,8 @@
         "borders": [],
         "area": "78 km²",
         "flag": {
-            "image": "src/assets/flags/GGY.png",
-            "url": "attachment://GGY.png",
+            "url": "src/assets/flags/GGY.png",
+            "attachment": "attachment://GGY.png",
             "emoji": "🇬🇬"
         }
     },
@@ -3293,8 +3293,8 @@
         ],
         "area": "238533 km²",
         "flag": {
-            "image": "src/assets/flags/GHA.png",
-            "url": "attachment://GHA.png",
+            "url": "src/assets/flags/GHA.png",
+            "attachment": "attachment://GHA.png",
             "emoji": "🇬🇭"
         }
     },
@@ -3325,8 +3325,8 @@
         ],
         "area": "6 km²",
         "flag": {
-            "image": "src/assets/flags/GIB.png",
-            "url": "attachment://GIB.png",
+            "url": "src/assets/flags/GIB.png",
+            "attachment": "attachment://GIB.png",
             "emoji": "🇬🇮"
         }
     },
@@ -3377,8 +3377,8 @@
         ],
         "area": "245857 km²",
         "flag": {
-            "image": "src/assets/flags/GIN.png",
-            "url": "attachment://GIN.png",
+            "url": "src/assets/flags/GIN.png",
+            "attachment": "attachment://GIN.png",
             "emoji": "🇬🇳"
         }
     },
@@ -3404,8 +3404,8 @@
         "borders": [],
         "area": "1628 km²",
         "flag": {
-            "image": "src/assets/flags/GLP.png",
-            "url": "attachment://GLP.png",
+            "url": "src/assets/flags/GLP.png",
+            "attachment": "attachment://GLP.png",
             "emoji": "🇬🇵"
         }
     },
@@ -3436,8 +3436,8 @@
         ],
         "area": "10689 km²",
         "flag": {
-            "image": "src/assets/flags/GMB.png",
-            "url": "attachment://GMB.png",
+            "url": "src/assets/flags/GMB.png",
+            "attachment": "attachment://GMB.png",
             "emoji": "🇬🇲"
         }
     },
@@ -3473,8 +3473,8 @@
         ],
         "area": "36125 km²",
         "flag": {
-            "image": "src/assets/flags/GNB.png",
-            "url": "attachment://GNB.png",
+            "url": "src/assets/flags/GNB.png",
+            "attachment": "attachment://GNB.png",
             "emoji": "🇬🇼"
         }
     },
@@ -3511,8 +3511,8 @@
         ],
         "area": "28051 km²",
         "flag": {
-            "image": "src/assets/flags/GNQ.png",
-            "url": "attachment://GNQ.png",
+            "url": "src/assets/flags/GNQ.png",
+            "attachment": "attachment://GNQ.png",
             "emoji": "🇬🇶"
         }
     },
@@ -3555,8 +3555,8 @@
         ],
         "area": "131990 km²",
         "flag": {
-            "image": "src/assets/flags/GRC.png",
-            "url": "attachment://GRC.png",
+            "url": "src/assets/flags/GRC.png",
+            "attachment": "attachment://GRC.png",
             "emoji": "🇬🇷"
         }
     },
@@ -3582,8 +3582,8 @@
         "borders": [],
         "area": "344 km²",
         "flag": {
-            "image": "src/assets/flags/GRD.png",
-            "url": "attachment://GRD.png",
+            "url": "src/assets/flags/GRD.png",
+            "attachment": "attachment://GRD.png",
             "emoji": "🇬🇩"
         }
     },
@@ -3609,8 +3609,8 @@
         "borders": [],
         "area": "2166086 km²",
         "flag": {
-            "image": "src/assets/flags/GRL.png",
-            "url": "attachment://GRL.png",
+            "url": "src/assets/flags/GRL.png",
+            "attachment": "attachment://GRL.png",
             "emoji": "🇬🇱"
         }
     },
@@ -3653,8 +3653,8 @@
         ],
         "area": "108889 km²",
         "flag": {
-            "image": "src/assets/flags/GTM.png",
-            "url": "attachment://GTM.png",
+            "url": "src/assets/flags/GTM.png",
+            "attachment": "attachment://GTM.png",
             "emoji": "🇬🇹"
         }
     },
@@ -3689,8 +3689,8 @@
         ],
         "area": "83534 km²",
         "flag": {
-            "image": "src/assets/flags/GUF.png",
-            "url": "attachment://GUF.png",
+            "url": "src/assets/flags/GUF.png",
+            "attachment": "attachment://GUF.png",
             "emoji": "🇬🇫"
         }
     },
@@ -3718,8 +3718,8 @@
         "borders": [],
         "area": "549 km²",
         "flag": {
-            "image": "src/assets/flags/GUM.png",
-            "url": "attachment://GUM.png",
+            "url": "src/assets/flags/GUM.png",
+            "attachment": "attachment://GUM.png",
             "emoji": "🇬🇺"
         }
     },
@@ -3758,8 +3758,8 @@
         ],
         "area": "214969 km²",
         "flag": {
-            "image": "src/assets/flags/GUY.png",
-            "url": "attachment://GUY.png",
+            "url": "src/assets/flags/GUY.png",
+            "attachment": "attachment://GUY.png",
             "emoji": "🇬🇾"
         }
     },
@@ -3791,8 +3791,8 @@
         ],
         "area": "1104 km²",
         "flag": {
-            "image": "src/assets/flags/HKG.png",
-            "url": "attachment://HKG.png",
+            "url": "src/assets/flags/HKG.png",
+            "attachment": "attachment://HKG.png",
             "emoji": "🇭🇰"
         }
     },
@@ -3816,8 +3816,8 @@
         "borders": [],
         "area": "412 km²",
         "flag": {
-            "image": "src/assets/flags/HMD.png",
-            "url": "attachment://HMD.png",
+            "url": "src/assets/flags/HMD.png",
+            "attachment": "attachment://HMD.png",
             "emoji": "🇭🇲"
         }
     },
@@ -3856,8 +3856,8 @@
         ],
         "area": "112492 km²",
         "flag": {
-            "image": "src/assets/flags/HND.png",
-            "url": "attachment://HND.png",
+            "url": "src/assets/flags/HND.png",
+            "attachment": "attachment://HND.png",
             "emoji": "🇭🇳"
         }
     },
@@ -3904,8 +3904,8 @@
         ],
         "area": "56594 km²",
         "flag": {
-            "image": "src/assets/flags/HRV.png",
-            "url": "attachment://HRV.png",
+            "url": "src/assets/flags/HRV.png",
+            "attachment": "attachment://HRV.png",
             "emoji": "🇭🇷"
         }
     },
@@ -3937,8 +3937,8 @@
         ],
         "area": "27750 km²",
         "flag": {
-            "image": "src/assets/flags/HTI.png",
-            "url": "attachment://HTI.png",
+            "url": "src/assets/flags/HTI.png",
+            "attachment": "attachment://HTI.png",
             "emoji": "🇭🇹"
         }
     },
@@ -3993,8 +3993,8 @@
         ],
         "area": "93028 km²",
         "flag": {
-            "image": "src/assets/flags/HUN.png",
-            "url": "attachment://HUN.png",
+            "url": "src/assets/flags/HUN.png",
+            "attachment": "attachment://HUN.png",
             "emoji": "🇭🇺"
         }
     },
@@ -4033,8 +4033,8 @@
         ],
         "area": "1904569 km²",
         "flag": {
-            "image": "src/assets/flags/IDN.png",
-            "url": "attachment://IDN.png",
+            "url": "src/assets/flags/IDN.png",
+            "attachment": "attachment://IDN.png",
             "emoji": "🇮🇩"
         }
     },
@@ -4062,8 +4062,8 @@
         "borders": [],
         "area": "572 km²",
         "flag": {
-            "image": "src/assets/flags/IMN.png",
-            "url": "attachment://IMN.png",
+            "url": "src/assets/flags/IMN.png",
+            "attachment": "attachment://IMN.png",
             "emoji": "🇮🇲"
         }
     },
@@ -4116,8 +4116,8 @@
         ],
         "area": "3287590 km²",
         "flag": {
-            "image": "src/assets/flags/IND.png",
-            "url": "attachment://IND.png",
+            "url": "src/assets/flags/IND.png",
+            "attachment": "attachment://IND.png",
             "emoji": "🇮🇳"
         }
     },
@@ -4143,8 +4143,8 @@
         "borders": [],
         "area": "60 km²",
         "flag": {
-            "image": "src/assets/flags/IOT.png",
-            "url": "attachment://IOT.png",
+            "url": "src/assets/flags/IOT.png",
+            "attachment": "attachment://IOT.png",
             "emoji": "🇮🇴"
         }
     },
@@ -4176,8 +4176,8 @@
         ],
         "area": "70273 km²",
         "flag": {
-            "image": "src/assets/flags/IRL.png",
-            "url": "attachment://IRL.png",
+            "url": "src/assets/flags/IRL.png",
+            "attachment": "attachment://IRL.png",
             "emoji": "🇮🇪"
         }
     },
@@ -4232,8 +4232,8 @@
         ],
         "area": "1648195 km²",
         "flag": {
-            "image": "src/assets/flags/IRN.png",
-            "url": "attachment://IRN.png",
+            "url": "src/assets/flags/IRN.png",
+            "attachment": "attachment://IRN.png",
             "emoji": "🇮🇷"
         }
     },
@@ -4286,8 +4286,8 @@
         ],
         "area": "438317 km²",
         "flag": {
-            "image": "src/assets/flags/IRQ.png",
-            "url": "attachment://IRQ.png",
+            "url": "src/assets/flags/IRQ.png",
+            "attachment": "attachment://IRQ.png",
             "emoji": "🇮🇶"
         }
     },
@@ -4313,8 +4313,8 @@
         "borders": [],
         "area": "103000 km²",
         "flag": {
-            "image": "src/assets/flags/ISL.png",
-            "url": "attachment://ISL.png",
+            "url": "src/assets/flags/ISL.png",
+            "attachment": "attachment://ISL.png",
             "emoji": "🇮🇸"
         }
     },
@@ -4362,8 +4362,8 @@
         ],
         "area": "20770 km²",
         "flag": {
-            "image": "src/assets/flags/ISR.png",
-            "url": "attachment://ISR.png",
+            "url": "src/assets/flags/ISR.png",
+            "attachment": "attachment://ISR.png",
             "emoji": "🇮🇱"
         }
     },
@@ -4414,8 +4414,8 @@
         ],
         "area": "301336 km²",
         "flag": {
-            "image": "src/assets/flags/ITA.png",
-            "url": "attachment://ITA.png",
+            "url": "src/assets/flags/ITA.png",
+            "attachment": "attachment://ITA.png",
             "emoji": "🇮🇹"
         }
     },
@@ -4442,8 +4442,8 @@
         "borders": [],
         "area": "10991 km²",
         "flag": {
-            "image": "src/assets/flags/JAM.png",
-            "url": "attachment://JAM.png",
+            "url": "src/assets/flags/JAM.png",
+            "attachment": "attachment://JAM.png",
             "emoji": "🇯🇲"
         }
     },
@@ -4472,8 +4472,8 @@
         "borders": [],
         "area": "116 km²",
         "flag": {
-            "image": "src/assets/flags/JEY.png",
-            "url": "attachment://JEY.png",
+            "url": "src/assets/flags/JEY.png",
+            "attachment": "attachment://JEY.png",
             "emoji": "🇯🇪"
         }
     },
@@ -4520,8 +4520,8 @@
         ],
         "area": "89342 km²",
         "flag": {
-            "image": "src/assets/flags/JOR.png",
-            "url": "attachment://JOR.png",
+            "url": "src/assets/flags/JOR.png",
+            "attachment": "attachment://JOR.png",
             "emoji": "🇯🇴"
         }
     },
@@ -4547,8 +4547,8 @@
         "borders": [],
         "area": "377930 km²",
         "flag": {
-            "image": "src/assets/flags/JPN.png",
-            "url": "attachment://JPN.png",
+            "url": "src/assets/flags/JPN.png",
+            "attachment": "attachment://JPN.png",
             "emoji": "🇯🇵"
         }
     },
@@ -4596,8 +4596,8 @@
         ],
         "area": "2724900 km²",
         "flag": {
-            "image": "src/assets/flags/KAZ.png",
-            "url": "attachment://KAZ.png",
+            "url": "src/assets/flags/KAZ.png",
+            "attachment": "attachment://KAZ.png",
             "emoji": "🇰🇿"
         }
     },
@@ -4645,8 +4645,8 @@
         ],
         "area": "580367 km²",
         "flag": {
-            "image": "src/assets/flags/KEN.png",
-            "url": "attachment://KEN.png",
+            "url": "src/assets/flags/KEN.png",
+            "attachment": "attachment://KEN.png",
             "emoji": "🇰🇪"
         }
     },
@@ -4690,8 +4690,8 @@
         ],
         "area": "199951 km²",
         "flag": {
-            "image": "src/assets/flags/KGZ.png",
-            "url": "attachment://KGZ.png",
+            "url": "src/assets/flags/KGZ.png",
+            "attachment": "attachment://KGZ.png",
             "emoji": "🇰🇬"
         }
     },
@@ -4731,8 +4731,8 @@
         ],
         "area": "181035 km²",
         "flag": {
-            "image": "src/assets/flags/KHM.png",
-            "url": "attachment://KHM.png",
+            "url": "src/assets/flags/KHM.png",
+            "attachment": "attachment://KHM.png",
             "emoji": "🇰🇭"
         }
     },
@@ -4760,8 +4760,8 @@
         "borders": [],
         "area": "811 km²",
         "flag": {
-            "image": "src/assets/flags/KIR.png",
-            "url": "attachment://KIR.png",
+            "url": "src/assets/flags/KIR.png",
+            "attachment": "attachment://KIR.png",
             "emoji": "🇰🇮"
         }
     },
@@ -4787,8 +4787,8 @@
         "borders": [],
         "area": "261 km²",
         "flag": {
-            "image": "src/assets/flags/KNA.png",
-            "url": "attachment://KNA.png",
+            "url": "src/assets/flags/KNA.png",
+            "attachment": "attachment://KNA.png",
             "emoji": "🇰🇳"
         }
     },
@@ -4819,8 +4819,8 @@
         ],
         "area": "100210 km²",
         "flag": {
-            "image": "src/assets/flags/KOR.png",
-            "url": "attachment://KOR.png",
+            "url": "src/assets/flags/KOR.png",
+            "attachment": "attachment://KOR.png",
             "emoji": "🇰🇷"
         }
     },
@@ -4864,8 +4864,8 @@
         ],
         "area": "10908 km²",
         "flag": {
-            "image": "src/assets/flags/UNK.png",
-            "url": "attachment://UNK.png",
+            "url": "src/assets/flags/UNK.png",
+            "attachment": "attachment://UNK.png",
             "emoji": "🇽🇰"
         }
     },
@@ -4900,8 +4900,8 @@
         ],
         "area": "17818 km²",
         "flag": {
-            "image": "src/assets/flags/KWT.png",
-            "url": "attachment://KWT.png",
+            "url": "src/assets/flags/KWT.png",
+            "attachment": "attachment://KWT.png",
             "emoji": "🇰🇼"
         }
     },
@@ -4948,8 +4948,8 @@
         ],
         "area": "236800 km²",
         "flag": {
-            "image": "src/assets/flags/LAO.png",
-            "url": "attachment://LAO.png",
+            "url": "src/assets/flags/LAO.png",
+            "attachment": "attachment://LAO.png",
             "emoji": "🇱🇦"
         }
     },
@@ -4985,8 +4985,8 @@
         ],
         "area": "10452 km²",
         "flag": {
-            "image": "src/assets/flags/LBN.png",
-            "url": "attachment://LBN.png",
+            "url": "src/assets/flags/LBN.png",
+            "attachment": "attachment://LBN.png",
             "emoji": "🇱🇧"
         }
     },
@@ -5025,8 +5025,8 @@
         ],
         "area": "111369 km²",
         "flag": {
-            "image": "src/assets/flags/LBR.png",
-            "url": "attachment://LBR.png",
+            "url": "src/assets/flags/LBR.png",
+            "attachment": "attachment://LBR.png",
             "emoji": "🇱🇷"
         }
     },
@@ -5077,8 +5077,8 @@
         ],
         "area": "1759540 km²",
         "flag": {
-            "image": "src/assets/flags/LBY.png",
-            "url": "attachment://LBY.png",
+            "url": "src/assets/flags/LBY.png",
+            "attachment": "attachment://LBY.png",
             "emoji": "🇱🇾"
         }
     },
@@ -5104,8 +5104,8 @@
         "borders": [],
         "area": "616 km²",
         "flag": {
-            "image": "src/assets/flags/LCA.png",
-            "url": "attachment://LCA.png",
+            "url": "src/assets/flags/LCA.png",
+            "attachment": "attachment://LCA.png",
             "emoji": "🇱🇨"
         }
     },
@@ -5140,8 +5140,8 @@
         ],
         "area": "160 km²",
         "flag": {
-            "image": "src/assets/flags/LIE.png",
-            "url": "attachment://LIE.png",
+            "url": "src/assets/flags/LIE.png",
+            "attachment": "attachment://LIE.png",
             "emoji": "🇱🇮"
         }
     },
@@ -5173,8 +5173,8 @@
         ],
         "area": "65610 km²",
         "flag": {
-            "image": "src/assets/flags/LKA.png",
-            "url": "attachment://LKA.png",
+            "url": "src/assets/flags/LKA.png",
+            "attachment": "attachment://LKA.png",
             "emoji": "🇱🇰"
         }
     },
@@ -5207,8 +5207,8 @@
         ],
         "area": "30355 km²",
         "flag": {
-            "image": "src/assets/flags/LSO.png",
-            "url": "attachment://LSO.png",
+            "url": "src/assets/flags/LSO.png",
+            "attachment": "attachment://LSO.png",
             "emoji": "🇱🇸"
         }
     },
@@ -5251,8 +5251,8 @@
         ],
         "area": "65300 km²",
         "flag": {
-            "image": "src/assets/flags/LTU.png",
-            "url": "attachment://LTU.png",
+            "url": "src/assets/flags/LTU.png",
+            "attachment": "attachment://LTU.png",
             "emoji": "🇱🇹"
         }
     },
@@ -5293,8 +5293,8 @@
         ],
         "area": "2586 km²",
         "flag": {
-            "image": "src/assets/flags/LUX.png",
-            "url": "attachment://LUX.png",
+            "url": "src/assets/flags/LUX.png",
+            "attachment": "attachment://LUX.png",
             "emoji": "🇱🇺"
         }
     },
@@ -5337,8 +5337,8 @@
         ],
         "area": "64559 km²",
         "flag": {
-            "image": "src/assets/flags/LVA.png",
-            "url": "attachment://LVA.png",
+            "url": "src/assets/flags/LVA.png",
+            "attachment": "attachment://LVA.png",
             "emoji": "🇱🇻"
         }
     },
@@ -5370,8 +5370,8 @@
         ],
         "area": "30 km²",
         "flag": {
-            "image": "src/assets/flags/MAC.png",
-            "url": "attachment://MAC.png",
+            "url": "src/assets/flags/MAC.png",
+            "attachment": "attachment://MAC.png",
             "emoji": "🇲🇴"
         }
     },
@@ -5402,8 +5402,8 @@
         ],
         "area": "53 km²",
         "flag": {
-            "image": "src/assets/flags/MAF.png",
-            "url": "attachment://MAF.png",
+            "url": "src/assets/flags/MAF.png",
+            "attachment": "attachment://MAF.png",
             "emoji": "🇲🇫"
         }
     },
@@ -5443,8 +5443,8 @@
         ],
         "area": "446550 km²",
         "flag": {
-            "image": "src/assets/flags/MAR.png",
-            "url": "attachment://MAR.png",
+            "url": "src/assets/flags/MAR.png",
+            "attachment": "attachment://MAR.png",
             "emoji": "🇲🇦"
         }
     },
@@ -5475,8 +5475,8 @@
         ],
         "area": "2.02 km²",
         "flag": {
-            "image": "src/assets/flags/MCO.png",
-            "url": "attachment://MCO.png",
+            "url": "src/assets/flags/MCO.png",
+            "attachment": "attachment://MCO.png",
             "emoji": "🇲🇨"
         }
     },
@@ -5511,8 +5511,8 @@
         ],
         "area": "33846 km²",
         "flag": {
-            "image": "src/assets/flags/MDA.png",
-            "url": "attachment://MDA.png",
+            "url": "src/assets/flags/MDA.png",
+            "attachment": "attachment://MDA.png",
             "emoji": "🇲🇩"
         }
     },
@@ -5539,8 +5539,8 @@
         "borders": [],
         "area": "587041 km²",
         "flag": {
-            "image": "src/assets/flags/MDG.png",
-            "url": "attachment://MDG.png",
+            "url": "src/assets/flags/MDG.png",
+            "attachment": "attachment://MDG.png",
             "emoji": "🇲🇬"
         }
     },
@@ -5566,8 +5566,8 @@
         "borders": [],
         "area": "300 km²",
         "flag": {
-            "image": "src/assets/flags/MDV.png",
-            "url": "attachment://MDV.png",
+            "url": "src/assets/flags/MDV.png",
+            "attachment": "attachment://MDV.png",
             "emoji": "🇲🇻"
         }
     },
@@ -5606,8 +5606,8 @@
         ],
         "area": "1964375 km²",
         "flag": {
-            "image": "src/assets/flags/MEX.png",
-            "url": "attachment://MEX.png",
+            "url": "src/assets/flags/MEX.png",
+            "attachment": "attachment://MEX.png",
             "emoji": "🇲🇽"
         }
     },
@@ -5634,8 +5634,8 @@
         "borders": [],
         "area": "181 km²",
         "flag": {
-            "image": "src/assets/flags/MHL.png",
-            "url": "attachment://MHL.png",
+            "url": "src/assets/flags/MHL.png",
+            "attachment": "attachment://MHL.png",
             "emoji": "🇲🇭"
         }
     },
@@ -5682,8 +5682,8 @@
         ],
         "area": "25713 km²",
         "flag": {
-            "image": "src/assets/flags/MKD.png",
-            "url": "attachment://MKD.png",
+            "url": "src/assets/flags/MKD.png",
+            "attachment": "attachment://MKD.png",
             "emoji": "🇲🇰"
         }
     },
@@ -5738,8 +5738,8 @@
         ],
         "area": "1240192 km²",
         "flag": {
-            "image": "src/assets/flags/MLI.png",
-            "url": "attachment://MLI.png",
+            "url": "src/assets/flags/MLI.png",
+            "attachment": "attachment://MLI.png",
             "emoji": "🇲🇱"
         }
     },
@@ -5766,8 +5766,8 @@
         "borders": [],
         "area": "316 km²",
         "flag": {
-            "image": "src/assets/flags/MLT.png",
-            "url": "attachment://MLT.png",
+            "url": "src/assets/flags/MLT.png",
+            "attachment": "attachment://MLT.png",
             "emoji": "🇲🇹"
         }
     },
@@ -5814,8 +5814,8 @@
         ],
         "area": "676578 km²",
         "flag": {
-            "image": "src/assets/flags/MMR.png",
-            "url": "attachment://MMR.png",
+            "url": "src/assets/flags/MMR.png",
+            "attachment": "attachment://MMR.png",
             "emoji": "🇲🇲"
         }
     },
@@ -5862,8 +5862,8 @@
         ],
         "area": "13812 km²",
         "flag": {
-            "image": "src/assets/flags/MNE.png",
-            "url": "attachment://MNE.png",
+            "url": "src/assets/flags/MNE.png",
+            "attachment": "attachment://MNE.png",
             "emoji": "🇲🇪"
         }
     },
@@ -5898,8 +5898,8 @@
         ],
         "area": "1564110 km²",
         "flag": {
-            "image": "src/assets/flags/MNG.png",
-            "url": "attachment://MNG.png",
+            "url": "src/assets/flags/MNG.png",
+            "attachment": "attachment://MNG.png",
             "emoji": "🇲🇳"
         }
     },
@@ -5927,8 +5927,8 @@
         "borders": [],
         "area": "464 km²",
         "flag": {
-            "image": "src/assets/flags/MNP.png",
-            "url": "attachment://MNP.png",
+            "url": "src/assets/flags/MNP.png",
+            "attachment": "attachment://MNP.png",
             "emoji": "🇲🇵"
         }
     },
@@ -5979,8 +5979,8 @@
         ],
         "area": "801590 km²",
         "flag": {
-            "image": "src/assets/flags/MOZ.png",
-            "url": "attachment://MOZ.png",
+            "url": "src/assets/flags/MOZ.png",
+            "attachment": "attachment://MOZ.png",
             "emoji": "🇲🇿"
         }
     },
@@ -6023,8 +6023,8 @@
         ],
         "area": "1030700 km²",
         "flag": {
-            "image": "src/assets/flags/MRT.png",
-            "url": "attachment://MRT.png",
+            "url": "src/assets/flags/MRT.png",
+            "attachment": "attachment://MRT.png",
             "emoji": "🇲🇷"
         }
     },
@@ -6050,8 +6050,8 @@
         "borders": [],
         "area": "102 km²",
         "flag": {
-            "image": "src/assets/flags/MSR.png",
-            "url": "attachment://MSR.png",
+            "url": "src/assets/flags/MSR.png",
+            "attachment": "attachment://MSR.png",
             "emoji": "🇲🇸"
         }
     },
@@ -6077,8 +6077,8 @@
         "borders": [],
         "area": "1128 km²",
         "flag": {
-            "image": "src/assets/flags/MTQ.png",
-            "url": "attachment://MTQ.png",
+            "url": "src/assets/flags/MTQ.png",
+            "attachment": "attachment://MTQ.png",
             "emoji": "🇲🇶"
         }
     },
@@ -6106,8 +6106,8 @@
         "borders": [],
         "area": "2040 km²",
         "flag": {
-            "image": "src/assets/flags/MUS.png",
-            "url": "attachment://MUS.png",
+            "url": "src/assets/flags/MUS.png",
+            "attachment": "attachment://MUS.png",
             "emoji": "🇲🇺"
         }
     },
@@ -6147,8 +6147,8 @@
         ],
         "area": "118484 km²",
         "flag": {
-            "image": "src/assets/flags/MWI.png",
-            "url": "attachment://MWI.png",
+            "url": "src/assets/flags/MWI.png",
+            "attachment": "attachment://MWI.png",
             "emoji": "🇲🇼"
         }
     },
@@ -6188,8 +6188,8 @@
         ],
         "area": "330803 km²",
         "flag": {
-            "image": "src/assets/flags/MYS.png",
-            "url": "attachment://MYS.png",
+            "url": "src/assets/flags/MYS.png",
+            "attachment": "attachment://MYS.png",
             "emoji": "🇲🇾"
         }
     },
@@ -6215,8 +6215,8 @@
         "borders": [],
         "area": "374 km²",
         "flag": {
-            "image": "src/assets/flags/MYT.png",
-            "url": "attachment://MYT.png",
+            "url": "src/assets/flags/MYT.png",
+            "attachment": "attachment://MYT.png",
             "emoji": "🇾🇹"
         }
     },
@@ -6268,8 +6268,8 @@
         ],
         "area": "825615 km²",
         "flag": {
-            "image": "src/assets/flags/NAM.png",
-            "url": "attachment://NAM.png",
+            "url": "src/assets/flags/NAM.png",
+            "attachment": "attachment://NAM.png",
             "emoji": "🇳🇦"
         }
     },
@@ -6295,8 +6295,8 @@
         "borders": [],
         "area": "18575 km²",
         "flag": {
-            "image": "src/assets/flags/NCL.png",
-            "url": "attachment://NCL.png",
+            "url": "src/assets/flags/NCL.png",
+            "attachment": "attachment://NCL.png",
             "emoji": "🇳🇨"
         }
     },
@@ -6351,8 +6351,8 @@
         ],
         "area": "1267000 km²",
         "flag": {
-            "image": "src/assets/flags/NER.png",
-            "url": "attachment://NER.png",
+            "url": "src/assets/flags/NER.png",
+            "attachment": "attachment://NER.png",
             "emoji": "🇳🇪"
         }
     },
@@ -6379,8 +6379,8 @@
         "borders": [],
         "area": "36 km²",
         "flag": {
-            "image": "src/assets/flags/NFK.png",
-            "url": "attachment://NFK.png",
+            "url": "src/assets/flags/NFK.png",
+            "attachment": "attachment://NFK.png",
             "emoji": "🇳🇫"
         }
     },
@@ -6423,8 +6423,8 @@
         ],
         "area": "923768 km²",
         "flag": {
-            "image": "src/assets/flags/NGA.png",
-            "url": "attachment://NGA.png",
+            "url": "src/assets/flags/NGA.png",
+            "attachment": "attachment://NGA.png",
             "emoji": "🇳🇬"
         }
     },
@@ -6459,8 +6459,8 @@
         ],
         "area": "130373 km²",
         "flag": {
-            "image": "src/assets/flags/NIC.png",
-            "url": "attachment://NIC.png",
+            "url": "src/assets/flags/NIC.png",
+            "attachment": "attachment://NIC.png",
             "emoji": "🇳🇮"
         }
     },
@@ -6487,8 +6487,8 @@
         "borders": [],
         "area": "260 km²",
         "flag": {
-            "image": "src/assets/flags/NIU.png",
-            "url": "attachment://NIU.png",
+            "url": "src/assets/flags/NIU.png",
+            "attachment": "attachment://NIU.png",
             "emoji": "🇳🇺"
         }
     },
@@ -6523,8 +6523,8 @@
         ],
         "area": "41850 km²",
         "flag": {
-            "image": "src/assets/flags/NLD.png",
-            "url": "attachment://NLD.png",
+            "url": "src/assets/flags/NLD.png",
+            "attachment": "attachment://NLD.png",
             "emoji": "🇳🇱"
         }
     },
@@ -6565,8 +6565,8 @@
         ],
         "area": "323802 km²",
         "flag": {
-            "image": "src/assets/flags/NOR.png",
-            "url": "attachment://NOR.png",
+            "url": "src/assets/flags/NOR.png",
+            "attachment": "attachment://NOR.png",
             "emoji": "🇳🇴"
         }
     },
@@ -6601,8 +6601,8 @@
         ],
         "area": "147181 km²",
         "flag": {
-            "image": "src/assets/flags/NPL.png",
-            "url": "attachment://NPL.png",
+            "url": "src/assets/flags/NPL.png",
+            "attachment": "attachment://NPL.png",
             "emoji": "🇳🇵"
         }
     },
@@ -6629,8 +6629,8 @@
         "borders": [],
         "area": "21 km²",
         "flag": {
-            "image": "src/assets/flags/NRU.png",
-            "url": "attachment://NRU.png",
+            "url": "src/assets/flags/NRU.png",
+            "attachment": "attachment://NRU.png",
             "emoji": "🇳🇷"
         }
     },
@@ -6658,8 +6658,8 @@
         "borders": [],
         "area": "270467 km²",
         "flag": {
-            "image": "src/assets/flags/NZL.png",
-            "url": "attachment://NZL.png",
+            "url": "src/assets/flags/NZL.png",
+            "attachment": "attachment://NZL.png",
             "emoji": "🇳🇿"
         }
     },
@@ -6698,8 +6698,8 @@
         ],
         "area": "309500 km²",
         "flag": {
-            "image": "src/assets/flags/OMN.png",
-            "url": "attachment://OMN.png",
+            "url": "src/assets/flags/OMN.png",
+            "attachment": "attachment://OMN.png",
             "emoji": "🇴🇲"
         }
     },
@@ -6743,8 +6743,8 @@
         ],
         "area": "881912 km²",
         "flag": {
-            "image": "src/assets/flags/PAK.png",
-            "url": "attachment://PAK.png",
+            "url": "src/assets/flags/PAK.png",
+            "attachment": "attachment://PAK.png",
             "emoji": "🇵🇰"
         }
     },
@@ -6780,8 +6780,8 @@
         ],
         "area": "75417 km²",
         "flag": {
-            "image": "src/assets/flags/PAN.png",
-            "url": "attachment://PAN.png",
+            "url": "src/assets/flags/PAN.png",
+            "attachment": "attachment://PAN.png",
             "emoji": "🇵🇦"
         }
     },
@@ -6807,8 +6807,8 @@
         "borders": [],
         "area": "47 km²",
         "flag": {
-            "image": "src/assets/flags/PCN.png",
-            "url": "attachment://PCN.png",
+            "url": "src/assets/flags/PCN.png",
+            "attachment": "attachment://PCN.png",
             "emoji": "🇵🇳"
         }
     },
@@ -6857,8 +6857,8 @@
         ],
         "area": "1285216 km²",
         "flag": {
-            "image": "src/assets/flags/PER.png",
-            "url": "attachment://PER.png",
+            "url": "src/assets/flags/PER.png",
+            "attachment": "attachment://PER.png",
             "emoji": "🇵🇪"
         }
     },
@@ -6885,8 +6885,8 @@
         "borders": [],
         "area": "342353 km²",
         "flag": {
-            "image": "src/assets/flags/PHL.png",
-            "url": "attachment://PHL.png",
+            "url": "src/assets/flags/PHL.png",
+            "attachment": "attachment://PHL.png",
             "emoji": "🇵🇭"
         }
     },
@@ -6913,8 +6913,8 @@
         "borders": [],
         "area": "459 km²",
         "flag": {
-            "image": "src/assets/flags/PLW.png",
-            "url": "attachment://PLW.png",
+            "url": "src/assets/flags/PLW.png",
+            "attachment": "attachment://PLW.png",
             "emoji": "🇵🇼"
         }
     },
@@ -6947,8 +6947,8 @@
         ],
         "area": "462840 km²",
         "flag": {
-            "image": "src/assets/flags/PNG.png",
-            "url": "attachment://PNG.png",
+            "url": "src/assets/flags/PNG.png",
+            "attachment": "attachment://PNG.png",
             "emoji": "🇵🇬"
         }
     },
@@ -7003,8 +7003,8 @@
         ],
         "area": "312679 km²",
         "flag": {
-            "image": "src/assets/flags/POL.png",
-            "url": "attachment://POL.png",
+            "url": "src/assets/flags/POL.png",
+            "attachment": "attachment://POL.png",
             "emoji": "🇵🇱"
         }
     },
@@ -7031,8 +7031,8 @@
         "borders": [],
         "area": "8870 km²",
         "flag": {
-            "image": "src/assets/flags/PRI.png",
-            "url": "attachment://PRI.png",
+            "url": "src/assets/flags/PRI.png",
+            "attachment": "attachment://PRI.png",
             "emoji": "🇵🇷"
         }
     },
@@ -7071,8 +7071,8 @@
         ],
         "area": "120538 km²",
         "flag": {
-            "image": "src/assets/flags/PRK.png",
-            "url": "attachment://PRK.png",
+            "url": "src/assets/flags/PRK.png",
+            "attachment": "attachment://PRK.png",
             "emoji": "🇰🇵"
         }
     },
@@ -7103,8 +7103,8 @@
         ],
         "area": "92090 km²",
         "flag": {
-            "image": "src/assets/flags/PRT.png",
-            "url": "attachment://PRT.png",
+            "url": "src/assets/flags/PRT.png",
+            "attachment": "attachment://PRT.png",
             "emoji": "🇵🇹"
         }
     },
@@ -7144,8 +7144,8 @@
         ],
         "area": "406752 km²",
         "flag": {
-            "image": "src/assets/flags/PRY.png",
-            "url": "attachment://PRY.png",
+            "url": "src/assets/flags/PRY.png",
+            "attachment": "attachment://PRY.png",
             "emoji": "🇵🇾"
         }
     },
@@ -7186,8 +7186,8 @@
         ],
         "area": "6220 km²",
         "flag": {
-            "image": "src/assets/flags/PSE.png",
-            "url": "attachment://PSE.png",
+            "url": "src/assets/flags/PSE.png",
+            "attachment": "attachment://PSE.png",
             "emoji": "🇵🇸"
         }
     },
@@ -7213,8 +7213,8 @@
         "borders": [],
         "area": "4167 km²",
         "flag": {
-            "image": "src/assets/flags/PYF.png",
-            "url": "attachment://PYF.png",
+            "url": "src/assets/flags/PYF.png",
+            "attachment": "attachment://PYF.png",
             "emoji": "🇵🇫"
         }
     },
@@ -7245,8 +7245,8 @@
         ],
         "area": "11586 km²",
         "flag": {
-            "image": "src/assets/flags/QAT.png",
-            "url": "attachment://QAT.png",
+            "url": "src/assets/flags/QAT.png",
+            "attachment": "attachment://QAT.png",
             "emoji": "🇶🇦"
         }
     },
@@ -7272,8 +7272,8 @@
         "borders": [],
         "area": "2511 km²",
         "flag": {
-            "image": "src/assets/flags/REU.png",
-            "url": "attachment://REU.png",
+            "url": "src/assets/flags/REU.png",
+            "attachment": "attachment://REU.png",
             "emoji": "🇷🇪"
         }
     },
@@ -7320,8 +7320,8 @@
         ],
         "area": "238391 km²",
         "flag": {
-            "image": "src/assets/flags/ROU.png",
-            "url": "attachment://ROU.png",
+            "url": "src/assets/flags/ROU.png",
+            "attachment": "attachment://ROU.png",
             "emoji": "🇷🇴"
         }
     },
@@ -7404,8 +7404,8 @@
         ],
         "area": "17098242 km²",
         "flag": {
-            "image": "src/assets/flags/RUS.png",
-            "url": "attachment://RUS.png",
+            "url": "src/assets/flags/RUS.png",
+            "attachment": "attachment://RUS.png",
             "emoji": "🇷🇺"
         }
     },
@@ -7450,8 +7450,8 @@
         ],
         "area": "26338 km²",
         "flag": {
-            "image": "src/assets/flags/RWA.png",
-            "url": "attachment://RWA.png",
+            "url": "src/assets/flags/RWA.png",
+            "attachment": "attachment://RWA.png",
             "emoji": "🇷🇼"
         }
     },
@@ -7506,8 +7506,8 @@
         ],
         "area": "2149690 km²",
         "flag": {
-            "image": "src/assets/flags/SAU.png",
-            "url": "attachment://SAU.png",
+            "url": "src/assets/flags/SAU.png",
+            "attachment": "attachment://SAU.png",
             "emoji": "🇸🇦"
         }
     },
@@ -7563,8 +7563,8 @@
         ],
         "area": "1886068 km²",
         "flag": {
-            "image": "src/assets/flags/SDN.png",
-            "url": "attachment://SDN.png",
+            "url": "src/assets/flags/SDN.png",
+            "attachment": "attachment://SDN.png",
             "emoji": "🇸🇩"
         }
     },
@@ -7611,8 +7611,8 @@
         ],
         "area": "196722 km²",
         "flag": {
-            "image": "src/assets/flags/SEN.png",
-            "url": "attachment://SEN.png",
+            "url": "src/assets/flags/SEN.png",
+            "attachment": "attachment://SEN.png",
             "emoji": "🇸🇳"
         }
     },
@@ -7641,8 +7641,8 @@
         "borders": [],
         "area": "710 km²",
         "flag": {
-            "image": "src/assets/flags/SGP.png",
-            "url": "attachment://SGP.png",
+            "url": "src/assets/flags/SGP.png",
+            "attachment": "attachment://SGP.png",
             "emoji": "🇸🇬"
         }
     },
@@ -7668,8 +7668,8 @@
         "borders": [],
         "area": "3903 km²",
         "flag": {
-            "image": "src/assets/flags/SGS.png",
-            "url": "attachment://SGS.png",
+            "url": "src/assets/flags/SGS.png",
+            "attachment": "attachment://SGS.png",
             "emoji": "🇬🇸"
         }
     },
@@ -7695,8 +7695,8 @@
         "borders": [],
         "area": "-1 km²",
         "flag": {
-            "image": "src/assets/flags/SJM.png",
-            "url": "attachment://SJM.png",
+            "url": "src/assets/flags/SJM.png",
+            "attachment": "attachment://SJM.png",
             "emoji": "🇸🇯"
         }
     },
@@ -7722,8 +7722,8 @@
         "borders": [],
         "area": "28896 km²",
         "flag": {
-            "image": "src/assets/flags/SLB.png",
-            "url": "attachment://SLB.png",
+            "url": "src/assets/flags/SLB.png",
+            "attachment": "attachment://SLB.png",
             "emoji": "🇸🇧"
         }
     },
@@ -7758,8 +7758,8 @@
         ],
         "area": "71740 km²",
         "flag": {
-            "image": "src/assets/flags/SLE.png",
-            "url": "attachment://SLE.png",
+            "url": "src/assets/flags/SLE.png",
+            "attachment": "attachment://SLE.png",
             "emoji": "🇸🇱"
         }
     },
@@ -7794,8 +7794,8 @@
         ],
         "area": "21041 km²",
         "flag": {
-            "image": "src/assets/flags/SLV.png",
-            "url": "attachment://SLV.png",
+            "url": "src/assets/flags/SLV.png",
+            "attachment": "attachment://SLV.png",
             "emoji": "🇸🇻"
         }
     },
@@ -7826,8 +7826,8 @@
         ],
         "area": "61 km²",
         "flag": {
-            "image": "src/assets/flags/SMR.png",
-            "url": "attachment://SMR.png",
+            "url": "src/assets/flags/SMR.png",
+            "attachment": "attachment://SMR.png",
             "emoji": "🇸🇲"
         }
     },
@@ -7867,8 +7867,8 @@
         ],
         "area": "637657 km²",
         "flag": {
-            "image": "src/assets/flags/SOM.png",
-            "url": "attachment://SOM.png",
+            "url": "src/assets/flags/SOM.png",
+            "attachment": "attachment://SOM.png",
             "emoji": "🇸🇴"
         }
     },
@@ -7894,8 +7894,8 @@
         "borders": [],
         "area": "242 km²",
         "flag": {
-            "image": "src/assets/flags/SPM.png",
-            "url": "attachment://SPM.png",
+            "url": "src/assets/flags/SPM.png",
+            "attachment": "attachment://SPM.png",
             "emoji": "🇵🇲"
         }
     },
@@ -7954,8 +7954,8 @@
         ],
         "area": "88361 km²",
         "flag": {
-            "image": "src/assets/flags/SRB.png",
-            "url": "attachment://SRB.png",
+            "url": "src/assets/flags/SRB.png",
+            "attachment": "attachment://SRB.png",
             "emoji": "🇷🇸"
         }
     },
@@ -8006,8 +8006,8 @@
         ],
         "area": "619745 km²",
         "flag": {
-            "image": "src/assets/flags/SSD.png",
-            "url": "attachment://SSD.png",
+            "url": "src/assets/flags/SSD.png",
+            "attachment": "attachment://SSD.png",
             "emoji": "🇸🇸"
         }
     },
@@ -8033,8 +8033,8 @@
         "borders": [],
         "area": "964 km²",
         "flag": {
-            "image": "src/assets/flags/STP.png",
-            "url": "attachment://STP.png",
+            "url": "src/assets/flags/STP.png",
+            "attachment": "attachment://STP.png",
             "emoji": "🇸🇹"
         }
     },
@@ -8073,8 +8073,8 @@
         ],
         "area": "163820 km²",
         "flag": {
-            "image": "src/assets/flags/SUR.png",
-            "url": "attachment://SUR.png",
+            "url": "src/assets/flags/SUR.png",
+            "attachment": "attachment://SUR.png",
             "emoji": "🇸🇷"
         }
     },
@@ -8121,8 +8121,8 @@
         ],
         "area": "49037 km²",
         "flag": {
-            "image": "src/assets/flags/SVK.png",
-            "url": "attachment://SVK.png",
+            "url": "src/assets/flags/SVK.png",
+            "attachment": "attachment://SVK.png",
             "emoji": "🇸🇰"
         }
     },
@@ -8165,8 +8165,8 @@
         ],
         "area": "20273 km²",
         "flag": {
-            "image": "src/assets/flags/SVN.png",
-            "url": "attachment://SVN.png",
+            "url": "src/assets/flags/SVN.png",
+            "attachment": "attachment://SVN.png",
             "emoji": "🇸🇮"
         }
     },
@@ -8201,8 +8201,8 @@
         ],
         "area": "450295 km²",
         "flag": {
-            "image": "src/assets/flags/SWE.png",
-            "url": "attachment://SWE.png",
+            "url": "src/assets/flags/SWE.png",
+            "attachment": "attachment://SWE.png",
             "emoji": "🇸🇪"
         }
     },
@@ -8239,8 +8239,8 @@
         ],
         "area": "17364 km²",
         "flag": {
-            "image": "src/assets/flags/SWZ.png",
-            "url": "attachment://SWZ.png",
+            "url": "src/assets/flags/SWZ.png",
+            "attachment": "attachment://SWZ.png",
             "emoji": "🇸🇿"
         }
     },
@@ -8273,8 +8273,8 @@
         ],
         "area": "34 km²",
         "flag": {
-            "image": "src/assets/flags/SXM.png",
-            "url": "attachment://SXM.png",
+            "url": "src/assets/flags/SXM.png",
+            "attachment": "attachment://SXM.png",
             "emoji": "🇸🇽"
         }
     },
@@ -8302,8 +8302,8 @@
         "borders": [],
         "area": "452 km²",
         "flag": {
-            "image": "src/assets/flags/SYC.png",
-            "url": "attachment://SYC.png",
+            "url": "src/assets/flags/SYC.png",
+            "attachment": "attachment://SYC.png",
             "emoji": "🇸🇨"
         }
     },
@@ -8350,8 +8350,8 @@
         ],
         "area": "185180 km²",
         "flag": {
-            "image": "src/assets/flags/SYR.png",
-            "url": "attachment://SYR.png",
+            "url": "src/assets/flags/SYR.png",
+            "attachment": "attachment://SYR.png",
             "emoji": "🇸🇾"
         }
     },
@@ -8377,8 +8377,8 @@
         "borders": [],
         "area": "948 km²",
         "flag": {
-            "image": "src/assets/flags/TCA.png",
-            "url": "attachment://TCA.png",
+            "url": "src/assets/flags/TCA.png",
+            "attachment": "attachment://TCA.png",
             "emoji": "🇹🇨"
         }
     },
@@ -8430,8 +8430,8 @@
         ],
         "area": "1284000 km²",
         "flag": {
-            "image": "src/assets/flags/TCD.png",
-            "url": "attachment://TCD.png",
+            "url": "src/assets/flags/TCD.png",
+            "attachment": "attachment://TCD.png",
             "emoji": "🇹🇩"
         }
     },
@@ -8470,8 +8470,8 @@
         ],
         "area": "56785 km²",
         "flag": {
-            "image": "src/assets/flags/TGO.png",
-            "url": "attachment://TGO.png",
+            "url": "src/assets/flags/TGO.png",
+            "attachment": "attachment://TGO.png",
             "emoji": "🇹🇬"
         }
     },
@@ -8514,8 +8514,8 @@
         ],
         "area": "513120 km²",
         "flag": {
-            "image": "src/assets/flags/THA.png",
-            "url": "attachment://THA.png",
+            "url": "src/assets/flags/THA.png",
+            "attachment": "attachment://THA.png",
             "emoji": "🇹🇭"
         }
     },
@@ -8559,8 +8559,8 @@
         ],
         "area": "143100 km²",
         "flag": {
-            "image": "src/assets/flags/TJK.png",
-            "url": "attachment://TJK.png",
+            "url": "src/assets/flags/TJK.png",
+            "attachment": "attachment://TJK.png",
             "emoji": "🇹🇯"
         }
     },
@@ -8588,8 +8588,8 @@
         "borders": [],
         "area": "12 km²",
         "flag": {
-            "image": "src/assets/flags/TKL.png",
-            "url": "attachment://TKL.png",
+            "url": "src/assets/flags/TKL.png",
+            "attachment": "attachment://TKL.png",
             "emoji": "🇹🇰"
         }
     },
@@ -8633,8 +8633,8 @@
         ],
         "area": "488100 km²",
         "flag": {
-            "image": "src/assets/flags/TKM.png",
-            "url": "attachment://TKM.png",
+            "url": "src/assets/flags/TKM.png",
+            "attachment": "attachment://TKM.png",
             "emoji": "🇹🇲"
         }
     },
@@ -8666,8 +8666,8 @@
         ],
         "area": "14874 km²",
         "flag": {
-            "image": "src/assets/flags/TLS.png",
-            "url": "attachment://TLS.png",
+            "url": "src/assets/flags/TLS.png",
+            "attachment": "attachment://TLS.png",
             "emoji": "🇹🇱"
         }
     },
@@ -8694,8 +8694,8 @@
         "borders": [],
         "area": "747 km²",
         "flag": {
-            "image": "src/assets/flags/TON.png",
-            "url": "attachment://TON.png",
+            "url": "src/assets/flags/TON.png",
+            "attachment": "attachment://TON.png",
             "emoji": "🇹🇴"
         }
     },
@@ -8721,8 +8721,8 @@
         "borders": [],
         "area": "5130 km²",
         "flag": {
-            "image": "src/assets/flags/TTO.png",
-            "url": "attachment://TTO.png",
+            "url": "src/assets/flags/TTO.png",
+            "attachment": "attachment://TTO.png",
             "emoji": "🇹🇹"
         }
     },
@@ -8757,8 +8757,8 @@
         ],
         "area": "163610 km²",
         "flag": {
-            "image": "src/assets/flags/TUN.png",
-            "url": "attachment://TUN.png",
+            "url": "src/assets/flags/TUN.png",
+            "attachment": "attachment://TUN.png",
             "emoji": "🇹🇳"
         }
     },
@@ -8817,8 +8817,8 @@
         ],
         "area": "783562 km²",
         "flag": {
-            "image": "src/assets/flags/TUR.png",
-            "url": "attachment://TUR.png",
+            "url": "src/assets/flags/TUR.png",
+            "attachment": "attachment://TUR.png",
             "emoji": "🇹🇷"
         }
     },
@@ -8846,8 +8846,8 @@
         "borders": [],
         "area": "26 km²",
         "flag": {
-            "image": "src/assets/flags/TUV.png",
-            "url": "attachment://TUV.png",
+            "url": "src/assets/flags/TUV.png",
+            "attachment": "attachment://TUV.png",
             "emoji": "🇹🇻"
         }
     },
@@ -8873,8 +8873,8 @@
         "borders": [],
         "area": "36193 km²",
         "flag": {
-            "image": "src/assets/flags/TWN.png",
-            "url": "attachment://TWN.png",
+            "url": "src/assets/flags/TWN.png",
+            "attachment": "attachment://TWN.png",
             "emoji": "🇹🇼"
         }
     },
@@ -8934,8 +8934,8 @@
         ],
         "area": "945087 km²",
         "flag": {
-            "image": "src/assets/flags/TZA.png",
-            "url": "attachment://TZA.png",
+            "url": "src/assets/flags/TZA.png",
+            "attachment": "attachment://TZA.png",
             "emoji": "🇹🇿"
         }
     },
@@ -8983,8 +8983,8 @@
         ],
         "area": "241550 km²",
         "flag": {
-            "image": "src/assets/flags/UGA.png",
-            "url": "attachment://UGA.png",
+            "url": "src/assets/flags/UGA.png",
+            "attachment": "attachment://UGA.png",
             "emoji": "🇺🇬"
         }
     },
@@ -9039,8 +9039,8 @@
         ],
         "area": "603500 km²",
         "flag": {
-            "image": "src/assets/flags/UKR.png",
-            "url": "attachment://UKR.png",
+            "url": "src/assets/flags/UKR.png",
+            "attachment": "attachment://UKR.png",
             "emoji": "🇺🇦"
         }
     },
@@ -9066,8 +9066,8 @@
         "borders": [],
         "area": "34.2 km²",
         "flag": {
-            "image": "src/assets/flags/UMI.png",
-            "url": "attachment://UMI.png",
+            "url": "src/assets/flags/UMI.png",
+            "attachment": "attachment://UMI.png",
             "emoji": "🇺🇲"
         }
     },
@@ -9102,8 +9102,8 @@
         ],
         "area": "181034 km²",
         "flag": {
-            "image": "src/assets/flags/URY.png",
-            "url": "attachment://URY.png",
+            "url": "src/assets/flags/URY.png",
+            "attachment": "attachment://URY.png",
             "emoji": "🇺🇾"
         }
     },
@@ -9138,8 +9138,8 @@
         ],
         "area": "9372610 km²",
         "flag": {
-            "image": "src/assets/flags/USA.png",
-            "url": "attachment://USA.png",
+            "url": "src/assets/flags/USA.png",
+            "attachment": "attachment://USA.png",
             "emoji": "🇺🇸"
         }
     },
@@ -9187,8 +9187,8 @@
         ],
         "area": "447400 km²",
         "flag": {
-            "image": "src/assets/flags/UZB.png",
-            "url": "attachment://UZB.png",
+            "url": "src/assets/flags/UZB.png",
+            "attachment": "attachment://UZB.png",
             "emoji": "🇺🇿"
         }
     },
@@ -9220,8 +9220,8 @@
         ],
         "area": "0.44 km²",
         "flag": {
-            "image": "src/assets/flags/VAT.png",
-            "url": "attachment://VAT.png",
+            "url": "src/assets/flags/VAT.png",
+            "attachment": "attachment://VAT.png",
             "emoji": "🇻🇦"
         }
     },
@@ -9247,8 +9247,8 @@
         "borders": [],
         "area": "389 km²",
         "flag": {
-            "image": "src/assets/flags/VCT.png",
-            "url": "attachment://VCT.png",
+            "url": "src/assets/flags/VCT.png",
+            "attachment": "attachment://VCT.png",
             "emoji": "🇻🇨"
         }
     },
@@ -9287,8 +9287,8 @@
         ],
         "area": "916445 km²",
         "flag": {
-            "image": "src/assets/flags/VEN.png",
-            "url": "attachment://VEN.png",
+            "url": "src/assets/flags/VEN.png",
+            "attachment": "attachment://VEN.png",
             "emoji": "🇻🇪"
         }
     },
@@ -9314,8 +9314,8 @@
         "borders": [],
         "area": "151 km²",
         "flag": {
-            "image": "src/assets/flags/VGB.png",
-            "url": "attachment://VGB.png",
+            "url": "src/assets/flags/VGB.png",
+            "attachment": "attachment://VGB.png",
             "emoji": "🇻🇬"
         }
     },
@@ -9341,8 +9341,8 @@
         "borders": [],
         "area": "347 km²",
         "flag": {
-            "image": "src/assets/flags/VIR.png",
-            "url": "attachment://VIR.png",
+            "url": "src/assets/flags/VIR.png",
+            "attachment": "attachment://VIR.png",
             "emoji": "🇻🇮"
         }
     },
@@ -9381,8 +9381,8 @@
         ],
         "area": "331212 km²",
         "flag": {
-            "image": "src/assets/flags/VNM.png",
-            "url": "attachment://VNM.png",
+            "url": "src/assets/flags/VNM.png",
+            "attachment": "attachment://VNM.png",
             "emoji": "🇻🇳"
         }
     },
@@ -9410,8 +9410,8 @@
         "borders": [],
         "area": "12189 km²",
         "flag": {
-            "image": "src/assets/flags/VUT.png",
-            "url": "attachment://VUT.png",
+            "url": "src/assets/flags/VUT.png",
+            "attachment": "attachment://VUT.png",
             "emoji": "🇻🇺"
         }
     },
@@ -9437,8 +9437,8 @@
         "borders": [],
         "area": "142 km²",
         "flag": {
-            "image": "src/assets/flags/WLF.png",
-            "url": "attachment://WLF.png",
+            "url": "src/assets/flags/WLF.png",
+            "attachment": "attachment://WLF.png",
             "emoji": "🇼🇫"
         }
     },
@@ -9465,8 +9465,8 @@
         "borders": [],
         "area": "2842 km²",
         "flag": {
-            "image": "src/assets/flags/WSM.png",
-            "url": "attachment://WSM.png",
+            "url": "src/assets/flags/WSM.png",
+            "attachment": "attachment://WSM.png",
             "emoji": "🇼🇸"
         }
     },
@@ -9501,8 +9501,8 @@
         ],
         "area": "527968 km²",
         "flag": {
-            "image": "src/assets/flags/YEM.png",
-            "url": "attachment://YEM.png",
+            "url": "src/assets/flags/YEM.png",
+            "attachment": "attachment://YEM.png",
             "emoji": "🇾🇪"
         }
     },
@@ -9565,8 +9565,8 @@
         ],
         "area": "1221037 km²",
         "flag": {
-            "image": "src/assets/flags/ZAF.png",
-            "url": "attachment://ZAF.png",
+            "url": "src/assets/flags/ZAF.png",
+            "attachment": "attachment://ZAF.png",
             "emoji": "🇿🇦"
         }
     },
@@ -9625,8 +9625,8 @@
         ],
         "area": "752612 km²",
         "flag": {
-            "image": "src/assets/flags/ZMB.png",
-            "url": "attachment://ZMB.png",
+            "url": "src/assets/flags/ZMB.png",
+            "attachment": "attachment://ZMB.png",
             "emoji": "🇿🇲"
         }
     },
@@ -9691,8 +9691,8 @@
         ],
         "area": "390757 km²",
         "flag": {
-            "image": "src/assets/flags/ZWE.png",
-            "url": "attachment://ZWE.png",
+            "url": "src/assets/flags/ZWE.png",
+            "attachment": "attachment://ZWE.png",
             "emoji": "🇿🇼"
         }
     }

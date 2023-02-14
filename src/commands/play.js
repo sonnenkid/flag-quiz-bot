@@ -30,6 +30,7 @@ module.exports = {
         const { id: userID } = interaction.user;
 
         const { strings, countries } = languageFiles.get(userLanguage);
+        countries = countries.filter(country => country.independent);
 
         if (playLock.has(serverID)) {
             interaction.reply(strings["IN_USE"]);
@@ -44,23 +45,22 @@ module.exports = {
 
         playLock.set(serverID, true);
 
-        const attachments = [];
+        const session = [];
 
         for (let i = 0; i < 5; i++) {
             const index = Math.floor(Math.random() * countries.length);
-            const { cca2, flag, name } = countries.splice(index, 1)[0];
-            const flagImage = new AttachmentBuilder(`src/assets/flags/${cca2}.png`);
-            const messageEmbed = new EmbedBuilder();
-            messageEmbed.setTitle(strings['GUESS']);
-            messageEmbed.setImage(`attachment://${cca2}.png`);
-            messageEmbed.setColor('#FFFFFF');
-            const attachment = {
-                embed: messageEmbed,
-                file: flagImage,
-                answers: [name.official, name.common],
-                emoji: flag
-            }
-            attachments.push(attachment);
+            const [country] = countries.splice(index, 1);
+            const flag = new AttachmentBuilder()
+                .setFile(country.flag.url);
+            const embed = new EmbedBuilder()
+                .setTitle(strings['GUESS'])
+                .setImage(country.flag.attachment)
+                .setColor('#FFFFFF');
+            session.push({
+                content: { embeds: [embed], files: [flag] },
+                answers: [country.name.official, country.name.common],
+                reaction: country.flag.emoji
+            });
         }
 
         let sessionCorrectAnswers = 0;
@@ -69,22 +69,18 @@ module.exports = {
         try {
             await interaction.reply(strings['STARTING']);
             let message = null;
-            for (const attachment of attachments) {
-                const { embed, file, answers, emoji } = attachment;
-                if (message) message.edit({ embeds: [embed], files: [file] });
-                else message = await interaction.channel.send({ embeds: [embed], files: [file] });
+            for (const { content, answers, reaction } of session) {
+                if (message) message.edit(content);
+                else message = await interaction.channel.send(content);
 
-                const filter = response => {
-                    return answers.some(r => normalizeText(r) === normalizeText(response.content) && userID === response.author.id);
-                }
+                const filter = response => { return answers.some(answer => normalizeText(answer) === normalizeText(response.content) && userID === response.author.id) }
                 await interaction.channel.awaitMessages({ filter, max: 1, time: 10000, errors: ['time'] })
                     .then((collected) => {
-                        collected.first().react(emoji);
+                        collected.first().react(reaction);
                         sessionScore += 10;
                         sessionCorrectAnswers++;
                     })
-                    .catch((err) => {
-                    })
+                    .catch();
             }
             interaction.channel.send(`${strings['CORRECT_ANSWERS'].replace(/%REPL%/g, sessionCorrectAnswers)}. ${strings['POINTS'].replace(/%REPL%/g, sessionScore)}`);
             connection.query("INSERT INTO scores (discord_id, score, last_played, times_played) VALUES (?, ?, ?, default) ON DUPLICATE KEY UPDATE score=score+VALUES(score), last_played=VALUES(last_played), times_played=times_played+1", [userID, sessionScore, today]);

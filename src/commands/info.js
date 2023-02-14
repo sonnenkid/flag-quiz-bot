@@ -31,15 +31,19 @@ module.exports = {
             return;
         }
 
-        const messageEmbed = new EmbedBuilder();
-        const flagImage = new AttachmentBuilder(`src/assets/flags/${country.cca2}.png`);
-        messageEmbed.setAuthor({ name: `${country.name.common.toUpperCase()}`, iconURL: `attachment://${country.cca2}.png` });
-        messageEmbed.setImage(`attachment://${country.cca2}.png`);
-        messageEmbed.setColor('#e0e0e0');
+
+        const flag = new AttachmentBuilder()
+            .setFile(country.flag.url);
+        const embed = new EmbedBuilder()
+            .setAuthor({ name: country.name.common.toUpperCase(), iconURL: country.flag.attachment })
+            .setImage(country.flag.attachment)
+            .setColor('e0e0e0');
 
         let bordersText = '';
         if (country.borders.length) {
-            country.borders.forEach(b => bordersText += `${b.flag} ${b.name}\n`);
+            for (const border of country.borders) {
+                bordersText += `${border.flag} ${border.name}\n`
+            }
         }
         else {
             bordersText += strings['DOES_NOT_HAVE'];
@@ -47,13 +51,15 @@ module.exports = {
 
         let capitalsText = '';
         if (country.capital.length) {
-            country.capital.forEach(c => capitalsText += `${c}\n`);
+            for (const capital of country.capital) {
+                capitalsText += `${capital}\n`
+            }
         }
         else {
             capitalsText += strings['DOES_NOT_HAVE'];
         }
 
-        messageEmbed.addFields(
+        embed.addFields(
             {
                 name: strings['OFFICIAL_NAME'],
                 value: styleCodeBlock(addLineBreaks(country.name.official, 30))
@@ -64,7 +70,7 @@ module.exports = {
             },
             {
                 name: strings['CONTINENT'],
-                value: styleCodeBlock(country.continent),
+                value: styleCodeBlock(country.region),
                 inline: true
             },
             {
@@ -78,11 +84,11 @@ module.exports = {
             },
             {
                 name: strings['AREA'],
-                value: styleCodeBlock(country.area + 'km²')
+                value: styleCodeBlock(country.area)
             }
         )
 
-        interaction.reply({ embeds: [messageEmbed], files: [flagImage] });
+        interaction.reply({ embeds: [embed], files: [flag] });
 
     }
 }
