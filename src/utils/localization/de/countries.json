@@ -1,8 +1,8 @@
 [
     {
         "name": {
-            "common": "Aruba",
-            "official": "Aruba"
+            "official": "Aruba",
+            "common": "Aruba"
         },
         "cca2": "AW",
         "cca3": "ABW",
@@ -29,8 +29,8 @@
     },
     {
         "name": {
-            "common": "Afghanistan",
-            "official": "Islamic Republic of Afghanistan"
+            "official": "Islamische Republik Afghanistan",
+            "common": "Afghanistan"
         },
         "cca2": "AF",
         "cca3": "AFG",
@@ -62,11 +62,11 @@
                 "flag": "🇹🇲"
             },
             {
-                "name": "Uzbekistan",
+                "name": "Usbekistan",
                 "flag": "🇺🇿"
             },
             {
-                "name": "Tajikistan",
+                "name": "Tadschikistan",
                 "flag": "🇹🇯"
             },
             {
@@ -83,8 +83,8 @@
     },
     {
         "name": {
-            "common": "Angola",
-            "official": "Republic of Angola"
+            "official": "Republik Angola",
+            "common": "Angola"
         },
         "cca2": "AO",
         "cca3": "AGO",
@@ -102,15 +102,15 @@
         ],
         "borders": [
             {
-                "name": "Republic of the Congo",
+                "name": "Kongo",
                 "flag": "🇨🇬"
             },
             {
-                "name": "DR Congo",
+                "name": "DR Kongo",
                 "flag": "🇨🇩"
             },
             {
-                "name": "Zambia",
+                "name": "Sambia",
                 "flag": "🇿🇲"
             },
             {
@@ -127,8 +127,8 @@
     },
     {
         "name": {
-            "common": "Anguilla",
-            "official": "Anguilla"
+            "official": "Anguilla",
+            "common": "Anguilla"
         },
         "cca2": "AI",
         "cca3": "AIA",
@@ -154,8 +154,8 @@
     },
     {
         "name": {
-            "common": "Åland Islands",
-            "official": "Åland Islands"
+            "official": "Ålandinseln",
+            "common": "Åland"
         },
         "cca2": "AX",
         "cca3": "ALA",
@@ -181,8 +181,8 @@
     },
     {
         "name": {
-            "common": "Albania",
-            "official": "Republic of Albania"
+            "official": "Republik Albanien",
+            "common": "Albanien"
         },
         "cca2": "AL",
         "cca3": "ALB",
@@ -204,11 +204,11 @@
                 "flag": "🇲🇪"
             },
             {
-                "name": "Greece",
+                "name": "Griechenland",
                 "flag": "🇬🇷"
             },
             {
-                "name": "North Macedonia",
+                "name": "Nordmazedonien",
                 "flag": "🇲🇰"
             },
             {
@@ -225,8 +225,8 @@
     },
     {
         "name": {
-            "common": "Andorra",
-            "official": "Principality of Andorra"
+            "official": "Fürstentum Andorra",
+            "common": "Andorra"
         },
         "cca2": "AD",
         "cca3": "AND",
@@ -244,11 +244,11 @@
         ],
         "borders": [
             {
-                "name": "France",
+                "name": "Frankreich",
                 "flag": "🇫🇷"
             },
             {
-                "name": "Spain",
+                "name": "Spanien",
                 "flag": "🇪🇸"
             }
         ],
@@ -261,8 +261,8 @@
     },
     {
         "name": {
-            "common": "United Arab Emirates",
-            "official": "United Arab Emirates"
+            "official": "Vereinigte Arabische Emirate",
+            "common": "Vereinigte Arabische Emirate"
         },
         "cca2": "AE",
         "cca3": "ARE",
@@ -284,7 +284,7 @@
                 "flag": "🇴🇲"
             },
             {
-                "name": "Saudi Arabia",
+                "name": "Saudi-Arabien",
                 "flag": "🇸🇦"
             }
         ],
@@ -297,8 +297,8 @@
     },
     {
         "name": {
-            "common": "Argentina",
-            "official": "Argentine Republic"
+            "official": "Argentinische Republik",
+            "common": "Argentinien"
         },
         "cca2": "AR",
         "cca3": "ARG",
@@ -317,11 +317,11 @@
         ],
         "borders": [
             {
-                "name": "Bolivia",
+                "name": "Bolivien",
                 "flag": "🇧🇴"
             },
             {
-                "name": "Brazil",
+                "name": "Brasilien",
                 "flag": "🇧🇷"
             },
             {
@@ -346,8 +346,8 @@
     },
     {
         "name": {
-            "common": "Armenia",
-            "official": "Republic of Armenia"
+            "official": "Republik Armenien",
+            "common": "Armenien"
         },
         "cca2": "AM",
         "cca3": "ARM",
@@ -365,11 +365,11 @@
         ],
         "borders": [
             {
-                "name": "Azerbaijan",
+                "name": "Aserbaidschan",
                 "flag": "🇦🇿"
             },
             {
-                "name": "Georgia",
+                "name": "Georgien",
                 "flag": "🇬🇪"
             },
             {
@@ -377,7 +377,7 @@
                 "flag": "🇮🇷"
             },
             {
-                "name": "Turkey",
+                "name": "Türkei",
                 "flag": "🇹🇷"
             }
         ],
@@ -390,8 +390,8 @@
     },
     {
         "name": {
-            "common": "American Samoa",
-            "official": "American Samoa"
+            "official": "Amerikanisch-Samoa",
+            "common": "Amerikanisch Samoa"
         },
         "cca2": "AS",
         "cca3": "ASM",
@@ -418,8 +418,8 @@
     },
     {
         "name": {
-            "common": "Antarctica",
-            "official": "Antarctica"
+            "official": "Antarktika",
+            "common": "Antarktis"
         },
         "cca2": "AQ",
         "cca3": "ATA",
@@ -441,8 +441,8 @@
     },
     {
         "name": {
-            "common": "French Southern and Antarctic Lands",
-            "official": "Territory of the French Southern and Antarctic Lands"
+            "official": "Gebiet der Französisch Süd- und Antarktisgebiete",
+            "common": "Französische Süd und Antarktisgebiete"
         },
         "cca2": "TF",
         "cca3": "ATF",
@@ -468,8 +468,8 @@
     },
     {
         "name": {
-            "common": "Antigua and Barbuda",
-            "official": "Antigua and Barbuda"
+            "official": "Antigua und Barbuda",
+            "common": "Antigua und Barbuda"
         },
         "cca2": "AG",
         "cca3": "ATG",
@@ -495,8 +495,8 @@
     },
     {
         "name": {
-            "common": "Australia",
-            "official": "Commonwealth of Australia"
+            "official": "Commonwealth Australien",
+            "common": "Australien"
         },
         "cca2": "AU",
         "cca3": "AUS",
@@ -522,8 +522,8 @@
     },
     {
         "name": {
-            "common": "Austria",
-            "official": "Republic of Austria"
+            "official": "Republik Österreich",
+            "common": "Österreich"
         },
         "cca2": "AT",
         "cca3": "AUT",
@@ -541,19 +541,19 @@
         ],
         "borders": [
             {
-                "name": "Czechia",
+                "name": "Tschechien",
                 "flag": "🇨🇿"
             },
             {
-                "name": "Germany",
+                "name": "Deutschland",
                 "flag": "🇩🇪"
             },
             {
-                "name": "Hungary",
+                "name": "Ungarn",
                 "flag": "🇭🇺"
             },
             {
-                "name": "Italy",
+                "name": "Italien",
                 "flag": "🇮🇹"
             },
             {
@@ -561,15 +561,15 @@
                 "flag": "🇱🇮"
             },
             {
-                "name": "Slovakia",
+                "name": "Slowakei",
                 "flag": "🇸🇰"
             },
             {
-                "name": "Slovenia",
+                "name": "Slowenien",
                 "flag": "🇸🇮"
             },
             {
-                "name": "Switzerland",
+                "name": "Schweiz",
                 "flag": "🇨🇭"
             }
         ],
@@ -582,8 +582,8 @@
     },
     {
         "name": {
-            "common": "Azerbaijan",
-            "official": "Republic of Azerbaijan"
+            "official": "Republik Aserbaidschan",
+            "common": "Aserbaidschan"
         },
         "cca2": "AZ",
         "cca3": "AZE",
@@ -602,11 +602,11 @@
         ],
         "borders": [
             {
-                "name": "Armenia",
+                "name": "Armenien",
                 "flag": "🇦🇲"
             },
             {
-                "name": "Georgia",
+                "name": "Georgien",
                 "flag": "🇬🇪"
             },
             {
@@ -614,11 +614,11 @@
                 "flag": "🇮🇷"
             },
             {
-                "name": "Russia",
+                "name": "Russland",
                 "flag": "🇷🇺"
             },
             {
-                "name": "Turkey",
+                "name": "Türkei",
                 "flag": "🇹🇷"
             }
         ],
@@ -631,8 +631,8 @@
     },
     {
         "name": {
-            "common": "Burundi",
-            "official": "Republic of Burundi"
+            "official": "Republik Burundi",
+            "common": "Burundi"
         },
         "cca2": "BI",
         "cca3": "BDI",
@@ -651,15 +651,15 @@
         ],
         "borders": [
             {
-                "name": "DR Congo",
+                "name": "DR Kongo",
                 "flag": "🇨🇩"
             },
             {
-                "name": "Rwanda",
+                "name": "Ruanda",
                 "flag": "🇷🇼"
             },
             {
-                "name": "Tanzania",
+                "name": "Tansania",
                 "flag": "🇹🇿"
             }
         ],
@@ -672,8 +672,8 @@
     },
     {
         "name": {
-            "common": "Belgium",
-            "official": "Kingdom of Belgium"
+            "official": "Königreich Belgien",
+            "common": "Belgien"
         },
         "cca2": "BE",
         "cca3": "BEL",
@@ -693,19 +693,19 @@
         ],
         "borders": [
             {
-                "name": "France",
+                "name": "Frankreich",
                 "flag": "🇫🇷"
             },
             {
-                "name": "Germany",
+                "name": "Deutschland",
                 "flag": "🇩🇪"
             },
             {
-                "name": "Luxembourg",
+                "name": "Luxemburg",
                 "flag": "🇱🇺"
             },
             {
-                "name": "Netherlands",
+                "name": "Niederlande",
                 "flag": "🇳🇱"
             }
         ],
@@ -718,8 +718,8 @@
     },
     {
         "name": {
-            "common": "Benin",
-            "official": "Republic of Benin"
+            "official": "Republik Benin",
+            "common": "Benin"
         },
         "cca2": "BJ",
         "cca3": "BEN",
@@ -762,8 +762,8 @@
     },
     {
         "name": {
-            "common": "Burkina Faso",
-            "official": "Burkina Faso"
+            "official": "Burkina Faso",
+            "common": "Burkina Faso"
         },
         "cca2": "BF",
         "cca3": "BFA",
@@ -785,7 +785,7 @@
                 "flag": "🇧🇯"
             },
             {
-                "name": "Ivory Coast",
+                "name": "Elfenbeinküste",
                 "flag": "🇨🇮"
             },
             {
@@ -814,8 +814,8 @@
     },
     {
         "name": {
-            "common": "Bangladesh",
-            "official": "People's Republic of Bangladesh"
+            "official": "Volksrepublik Bangladesch",
+            "common": "Bangladesch"
         },
         "cca2": "BD",
         "cca3": "BGD",
@@ -837,7 +837,7 @@
                 "flag": "🇲🇲"
             },
             {
-                "name": "India",
+                "name": "Indien",
                 "flag": "🇮🇳"
             }
         ],
@@ -850,8 +850,8 @@
     },
     {
         "name": {
-            "common": "Bulgaria",
-            "official": "Republic of Bulgaria"
+            "official": "Republik Bulgarien",
+            "common": "Bulgarien"
         },
         "cca2": "BG",
         "cca3": "BGR",
@@ -869,23 +869,23 @@
         ],
         "borders": [
             {
-                "name": "Greece",
+                "name": "Griechenland",
                 "flag": "🇬🇷"
             },
             {
-                "name": "North Macedonia",
+                "name": "Nordmazedonien",
                 "flag": "🇲🇰"
             },
             {
-                "name": "Romania",
+                "name": "Rumänien",
                 "flag": "🇷🇴"
             },
             {
-                "name": "Serbia",
+                "name": "Serbien",
                 "flag": "🇷🇸"
             },
             {
-                "name": "Turkey",
+                "name": "Türkei",
                 "flag": "🇹🇷"
             }
         ],
@@ -898,8 +898,8 @@
     },
     {
         "name": {
-            "common": "Bahrain",
-            "official": "Kingdom of Bahrain"
+            "official": "Königreich Bahrain",
+            "common": "Bahrain"
         },
         "cca2": "BH",
         "cca3": "BHR",
@@ -925,8 +925,8 @@
     },
     {
         "name": {
-            "common": "Bahamas",
-            "official": "Commonwealth of the Bahamas"
+            "official": "Commonwealth der Bahamas",
+            "common": "Bahamas"
         },
         "cca2": "BS",
         "cca3": "BHS",
@@ -953,8 +953,8 @@
     },
     {
         "name": {
-            "common": "Bosnia and Herzegovina",
-            "official": "Bosnia and Herzegovina"
+            "official": "Bosnien und Herzegowina",
+            "common": "Bosnien und Herzegowina"
         },
         "cca2": "BA",
         "cca3": "BIH",
@@ -974,7 +974,7 @@
         ],
         "borders": [
             {
-                "name": "Croatia",
+                "name": "Kroatien",
                 "flag": "🇭🇷"
             },
             {
@@ -982,7 +982,7 @@
                 "flag": "🇲🇪"
             },
             {
-                "name": "Serbia",
+                "name": "Serbien",
                 "flag": "🇷🇸"
             }
         ],
@@ -995,8 +995,8 @@
     },
     {
         "name": {
-            "common": "Saint Barthélemy",
-            "official": "Collectivity of Saint Barthélemy"
+            "official": "Gebietskörperschaft Saint-Barthélemy",
+            "common": "Saint-Barthélemy"
         },
         "cca2": "BL",
         "cca3": "BLM",
@@ -1022,8 +1022,8 @@
     },
     {
         "name": {
-            "common": "Saint Helena, Ascension and Tristan da Cunha",
-            "official": "Saint Helena, Ascension and Tristan da Cunha"
+            "official": "Sankt Helena, Ascension und Tristan da Cunha",
+            "common": "St. Helena, Ascension und Tristan da Cunha"
         },
         "cca2": "SH",
         "cca3": "SHN",
@@ -1050,8 +1050,8 @@
     },
     {
         "name": {
-            "common": "Belarus",
-            "official": "Republic of Belarus"
+            "official": "Republik Belarus",
+            "common": "Weißrussland"
         },
         "cca2": "BY",
         "cca3": "BLR",
@@ -1070,19 +1070,19 @@
         ],
         "borders": [
             {
-                "name": "Latvia",
+                "name": "Lettland",
                 "flag": "🇱🇻"
             },
             {
-                "name": "Lithuania",
+                "name": "Litauen",
                 "flag": "🇱🇹"
             },
             {
-                "name": "Poland",
+                "name": "Polen",
                 "flag": "🇵🇱"
             },
             {
-                "name": "Russia",
+                "name": "Russland",
                 "flag": "🇷🇺"
             },
             {
@@ -1099,8 +1099,8 @@
     },
     {
         "name": {
-            "common": "Belize",
-            "official": "Belize"
+            "official": "Belize",
+            "common": "Belize"
         },
         "cca2": "BZ",
         "cca3": "BLZ",
@@ -1124,7 +1124,7 @@
                 "flag": "🇬🇹"
             },
             {
-                "name": "Mexico",
+                "name": "Mexiko",
                 "flag": "🇲🇽"
             }
         ],
@@ -1137,8 +1137,8 @@
     },
     {
         "name": {
-            "common": "Bermuda",
-            "official": "Bermuda"
+            "official": "Bermuda",
+            "common": "Bermuda"
         },
         "cca2": "BM",
         "cca3": "BMU",
@@ -1164,8 +1164,8 @@
     },
     {
         "name": {
-            "common": "Bolivia",
-            "official": "Plurinational State of Bolivia"
+            "official": "Plurinationaler Staat Bolivien",
+            "common": "Bolivien"
         },
         "cca2": "BO",
         "cca3": "BOL",
@@ -1186,11 +1186,11 @@
         ],
         "borders": [
             {
-                "name": "Argentina",
+                "name": "Argentinien",
                 "flag": "🇦🇷"
             },
             {
-                "name": "Brazil",
+                "name": "Brasilien",
                 "flag": "🇧🇷"
             },
             {
@@ -1215,8 +1215,8 @@
     },
     {
         "name": {
-            "common": "Caribbean Netherlands",
-            "official": "Bonaire, Sint Eustatius and Saba"
+            "official": "Bonaire, Sint Eustatius und Saba",
+            "common": "Karibische Niederlande"
         },
         "cca2": "BQ",
         "cca3": "BES",
@@ -1246,8 +1246,8 @@
     },
     {
         "name": {
-            "common": "Brazil",
-            "official": "Federative Republic of Brazil"
+            "official": "Föderative Republik Brasilien",
+            "common": "Brasilien"
         },
         "cca2": "BR",
         "cca3": "BRA",
@@ -1265,19 +1265,19 @@
         ],
         "borders": [
             {
-                "name": "Argentina",
+                "name": "Argentinien",
                 "flag": "🇦🇷"
             },
             {
-                "name": "Bolivia",
+                "name": "Bolivien",
                 "flag": "🇧🇴"
             },
             {
-                "name": "Colombia",
+                "name": "Kolumbien",
                 "flag": "🇨🇴"
             },
             {
-                "name": "French Guiana",
+                "name": "Französisch-Guayana",
                 "flag": "🇬🇫"
             },
             {
@@ -1314,8 +1314,8 @@
     },
     {
         "name": {
-            "common": "Barbados",
-            "official": "Barbados"
+            "official": "Barbados",
+            "common": "Barbados"
         },
         "cca2": "BB",
         "cca3": "BRB",
@@ -1341,8 +1341,8 @@
     },
     {
         "name": {
-            "common": "Brunei",
-            "official": "Nation of Brunei, Abode of Peace"
+            "official": "Sultanat Brunei Darussalam",
+            "common": "Brunei"
         },
         "cca2": "BN",
         "cca3": "BRN",
@@ -1374,8 +1374,8 @@
     },
     {
         "name": {
-            "common": "Bhutan",
-            "official": "Kingdom of Bhutan"
+            "official": "Königreich Bhutan",
+            "common": "Bhutan"
         },
         "cca2": "BT",
         "cca3": "BTN",
@@ -1398,7 +1398,7 @@
                 "flag": "🇨🇳"
             },
             {
-                "name": "India",
+                "name": "Indien",
                 "flag": "🇮🇳"
             }
         ],
@@ -1411,8 +1411,8 @@
     },
     {
         "name": {
-            "common": "Bouvet Island",
-            "official": "Bouvet Island"
+            "official": "Bouvetinsel",
+            "common": "Bouvetinsel"
         },
         "cca2": "BV",
         "cca3": "BVT",
@@ -1436,8 +1436,8 @@
     },
     {
         "name": {
-            "common": "Botswana",
-            "official": "Republic of Botswana"
+            "official": "Republik Botsuana",
+            "common": "Botswana"
         },
         "cca2": "BW",
         "cca3": "BWA",
@@ -1460,15 +1460,15 @@
                 "flag": "🇳🇦"
             },
             {
-                "name": "South Africa",
+                "name": "Südafrika",
                 "flag": "🇿🇦"
             },
             {
-                "name": "Zambia",
+                "name": "Sambia",
                 "flag": "🇿🇲"
             },
             {
-                "name": "Zimbabwe",
+                "name": "Simbabwe",
                 "flag": "🇿🇼"
             }
         ],
@@ -1481,8 +1481,8 @@
     },
     {
         "name": {
-            "common": "Central African Republic",
-            "official": "Central African Republic"
+            "official": "Zentralafrikanische Republik",
+            "common": "Zentralafrikanische Republik"
         },
         "cca2": "CF",
         "cca3": "CAF",
@@ -1501,23 +1501,23 @@
         ],
         "borders": [
             {
-                "name": "Cameroon",
+                "name": "Kamerun",
                 "flag": "🇨🇲"
             },
             {
-                "name": "Chad",
+                "name": "Tschad",
                 "flag": "🇹🇩"
             },
             {
-                "name": "DR Congo",
+                "name": "DR Kongo",
                 "flag": "🇨🇩"
             },
             {
-                "name": "Republic of the Congo",
+                "name": "Kongo",
                 "flag": "🇨🇬"
             },
             {
-                "name": "South Sudan",
+                "name": "Südsudan",
                 "flag": "🇸🇸"
             },
             {
@@ -1534,8 +1534,8 @@
     },
     {
         "name": {
-            "common": "Canada",
-            "official": "Canada"
+            "official": "Kanada",
+            "common": "Kanada"
         },
         "cca2": "CA",
         "cca3": "CAN",
@@ -1554,7 +1554,7 @@
         ],
         "borders": [
             {
-                "name": "United States",
+                "name": "Vereinigte Staaten",
                 "flag": "🇺🇸"
             }
         ],
@@ -1567,8 +1567,8 @@
     },
     {
         "name": {
-            "common": "Cocos (Keeling) Islands",
-            "official": "Territory of the Cocos (Keeling) Islands"
+            "official": "Gebiet der Kokos- (Keeling-) Inseln",
+            "common": "Kokosinseln"
         },
         "cca2": "CC",
         "cca3": "CCK",
@@ -1594,8 +1594,8 @@
     },
     {
         "name": {
-            "common": "Switzerland",
-            "official": "Swiss Confederation"
+            "official": "Schweizerische Eidgenossenschaft",
+            "common": "Schweiz"
         },
         "cca2": "CH",
         "cca3": "CHE",
@@ -1616,15 +1616,15 @@
         ],
         "borders": [
             {
-                "name": "Austria",
+                "name": "Österreich",
                 "flag": "🇦🇹"
             },
             {
-                "name": "France",
+                "name": "Frankreich",
                 "flag": "🇫🇷"
             },
             {
-                "name": "Italy",
+                "name": "Italien",
                 "flag": "🇮🇹"
             },
             {
@@ -1632,7 +1632,7 @@
                 "flag": "🇱🇮"
             },
             {
-                "name": "Germany",
+                "name": "Deutschland",
                 "flag": "🇩🇪"
             }
         ],
@@ -1645,8 +1645,8 @@
     },
     {
         "name": {
-            "common": "Chile",
-            "official": "Republic of Chile"
+            "official": "Republik Chile",
+            "common": "Chile"
         },
         "cca2": "CL",
         "cca3": "CHL",
@@ -1664,11 +1664,11 @@
         ],
         "borders": [
             {
-                "name": "Argentina",
+                "name": "Argentinien",
                 "flag": "🇦🇷"
             },
             {
-                "name": "Bolivia",
+                "name": "Bolivien",
                 "flag": "🇧🇴"
             },
             {
@@ -1685,8 +1685,8 @@
     },
     {
         "name": {
-            "common": "China",
-            "official": "People's Republic of China"
+            "official": "Volksrepublik China",
+            "common": "China"
         },
         "cca2": "CN",
         "cca3": "CHN",
@@ -1716,15 +1716,15 @@
                 "flag": "🇲🇲"
             },
             {
-                "name": "Hong Kong",
+                "name": "Hongkong",
                 "flag": "🇭🇰"
             },
             {
-                "name": "India",
+                "name": "Indien",
                 "flag": "🇮🇳"
             },
             {
-                "name": "Kazakhstan",
+                "name": "Kasachstan",
                 "flag": "🇰🇿"
             },
             {
@@ -1732,11 +1732,11 @@
                 "flag": "🇳🇵"
             },
             {
-                "name": "North Korea",
+                "name": "Nordkorea",
                 "flag": "🇰🇵"
             },
             {
-                "name": "Kyrgyzstan",
+                "name": "Kirgisistan",
                 "flag": "🇰🇬"
             },
             {
@@ -1744,11 +1744,11 @@
                 "flag": "🇱🇦"
             },
             {
-                "name": "Macau",
+                "name": "Macao",
                 "flag": "🇲🇴"
             },
             {
-                "name": "Mongolia",
+                "name": "Mongolei",
                 "flag": "🇲🇳"
             },
             {
@@ -1756,11 +1756,11 @@
                 "flag": "🇵🇰"
             },
             {
-                "name": "Russia",
+                "name": "Russland",
                 "flag": "🇷🇺"
             },
             {
-                "name": "Tajikistan",
+                "name": "Tadschikistan",
                 "flag": "🇹🇯"
             },
             {
@@ -1777,8 +1777,8 @@
     },
     {
         "name": {
-            "common": "Ivory Coast",
-            "official": "Republic of Côte d'Ivoire"
+            "official": "Republik Côte d'Ivoire",
+            "common": "Elfenbeinküste"
         },
         "cca2": "CI",
         "cca3": "CIV",
@@ -1825,8 +1825,8 @@
     },
     {
         "name": {
-            "common": "Cameroon",
-            "official": "Republic of Cameroon"
+            "official": "Republik Kamerun",
+            "common": "Kamerun"
         },
         "cca2": "CM",
         "cca3": "CMR",
@@ -1845,23 +1845,23 @@
         ],
         "borders": [
             {
-                "name": "Central African Republic",
+                "name": "Zentralafrikanische Republik",
                 "flag": "🇨🇫"
             },
             {
-                "name": "Chad",
+                "name": "Tschad",
                 "flag": "🇹🇩"
             },
             {
-                "name": "Republic of the Congo",
+                "name": "Kongo",
                 "flag": "🇨🇬"
             },
             {
-                "name": "Equatorial Guinea",
+                "name": "Äquatorialguinea",
                 "flag": "🇬🇶"
             },
             {
-                "name": "Gabon",
+                "name": "Gabun",
                 "flag": "🇬🇦"
             },
             {
@@ -1878,8 +1878,8 @@
     },
     {
         "name": {
-            "common": "DR Congo",
-            "official": "Democratic Republic of the Congo"
+            "official": "Demokratische Republik Kongo",
+            "common": "DR Kongo"
         },
         "cca2": "CD",
         "cca3": "COD",
@@ -1909,23 +1909,23 @@
                 "flag": "🇧🇮"
             },
             {
-                "name": "Central African Republic",
+                "name": "Zentralafrikanische Republik",
                 "flag": "🇨🇫"
             },
             {
-                "name": "Republic of the Congo",
+                "name": "Kongo",
                 "flag": "🇨🇬"
             },
             {
-                "name": "Rwanda",
+                "name": "Ruanda",
                 "flag": "🇷🇼"
             },
             {
-                "name": "South Sudan",
+                "name": "Südsudan",
                 "flag": "🇸🇸"
             },
             {
-                "name": "Tanzania",
+                "name": "Tansania",
                 "flag": "🇹🇿"
             },
             {
@@ -1933,7 +1933,7 @@
                 "flag": "🇺🇬"
             },
             {
-                "name": "Zambia",
+                "name": "Sambia",
                 "flag": "🇿🇲"
             }
         ],
@@ -1946,8 +1946,8 @@
     },
     {
         "name": {
-            "common": "Republic of the Congo",
-            "official": "Republic of the Congo"
+            "official": "Republik Kongo",
+            "common": "Kongo"
         },
         "cca2": "CG",
         "cca3": "COG",
@@ -1971,19 +1971,19 @@
                 "flag": "🇦🇴"
             },
             {
-                "name": "Cameroon",
+                "name": "Kamerun",
                 "flag": "🇨🇲"
             },
             {
-                "name": "Central African Republic",
+                "name": "Zentralafrikanische Republik",
                 "flag": "🇨🇫"
             },
             {
-                "name": "DR Congo",
+                "name": "DR Kongo",
                 "flag": "🇨🇩"
             },
             {
-                "name": "Gabon",
+                "name": "Gabun",
                 "flag": "🇬🇦"
             }
         ],
@@ -1996,8 +1996,8 @@
     },
     {
         "name": {
-            "common": "Cook Islands",
-            "official": "Cook Islands"
+            "official": "Cookinseln",
+            "common": "Cookinseln"
         },
         "cca2": "CK",
         "cca3": "COK",
@@ -2025,8 +2025,8 @@
     },
     {
         "name": {
-            "common": "Colombia",
-            "official": "Republic of Colombia"
+            "official": "Republik Kolumbien",
+            "common": "Kolumbien"
         },
         "cca2": "CO",
         "cca3": "COL",
@@ -2044,7 +2044,7 @@
         ],
         "borders": [
             {
-                "name": "Brazil",
+                "name": "Brasilien",
                 "flag": "🇧🇷"
             },
             {
@@ -2073,8 +2073,8 @@
     },
     {
         "name": {
-            "common": "Comoros",
-            "official": "Union of the Comoros"
+            "official": "Union der Komoren",
+            "common": "Komoren"
         },
         "cca2": "KM",
         "cca3": "COM",
@@ -2102,8 +2102,8 @@
     },
     {
         "name": {
-            "common": "Cape Verde",
-            "official": "Republic of Cabo Verde"
+            "official": "Republik Cabo Verde",
+            "common": "Kap Verde"
         },
         "cca2": "CV",
         "cca3": "CPV",
@@ -2129,8 +2129,8 @@
     },
     {
         "name": {
-            "common": "Costa Rica",
-            "official": "Republic of Costa Rica"
+            "official": "Republik Costa Rica",
+            "common": "Costa Rica"
         },
         "cca2": "CR",
         "cca3": "CRI",
@@ -2165,8 +2165,8 @@
     },
     {
         "name": {
-            "common": "Cuba",
-            "official": "Republic of Cuba"
+            "official": "Republik Kuba",
+            "common": "Kuba"
         },
         "cca2": "CU",
         "cca3": "CUB",
@@ -2193,8 +2193,8 @@
     },
     {
         "name": {
-            "common": "Curaçao",
-            "official": "Country of Curaçao"
+            "official": "Land Curaçao",
+            "common": "Curaçao"
         },
         "cca2": "CW",
         "cca3": "CUW",
@@ -2222,8 +2222,8 @@
     },
     {
         "name": {
-            "common": "Christmas Island",
-            "official": "Territory of Christmas Island"
+            "official": "Gebiet der Weihnachtsinsel",
+            "common": "Weihnachtsinsel"
         },
         "cca2": "CX",
         "cca3": "CXR",
@@ -2249,8 +2249,8 @@
     },
     {
         "name": {
-            "common": "Cayman Islands",
-            "official": "Cayman Islands"
+            "official": "Cayman-Inseln",
+            "common": "Kaimaninseln"
         },
         "cca2": "KY",
         "cca3": "CYM",
@@ -2276,8 +2276,8 @@
     },
     {
         "name": {
-            "common": "Cyprus",
-            "official": "Republic of Cyprus"
+            "official": "Republik Zypern",
+            "common": "Zypern"
         },
         "cca2": "CY",
         "cca3": "CYP",
@@ -2304,8 +2304,8 @@
     },
     {
         "name": {
-            "common": "Czechia",
-            "official": "Czech Republic"
+            "official": "Tschechische Republik",
+            "common": "Tschechien"
         },
         "cca2": "CZ",
         "cca3": "CZE",
@@ -2324,19 +2324,19 @@
         ],
         "borders": [
             {
-                "name": "Austria",
+                "name": "Österreich",
                 "flag": "🇦🇹"
             },
             {
-                "name": "Germany",
+                "name": "Deutschland",
                 "flag": "🇩🇪"
             },
             {
-                "name": "Poland",
+                "name": "Polen",
                 "flag": "🇵🇱"
             },
             {
-                "name": "Slovakia",
+                "name": "Slowakei",
                 "flag": "🇸🇰"
             }
         ],
@@ -2349,8 +2349,8 @@
     },
     {
         "name": {
-            "common": "Germany",
-            "official": "Federal Republic of Germany"
+            "official": "Bundesrepublik Deutschland",
+            "common": "Deutschland"
         },
         "cca2": "DE",
         "cca3": "DEU",
@@ -2368,39 +2368,39 @@
         ],
         "borders": [
             {
-                "name": "Austria",
+                "name": "Österreich",
                 "flag": "🇦🇹"
             },
             {
-                "name": "Belgium",
+                "name": "Belgien",
                 "flag": "🇧🇪"
             },
             {
-                "name": "Czechia",
+                "name": "Tschechien",
                 "flag": "🇨🇿"
             },
             {
-                "name": "Denmark",
+                "name": "Dänemark",
                 "flag": "🇩🇰"
             },
             {
-                "name": "France",
+                "name": "Frankreich",
                 "flag": "🇫🇷"
             },
             {
-                "name": "Luxembourg",
+                "name": "Luxemburg",
                 "flag": "🇱🇺"
             },
             {
-                "name": "Netherlands",
+                "name": "Niederlande",
                 "flag": "🇳🇱"
             },
             {
-                "name": "Poland",
+                "name": "Polen",
                 "flag": "🇵🇱"
             },
             {
-                "name": "Switzerland",
+                "name": "Schweiz",
                 "flag": "🇨🇭"
             }
         ],
@@ -2413,8 +2413,8 @@
     },
     {
         "name": {
-            "common": "Djibouti",
-            "official": "Republic of Djibouti"
+            "official": "Republik Dschibuti",
+            "common": "Dschibuti"
         },
         "cca2": "DJ",
         "cca3": "DJI",
@@ -2437,7 +2437,7 @@
                 "flag": "🇪🇷"
             },
             {
-                "name": "Ethiopia",
+                "name": "Äthiopien",
                 "flag": "🇪🇹"
             },
             {
@@ -2454,8 +2454,8 @@
     },
     {
         "name": {
-            "common": "Dominica",
-            "official": "Commonwealth of Dominica"
+            "official": "Commonwealth von Dominica",
+            "common": "Dominica"
         },
         "cca2": "DM",
         "cca3": "DMA",
@@ -2481,8 +2481,8 @@
     },
     {
         "name": {
-            "common": "Denmark",
-            "official": "Kingdom of Denmark"
+            "official": "Königreich Dänemark",
+            "common": "Dänemark"
         },
         "cca2": "DK",
         "cca3": "DNK",
@@ -2500,7 +2500,7 @@
         ],
         "borders": [
             {
-                "name": "Germany",
+                "name": "Deutschland",
                 "flag": "🇩🇪"
             }
         ],
@@ -2513,8 +2513,8 @@
     },
     {
         "name": {
-            "common": "Dominican Republic",
-            "official": "Dominican Republic"
+            "official": "Dominikanische Republik",
+            "common": "Dominikanische Republik"
         },
         "cca2": "DO",
         "cca3": "DOM",
@@ -2545,8 +2545,8 @@
     },
     {
         "name": {
-            "common": "Algeria",
-            "official": "People's Democratic Republic of Algeria"
+            "official": "Demokratische Volksrepublik Algerien",
+            "common": "Algerien"
         },
         "cca2": "DZ",
         "cca3": "DZA",
@@ -2564,11 +2564,11 @@
         ],
         "borders": [
             {
-                "name": "Tunisia",
+                "name": "Tunesien",
                 "flag": "🇹🇳"
             },
             {
-                "name": "Libya",
+                "name": "Libyen",
                 "flag": "🇱🇾"
             },
             {
@@ -2576,11 +2576,11 @@
                 "flag": "🇳🇪"
             },
             {
-                "name": "Western Sahara",
+                "name": "Westsahara",
                 "flag": "🇪🇭"
             },
             {
-                "name": "Mauritania",
+                "name": "Mauretanien",
                 "flag": "🇲🇷"
             },
             {
@@ -2588,7 +2588,7 @@
                 "flag": "🇲🇱"
             },
             {
-                "name": "Morocco",
+                "name": "Marokko",
                 "flag": "🇲🇦"
             }
         ],
@@ -2601,8 +2601,8 @@
     },
     {
         "name": {
-            "common": "Ecuador",
-            "official": "Republic of Ecuador"
+            "official": "Republik Ecuador",
+            "common": "Ecuador"
         },
         "cca2": "EC",
         "cca3": "ECU",
@@ -2620,7 +2620,7 @@
         ],
         "borders": [
             {
-                "name": "Colombia",
+                "name": "Kolumbien",
                 "flag": "🇨🇴"
             },
             {
@@ -2637,8 +2637,8 @@
     },
     {
         "name": {
-            "common": "Egypt",
-            "official": "Arab Republic of Egypt"
+            "official": "Arabische Republik Ägypten",
+            "common": "Ägypten"
         },
         "cca2": "EG",
         "cca3": "EGY",
@@ -2660,11 +2660,11 @@
                 "flag": "🇮🇱"
             },
             {
-                "name": "Libya",
+                "name": "Libyen",
                 "flag": "🇱🇾"
             },
             {
-                "name": "Palestine",
+                "name": "Palästina",
                 "flag": "🇵🇸"
             },
             {
@@ -2681,8 +2681,8 @@
     },
     {
         "name": {
-            "common": "Eritrea",
-            "official": "State of Eritrea"
+            "official": "Staat Eritrea",
+            "common": "Eritrea"
         },
         "cca2": "ER",
         "cca3": "ERI",
@@ -2702,11 +2702,11 @@
         ],
         "borders": [
             {
-                "name": "Djibouti",
+                "name": "Dschibuti",
                 "flag": "🇩🇯"
             },
             {
-                "name": "Ethiopia",
+                "name": "Äthiopien",
                 "flag": "🇪🇹"
             },
             {
@@ -2723,8 +2723,8 @@
     },
     {
         "name": {
-            "common": "Western Sahara",
-            "official": "Sahrawi Arab Democratic Republic"
+            "official": "Demokratische Arabische Republik Sahara",
+            "common": "Westsahara"
         },
         "cca2": "EH",
         "cca3": "ESH",
@@ -2746,15 +2746,15 @@
         ],
         "borders": [
             {
-                "name": "Algeria",
+                "name": "Algerien",
                 "flag": "🇩🇿"
             },
             {
-                "name": "Mauritania",
+                "name": "Mauretanien",
                 "flag": "🇲🇷"
             },
             {
-                "name": "Morocco",
+                "name": "Marokko",
                 "flag": "🇲🇦"
             }
         ],
@@ -2767,8 +2767,8 @@
     },
     {
         "name": {
-            "common": "Spain",
-            "official": "Kingdom of Spain"
+            "official": "Königreich Spanien",
+            "common": "Spanien"
         },
         "cca2": "ES",
         "cca3": "ESP",
@@ -2790,7 +2790,7 @@
                 "flag": "🇦🇩"
             },
             {
-                "name": "France",
+                "name": "Frankreich",
                 "flag": "🇫🇷"
             },
             {
@@ -2802,7 +2802,7 @@
                 "flag": "🇵🇹"
             },
             {
-                "name": "Morocco",
+                "name": "Marokko",
                 "flag": "🇲🇦"
             }
         ],
@@ -2815,8 +2815,8 @@
     },
     {
         "name": {
-            "common": "Estonia",
-            "official": "Republic of Estonia"
+            "official": "Republik Estland",
+            "common": "Estland"
         },
         "cca2": "EE",
         "cca3": "EST",
@@ -2834,11 +2834,11 @@
         ],
         "borders": [
             {
-                "name": "Latvia",
+                "name": "Lettland",
                 "flag": "🇱🇻"
             },
             {
-                "name": "Russia",
+                "name": "Russland",
                 "flag": "🇷🇺"
             }
         ],
@@ -2851,8 +2851,8 @@
     },
     {
         "name": {
-            "common": "Ethiopia",
-            "official": "Federal Democratic Republic of Ethiopia"
+            "official": "Demokratische Bundesrepublik Äthiopien",
+            "common": "Äthiopien"
         },
         "cca2": "ET",
         "cca3": "ETH",
@@ -2870,7 +2870,7 @@
         ],
         "borders": [
             {
-                "name": "Djibouti",
+                "name": "Dschibuti",
                 "flag": "🇩🇯"
             },
             {
@@ -2878,7 +2878,7 @@
                 "flag": "🇪🇷"
             },
             {
-                "name": "Kenya",
+                "name": "Kenia",
                 "flag": "🇰🇪"
             },
             {
@@ -2886,7 +2886,7 @@
                 "flag": "🇸🇴"
             },
             {
-                "name": "South Sudan",
+                "name": "Südsudan",
                 "flag": "🇸🇸"
             },
             {
@@ -2903,8 +2903,8 @@
     },
     {
         "name": {
-            "common": "Finland",
-            "official": "Republic of Finland"
+            "official": "Republik Finnland",
+            "common": "Finnland"
         },
         "cca2": "FI",
         "cca3": "FIN",
@@ -2923,15 +2923,15 @@
         ],
         "borders": [
             {
-                "name": "Norway",
+                "name": "Norwegen",
                 "flag": "🇳🇴"
             },
             {
-                "name": "Sweden",
+                "name": "Schweden",
                 "flag": "🇸🇪"
             },
             {
-                "name": "Russia",
+                "name": "Russland",
                 "flag": "🇷🇺"
             }
         ],
@@ -2944,8 +2944,8 @@
     },
     {
         "name": {
-            "common": "Fiji",
-            "official": "Republic of Fiji"
+            "official": "Republik Fidschi",
+            "common": "Fidschi"
         },
         "cca2": "FJ",
         "cca3": "FJI",
@@ -2973,8 +2973,8 @@
     },
     {
         "name": {
-            "common": "Falkland Islands",
-            "official": "Falkland Islands"
+            "official": "Falklandinseln",
+            "common": "Falklandinseln"
         },
         "cca2": "FK",
         "cca3": "FLK",
@@ -3000,8 +3000,8 @@
     },
     {
         "name": {
-            "common": "France",
-            "official": "French Republic"
+            "official": "Französische Republik",
+            "common": "Frankreich"
         },
         "cca2": "FR",
         "cca3": "FRA",
@@ -3023,19 +3023,19 @@
                 "flag": "🇦🇩"
             },
             {
-                "name": "Belgium",
+                "name": "Belgien",
                 "flag": "🇧🇪"
             },
             {
-                "name": "Germany",
+                "name": "Deutschland",
                 "flag": "🇩🇪"
             },
             {
-                "name": "Italy",
+                "name": "Italien",
                 "flag": "🇮🇹"
             },
             {
-                "name": "Luxembourg",
+                "name": "Luxemburg",
                 "flag": "🇱🇺"
             },
             {
@@ -3043,11 +3043,11 @@
                 "flag": "🇲🇨"
             },
             {
-                "name": "Spain",
+                "name": "Spanien",
                 "flag": "🇪🇸"
             },
             {
-                "name": "Switzerland",
+                "name": "Schweiz",
                 "flag": "🇨🇭"
             }
         ],
@@ -3060,8 +3060,8 @@
     },
     {
         "name": {
-            "common": "Faroe Islands",
-            "official": "Faroe Islands"
+            "official": "Färöer",
+            "common": "Färöer-Inseln"
         },
         "cca2": "FO",
         "cca3": "FRO",
@@ -3089,8 +3089,8 @@
     },
     {
         "name": {
-            "common": "Micronesia",
-            "official": "Federated States of Micronesia"
+            "official": "Föderierte Staaten von Mikronesien",
+            "common": "Mikronesien"
         },
         "cca2": "FM",
         "cca3": "FSM",
@@ -3114,8 +3114,8 @@
     },
     {
         "name": {
-            "common": "Gabon",
-            "official": "Gabonese Republic"
+            "official": "Gabunische Republik",
+            "common": "Gabun"
         },
         "cca2": "GA",
         "cca3": "GAB",
@@ -3133,15 +3133,15 @@
         ],
         "borders": [
             {
-                "name": "Cameroon",
+                "name": "Kamerun",
                 "flag": "🇨🇲"
             },
             {
-                "name": "Republic of the Congo",
+                "name": "Kongo",
                 "flag": "🇨🇬"
             },
             {
-                "name": "Equatorial Guinea",
+                "name": "Äquatorialguinea",
                 "flag": "🇬🇶"
             }
         ],
@@ -3154,8 +3154,8 @@
     },
     {
         "name": {
-            "common": "United Kingdom",
-            "official": "United Kingdom of Great Britain and Northern Ireland"
+            "official": "Vereinigtes Königreich Großbritannien und Nordirland",
+            "common": "Vereinigtes Königreich"
         },
         "cca2": "GB",
         "cca3": "GBR",
@@ -3173,7 +3173,7 @@
         ],
         "borders": [
             {
-                "name": "Ireland",
+                "name": "Irland",
                 "flag": "🇮🇪"
             }
         ],
@@ -3186,8 +3186,8 @@
     },
     {
         "name": {
-            "common": "Georgia",
-            "official": "Georgia"
+            "official": "Georgien",
+            "common": "Georgien"
         },
         "cca2": "GE",
         "cca3": "GEO",
@@ -3205,19 +3205,19 @@
         ],
         "borders": [
             {
-                "name": "Armenia",
+                "name": "Armenien",
                 "flag": "🇦🇲"
             },
             {
-                "name": "Azerbaijan",
+                "name": "Aserbaidschan",
                 "flag": "🇦🇿"
             },
             {
-                "name": "Russia",
+                "name": "Russland",
                 "flag": "🇷🇺"
             },
             {
-                "name": "Turkey",
+                "name": "Türkei",
                 "flag": "🇹🇷"
             }
         ],
@@ -3230,8 +3230,8 @@
     },
     {
         "name": {
-            "common": "Guernsey",
-            "official": "Bailiwick of Guernsey"
+            "official": "Vogtei Guernsey",
+            "common": "Guernsey"
         },
         "cca2": "GG",
         "cca3": "GGY",
@@ -3260,8 +3260,8 @@
     },
     {
         "name": {
-            "common": "Ghana",
-            "official": "Republic of Ghana"
+            "official": "Republik Ghana",
+            "common": "Ghana"
         },
         "cca2": "GH",
         "cca3": "GHA",
@@ -3283,7 +3283,7 @@
                 "flag": "🇧🇫"
             },
             {
-                "name": "Ivory Coast",
+                "name": "Elfenbeinküste",
                 "flag": "🇨🇮"
             },
             {
@@ -3300,8 +3300,8 @@
     },
     {
         "name": {
-            "common": "Gibraltar",
-            "official": "Gibraltar"
+            "official": "Gibraltar",
+            "common": "Gibraltar"
         },
         "cca2": "GI",
         "cca3": "GIB",
@@ -3319,7 +3319,7 @@
         ],
         "borders": [
             {
-                "name": "Spain",
+                "name": "Spanien",
                 "flag": "🇪🇸"
             }
         ],
@@ -3332,8 +3332,8 @@
     },
     {
         "name": {
-            "common": "Guinea",
-            "official": "Republic of Guinea"
+            "official": "Republik Guinea",
+            "common": "Guinea"
         },
         "cca2": "GN",
         "cca3": "GIN",
@@ -3351,7 +3351,7 @@
         ],
         "borders": [
             {
-                "name": "Ivory Coast",
+                "name": "Elfenbeinküste",
                 "flag": "🇨🇮"
             },
             {
@@ -3384,8 +3384,8 @@
     },
     {
         "name": {
-            "common": "Guadeloupe",
-            "official": "Guadeloupe"
+            "official": "Guadeloupe",
+            "common": "Guadeloupe"
         },
         "cca2": "GP",
         "cca3": "GLP",
@@ -3411,8 +3411,8 @@
     },
     {
         "name": {
-            "common": "Gambia",
-            "official": "Republic of the Gambia"
+            "official": "Republik Gambia",
+            "common": "Gambia"
         },
         "cca2": "GM",
         "cca3": "GMB",
@@ -3443,8 +3443,8 @@
     },
     {
         "name": {
-            "common": "Guinea-Bissau",
-            "official": "Republic of Guinea-Bissau"
+            "official": "Republik Guinea-Bissau",
+            "common": "Guinea-Bissau"
         },
         "cca2": "GW",
         "cca3": "GNB",
@@ -3480,8 +3480,8 @@
     },
     {
         "name": {
-            "common": "Equatorial Guinea",
-            "official": "Republic of Equatorial Guinea"
+            "official": "Republik Äquatorialguinea",
+            "common": "Äquatorialguinea"
         },
         "cca2": "GQ",
         "cca3": "GNQ",
@@ -3501,11 +3501,11 @@
         ],
         "borders": [
             {
-                "name": "Cameroon",
+                "name": "Kamerun",
                 "flag": "🇨🇲"
             },
             {
-                "name": "Gabon",
+                "name": "Gabun",
                 "flag": "🇬🇦"
             }
         ],
@@ -3518,8 +3518,8 @@
     },
     {
         "name": {
-            "common": "Greece",
-            "official": "Hellenic Republic"
+            "official": "Hellenische Republik",
+            "common": "Griechenland"
         },
         "cca2": "GR",
         "cca3": "GRC",
@@ -3537,19 +3537,19 @@
         ],
         "borders": [
             {
-                "name": "Albania",
+                "name": "Albanien",
                 "flag": "🇦🇱"
             },
             {
-                "name": "Bulgaria",
+                "name": "Bulgarien",
                 "flag": "🇧🇬"
             },
             {
-                "name": "Turkey",
+                "name": "Türkei",
                 "flag": "🇹🇷"
             },
             {
-                "name": "North Macedonia",
+                "name": "Nordmazedonien",
                 "flag": "🇲🇰"
             }
         ],
@@ -3562,8 +3562,8 @@
     },
     {
         "name": {
-            "common": "Grenada",
-            "official": "Grenada"
+            "official": "Grenada",
+            "common": "Grenada"
         },
         "cca2": "GD",
         "cca3": "GRD",
@@ -3589,8 +3589,8 @@
     },
     {
         "name": {
-            "common": "Greenland",
-            "official": "Greenland"
+            "official": "Grönland",
+            "common": "Grönland"
         },
         "cca2": "GL",
         "cca3": "GRL",
@@ -3616,8 +3616,8 @@
     },
     {
         "name": {
-            "common": "Guatemala",
-            "official": "Republic of Guatemala"
+            "official": "Republik Guatemala",
+            "common": "Guatemala"
         },
         "cca2": "GT",
         "cca3": "GTM",
@@ -3647,7 +3647,7 @@
                 "flag": "🇭🇳"
             },
             {
-                "name": "Mexico",
+                "name": "Mexiko",
                 "flag": "🇲🇽"
             }
         ],
@@ -3660,8 +3660,8 @@
     },
     {
         "name": {
-            "common": "French Guiana",
-            "official": "Guiana"
+            "official": "Französisch-Guayana",
+            "common": "Französisch-Guayana"
         },
         "cca2": "GF",
         "cca3": "GUF",
@@ -3679,7 +3679,7 @@
         ],
         "borders": [
             {
-                "name": "Brazil",
+                "name": "Brasilien",
                 "flag": "🇧🇷"
             },
             {
@@ -3696,8 +3696,8 @@
     },
     {
         "name": {
-            "common": "Guam",
-            "official": "Guam"
+            "official": "Guam",
+            "common": "Guam"
         },
         "cca2": "GU",
         "cca3": "GUM",
@@ -3725,8 +3725,8 @@
     },
     {
         "name": {
-            "common": "Guyana",
-            "official": "Co-operative Republic of Guyana"
+            "official": "Kooperative Republik Guyana",
+            "common": "Guyana"
         },
         "cca2": "GY",
         "cca3": "GUY",
@@ -3744,7 +3744,7 @@
         ],
         "borders": [
             {
-                "name": "Brazil",
+                "name": "Brasilien",
                 "flag": "🇧🇷"
             },
             {
@@ -3765,8 +3765,8 @@
     },
     {
         "name": {
-            "common": "Hong Kong",
-            "official": "Hong Kong Special Administrative Region of the People's Republic of China"
+            "official": "Sonderverwaltungszone Hongkong der Volksrepublik China",
+            "common": "Hongkong"
         },
         "cca2": "HK",
         "cca3": "HKG",
@@ -3798,8 +3798,8 @@
     },
     {
         "name": {
-            "common": "Heard Island and McDonald Islands",
-            "official": "Heard Island and McDonald Islands"
+            "official": "Heard und McDonaldinseln",
+            "common": "Heard und die McDonaldinseln"
         },
         "cca2": "HM",
         "cca3": "HMD",
@@ -3823,8 +3823,8 @@
     },
     {
         "name": {
-            "common": "Honduras",
-            "official": "Republic of Honduras"
+            "official": "Republik Honduras",
+            "common": "Honduras"
         },
         "cca2": "HN",
         "cca3": "HND",
@@ -3863,8 +3863,8 @@
     },
     {
         "name": {
-            "common": "Croatia",
-            "official": "Republic of Croatia"
+            "official": "Republik Kroatien",
+            "common": "Kroatien"
         },
         "cca2": "HR",
         "cca3": "HRV",
@@ -3882,11 +3882,11 @@
         ],
         "borders": [
             {
-                "name": "Bosnia and Herzegovina",
+                "name": "Bosnien und Herzegowina",
                 "flag": "🇧🇦"
             },
             {
-                "name": "Hungary",
+                "name": "Ungarn",
                 "flag": "🇭🇺"
             },
             {
@@ -3894,11 +3894,11 @@
                 "flag": "🇲🇪"
             },
             {
-                "name": "Serbia",
+                "name": "Serbien",
                 "flag": "🇷🇸"
             },
             {
-                "name": "Slovenia",
+                "name": "Slowenien",
                 "flag": "🇸🇮"
             }
         ],
@@ -3911,8 +3911,8 @@
     },
     {
         "name": {
-            "common": "Haiti",
-            "official": "Republic of Haiti"
+            "official": "Republik Haiti",
+            "common": "Haiti"
         },
         "cca2": "HT",
         "cca3": "HTI",
@@ -3931,7 +3931,7 @@
         ],
         "borders": [
             {
-                "name": "Dominican Republic",
+                "name": "Dominikanische Republik",
                 "flag": "🇩🇴"
             }
         ],
@@ -3944,8 +3944,8 @@
     },
     {
         "name": {
-            "common": "Hungary",
-            "official": "Hungary"
+            "official": "Ungarn",
+            "common": "Ungarn"
         },
         "cca2": "HU",
         "cca3": "HUN",
@@ -3963,27 +3963,27 @@
         ],
         "borders": [
             {
-                "name": "Austria",
+                "name": "Österreich",
                 "flag": "🇦🇹"
             },
             {
-                "name": "Croatia",
+                "name": "Kroatien",
                 "flag": "🇭🇷"
             },
             {
-                "name": "Romania",
+                "name": "Rumänien",
                 "flag": "🇷🇴"
             },
             {
-                "name": "Serbia",
+                "name": "Serbien",
                 "flag": "🇷🇸"
             },
             {
-                "name": "Slovakia",
+                "name": "Slowakei",
                 "flag": "🇸🇰"
             },
             {
-                "name": "Slovenia",
+                "name": "Slowenien",
                 "flag": "🇸🇮"
             },
             {
@@ -4000,8 +4000,8 @@
     },
     {
         "name": {
-            "common": "Indonesia",
-            "official": "Republic of Indonesia"
+            "official": "Republik Indonesien",
+            "common": "Indonesien"
         },
         "cca2": "ID",
         "cca3": "IDN",
@@ -4019,7 +4019,7 @@
         ],
         "borders": [
             {
-                "name": "Timor-Leste",
+                "name": "Osttimor",
                 "flag": "🇹🇱"
             },
             {
@@ -4027,7 +4027,7 @@
                 "flag": "🇲🇾"
             },
             {
-                "name": "Papua New Guinea",
+                "name": "Papua-Neuguinea",
                 "flag": "🇵🇬"
             }
         ],
@@ -4040,8 +4040,8 @@
     },
     {
         "name": {
-            "common": "Isle of Man",
-            "official": "Isle of Man"
+            "official": "Isle of Man",
+            "common": "Insel Man"
         },
         "cca2": "IM",
         "cca3": "IMN",
@@ -4069,8 +4069,8 @@
     },
     {
         "name": {
-            "common": "India",
-            "official": "Republic of India"
+            "official": "Republik Indien",
+            "common": "Indien"
         },
         "cca2": "IN",
         "cca3": "IND",
@@ -4090,7 +4090,7 @@
         ],
         "borders": [
             {
-                "name": "Bangladesh",
+                "name": "Bangladesch",
                 "flag": "🇧🇩"
             },
             {
@@ -4123,8 +4123,8 @@
     },
     {
         "name": {
-            "common": "British Indian Ocean Territory",
-            "official": "British Indian Ocean Territory"
+            "official": "Britisches Territorium im Indischen Ozean",
+            "common": "Britisches Territorium im Indischen Ozean"
         },
         "cca2": "IO",
         "cca3": "IOT",
@@ -4150,8 +4150,8 @@
     },
     {
         "name": {
-            "common": "Ireland",
-            "official": "Republic of Ireland"
+            "official": "Republik Irland",
+            "common": "Irland"
         },
         "cca2": "IE",
         "cca3": "IRL",
@@ -4170,7 +4170,7 @@
         ],
         "borders": [
             {
-                "name": "United Kingdom",
+                "name": "Vereinigtes Königreich",
                 "flag": "🇬🇧"
             }
         ],
@@ -4183,8 +4183,8 @@
     },
     {
         "name": {
-            "common": "Iran",
-            "official": "Islamic Republic of Iran"
+            "official": "Islamische Republik Iran",
+            "common": "Iran"
         },
         "cca2": "IR",
         "cca3": "IRN",
@@ -4206,15 +4206,15 @@
                 "flag": "🇦🇫"
             },
             {
-                "name": "Armenia",
+                "name": "Armenien",
                 "flag": "🇦🇲"
             },
             {
-                "name": "Azerbaijan",
+                "name": "Aserbaidschan",
                 "flag": "🇦🇿"
             },
             {
-                "name": "Iraq",
+                "name": "Irak",
                 "flag": "🇮🇶"
             },
             {
@@ -4222,7 +4222,7 @@
                 "flag": "🇵🇰"
             },
             {
-                "name": "Turkey",
+                "name": "Türkei",
                 "flag": "🇹🇷"
             },
             {
@@ -4239,8 +4239,8 @@
     },
     {
         "name": {
-            "common": "Iraq",
-            "official": "Republic of Iraq"
+            "official": "Republik Irak",
+            "common": "Irak"
         },
         "cca2": "IQ",
         "cca3": "IRQ",
@@ -4264,7 +4264,7 @@
                 "flag": "🇮🇷"
             },
             {
-                "name": "Jordan",
+                "name": "Jordanien",
                 "flag": "🇯🇴"
             },
             {
@@ -4272,15 +4272,15 @@
                 "flag": "🇰🇼"
             },
             {
-                "name": "Saudi Arabia",
+                "name": "Saudi-Arabien",
                 "flag": "🇸🇦"
             },
             {
-                "name": "Syria",
+                "name": "Syrien",
                 "flag": "🇸🇾"
             },
             {
-                "name": "Turkey",
+                "name": "Türkei",
                 "flag": "🇹🇷"
             }
         ],
@@ -4293,8 +4293,8 @@
     },
     {
         "name": {
-            "common": "Iceland",
-            "official": "Iceland"
+            "official": "Island",
+            "common": "Island"
         },
         "cca2": "IS",
         "cca3": "ISL",
@@ -4320,8 +4320,8 @@
     },
     {
         "name": {
-            "common": "Israel",
-            "official": "State of Israel"
+            "official": "Staat Israel",
+            "common": "Israel"
         },
         "cca2": "IL",
         "cca3": "ISR",
@@ -4340,23 +4340,23 @@
         ],
         "borders": [
             {
-                "name": "Egypt",
+                "name": "Ägypten",
                 "flag": "🇪🇬"
             },
             {
-                "name": "Jordan",
+                "name": "Jordanien",
                 "flag": "🇯🇴"
             },
             {
-                "name": "Lebanon",
+                "name": "Libanon",
                 "flag": "🇱🇧"
             },
             {
-                "name": "Palestine",
+                "name": "Palästina",
                 "flag": "🇵🇸"
             },
             {
-                "name": "Syria",
+                "name": "Syrien",
                 "flag": "🇸🇾"
             }
         ],
@@ -4369,8 +4369,8 @@
     },
     {
         "name": {
-            "common": "Italy",
-            "official": "Italian Republic"
+            "official": "Italienische Republik",
+            "common": "Italien"
         },
         "cca2": "IT",
         "cca3": "ITA",
@@ -4388,11 +4388,11 @@
         ],
         "borders": [
             {
-                "name": "Austria",
+                "name": "Österreich",
                 "flag": "🇦🇹"
             },
             {
-                "name": "France",
+                "name": "Frankreich",
                 "flag": "🇫🇷"
             },
             {
@@ -4400,15 +4400,15 @@
                 "flag": "🇸🇲"
             },
             {
-                "name": "Slovenia",
+                "name": "Slowenien",
                 "flag": "🇸🇮"
             },
             {
-                "name": "Switzerland",
+                "name": "Schweiz",
                 "flag": "🇨🇭"
             },
             {
-                "name": "Vatican City",
+                "name": "Vatikanstadt",
                 "flag": "🇻🇦"
             }
         ],
@@ -4421,8 +4421,8 @@
     },
     {
         "name": {
-            "common": "Jamaica",
-            "official": "Jamaica"
+            "official": "Jamaika",
+            "common": "Jamaika"
         },
         "cca2": "JM",
         "cca3": "JAM",
@@ -4449,8 +4449,8 @@
     },
     {
         "name": {
-            "common": "Jersey",
-            "official": "Bailiwick of Jersey"
+            "official": "Vogtei Jersey",
+            "common": "Jersey"
         },
         "cca2": "JE",
         "cca3": "JEY",
@@ -4479,8 +4479,8 @@
     },
     {
         "name": {
-            "common": "Jordan",
-            "official": "Hashemite Kingdom of Jordan"
+            "official": "Haschemitisches Königreich Jordanien",
+            "common": "Jordanien"
         },
         "cca2": "JO",
         "cca3": "JOR",
@@ -4498,7 +4498,7 @@
         ],
         "borders": [
             {
-                "name": "Iraq",
+                "name": "Irak",
                 "flag": "🇮🇶"
             },
             {
@@ -4506,15 +4506,15 @@
                 "flag": "🇮🇱"
             },
             {
-                "name": "Palestine",
+                "name": "Palästina",
                 "flag": "🇵🇸"
             },
             {
-                "name": "Saudi Arabia",
+                "name": "Saudi-Arabien",
                 "flag": "🇸🇦"
             },
             {
-                "name": "Syria",
+                "name": "Syrien",
                 "flag": "🇸🇾"
             }
         ],
@@ -4527,8 +4527,8 @@
     },
     {
         "name": {
-            "common": "Japan",
-            "official": "Japan"
+            "official": "Japan",
+            "common": "Japan"
         },
         "cca2": "JP",
         "cca3": "JPN",
@@ -4554,8 +4554,8 @@
     },
     {
         "name": {
-            "common": "Kazakhstan",
-            "official": "Republic of Kazakhstan"
+            "official": "Republik Kasachstan",
+            "common": "Kasachstan"
         },
         "cca2": "KZ",
         "cca3": "KAZ",
@@ -4578,11 +4578,11 @@
                 "flag": "🇨🇳"
             },
             {
-                "name": "Kyrgyzstan",
+                "name": "Kirgisistan",
                 "flag": "🇰🇬"
             },
             {
-                "name": "Russia",
+                "name": "Russland",
                 "flag": "🇷🇺"
             },
             {
@@ -4590,7 +4590,7 @@
                 "flag": "🇹🇲"
             },
             {
-                "name": "Uzbekistan",
+                "name": "Usbekistan",
                 "flag": "🇺🇿"
             }
         ],
@@ -4603,8 +4603,8 @@
     },
     {
         "name": {
-            "common": "Kenya",
-            "official": "Republic of Kenya"
+            "official": "Republik Kenia",
+            "common": "Kenia"
         },
         "cca2": "KE",
         "cca3": "KEN",
@@ -4623,7 +4623,7 @@
         ],
         "borders": [
             {
-                "name": "Ethiopia",
+                "name": "Äthiopien",
                 "flag": "🇪🇹"
             },
             {
@@ -4631,11 +4631,11 @@
                 "flag": "🇸🇴"
             },
             {
-                "name": "South Sudan",
+                "name": "Südsudan",
                 "flag": "🇸🇸"
             },
             {
-                "name": "Tanzania",
+                "name": "Tansania",
                 "flag": "🇹🇿"
             },
             {
@@ -4652,8 +4652,8 @@
     },
     {
         "name": {
-            "common": "Kyrgyzstan",
-            "official": "Kyrgyz Republic"
+            "official": "Kirgisische Republik",
+            "common": "Kirgisistan"
         },
         "cca2": "KG",
         "cca3": "KGZ",
@@ -4676,15 +4676,15 @@
                 "flag": "🇨🇳"
             },
             {
-                "name": "Kazakhstan",
+                "name": "Kasachstan",
                 "flag": "🇰🇿"
             },
             {
-                "name": "Tajikistan",
+                "name": "Tadschikistan",
                 "flag": "🇹🇯"
             },
             {
-                "name": "Uzbekistan",
+                "name": "Usbekistan",
                 "flag": "🇺🇿"
             }
         ],
@@ -4697,8 +4697,8 @@
     },
     {
         "name": {
-            "common": "Cambodia",
-            "official": "Kingdom of Cambodia"
+            "official": "Königreich Kambodscha",
+            "common": "Kambodscha"
         },
         "cca2": "KH",
         "cca3": "KHM",
@@ -4738,8 +4738,8 @@
     },
     {
         "name": {
-            "common": "Kiribati",
-            "official": "Independent and Sovereign Republic of Kiribati"
+            "official": "Republik Kiribati",
+            "common": "Kiribati"
         },
         "cca2": "KI",
         "cca3": "KIR",
@@ -4767,8 +4767,8 @@
     },
     {
         "name": {
-            "common": "Saint Kitts and Nevis",
-            "official": "Federation of Saint Christopher and Nevis"
+            "official": "Föderation von St. Kitts und Nevis",
+            "common": "St. Kitts und Nevis"
         },
         "cca2": "KN",
         "cca3": "KNA",
@@ -4794,8 +4794,8 @@
     },
     {
         "name": {
-            "common": "South Korea",
-            "official": "Republic of Korea"
+            "official": "Republik Korea",
+            "common": "Südkorea"
         },
         "cca2": "KR",
         "cca3": "KOR",
@@ -4813,7 +4813,7 @@
         ],
         "borders": [
             {
-                "name": "North Korea",
+                "name": "Nordkorea",
                 "flag": "🇰🇵"
             }
         ],
@@ -4826,8 +4826,8 @@
     },
     {
         "name": {
-            "common": "Kosovo",
-            "official": "Republic of Kosovo"
+            "official": "Republik Kosovo",
+            "common": "Kosovo"
         },
         "cca2": "XK",
         "cca3": "UNK",
@@ -4846,11 +4846,11 @@
         ],
         "borders": [
             {
-                "name": "Albania",
+                "name": "Albanien",
                 "flag": "🇦🇱"
             },
             {
-                "name": "North Macedonia",
+                "name": "Nordmazedonien",
                 "flag": "🇲🇰"
             },
             {
@@ -4858,7 +4858,7 @@
                 "flag": "🇲🇪"
             },
             {
-                "name": "Serbia",
+                "name": "Serbien",
                 "flag": "🇷🇸"
             }
         ],
@@ -4871,8 +4871,8 @@
     },
     {
         "name": {
-            "common": "Kuwait",
-            "official": "State of Kuwait"
+            "official": "Staat Kuwait",
+            "common": "Kuwait"
         },
         "cca2": "KW",
         "cca3": "KWT",
@@ -4890,11 +4890,11 @@
         ],
         "borders": [
             {
-                "name": "Iraq",
+                "name": "Irak",
                 "flag": "🇮🇶"
             },
             {
-                "name": "Saudi Arabia",
+                "name": "Saudi-Arabien",
                 "flag": "🇸🇦"
             }
         ],
@@ -4907,8 +4907,8 @@
     },
     {
         "name": {
-            "common": "Laos",
-            "official": "Lao People's Democratic Republic"
+            "official": "Demokratische Volksrepublik Laos",
+            "common": "Laos"
         },
         "cca2": "LA",
         "cca3": "LAO",
@@ -4930,7 +4930,7 @@
                 "flag": "🇲🇲"
             },
             {
-                "name": "Cambodia",
+                "name": "Kambodscha",
                 "flag": "🇰🇭"
             },
             {
@@ -4955,8 +4955,8 @@
     },
     {
         "name": {
-            "common": "Lebanon",
-            "official": "Lebanese Republic"
+            "official": "Libanesische Republik",
+            "common": "Libanon"
         },
         "cca2": "LB",
         "cca3": "LBN",
@@ -4979,7 +4979,7 @@
                 "flag": "🇮🇱"
             },
             {
-                "name": "Syria",
+                "name": "Syrien",
                 "flag": "🇸🇾"
             }
         ],
@@ -4992,8 +4992,8 @@
     },
     {
         "name": {
-            "common": "Liberia",
-            "official": "Republic of Liberia"
+            "official": "Republik Liberia",
+            "common": "Liberia"
         },
         "cca2": "LR",
         "cca3": "LBR",
@@ -5015,7 +5015,7 @@
                 "flag": "🇬🇳"
             },
             {
-                "name": "Ivory Coast",
+                "name": "Elfenbeinküste",
                 "flag": "🇨🇮"
             },
             {
@@ -5032,8 +5032,8 @@
     },
     {
         "name": {
-            "common": "Libya",
-            "official": "State of Libya"
+            "official": "Staat Libyen",
+            "common": "Libyen"
         },
         "cca2": "LY",
         "cca3": "LBY",
@@ -5051,15 +5051,15 @@
         ],
         "borders": [
             {
-                "name": "Algeria",
+                "name": "Algerien",
                 "flag": "🇩🇿"
             },
             {
-                "name": "Chad",
+                "name": "Tschad",
                 "flag": "🇹🇩"
             },
             {
-                "name": "Egypt",
+                "name": "Ägypten",
                 "flag": "🇪🇬"
             },
             {
@@ -5071,7 +5071,7 @@
                 "flag": "🇸🇩"
             },
             {
-                "name": "Tunisia",
+                "name": "Tunesien",
                 "flag": "🇹🇳"
             }
         ],
@@ -5084,8 +5084,8 @@
     },
     {
         "name": {
-            "common": "Saint Lucia",
-            "official": "Saint Lucia"
+            "official": "St. Lucia",
+            "common": "St. Lucia"
         },
         "cca2": "LC",
         "cca3": "LCA",
@@ -5111,8 +5111,8 @@
     },
     {
         "name": {
-            "common": "Liechtenstein",
-            "official": "Principality of Liechtenstein"
+            "official": "Fürstentum Liechtenstein",
+            "common": "Liechtenstein"
         },
         "cca2": "LI",
         "cca3": "LIE",
@@ -5130,11 +5130,11 @@
         ],
         "borders": [
             {
-                "name": "Austria",
+                "name": "Österreich",
                 "flag": "🇦🇹"
             },
             {
-                "name": "Switzerland",
+                "name": "Schweiz",
                 "flag": "🇨🇭"
             }
         ],
@@ -5147,8 +5147,8 @@
     },
     {
         "name": {
-            "common": "Sri Lanka",
-            "official": "Democratic Socialist Republic of Sri Lanka"
+            "official": "Demokratische Sozialistische Republik Sri Lanka",
+            "common": "Sri Lanka"
         },
         "cca2": "LK",
         "cca3": "LKA",
@@ -5167,7 +5167,7 @@
         ],
         "borders": [
             {
-                "name": "India",
+                "name": "Indien",
                 "flag": "🇮🇳"
             }
         ],
@@ -5180,8 +5180,8 @@
     },
     {
         "name": {
-            "common": "Lesotho",
-            "official": "Kingdom of Lesotho"
+            "official": "Königreich Lesotho",
+            "common": "Lesotho"
         },
         "cca2": "LS",
         "cca3": "LSO",
@@ -5201,7 +5201,7 @@
         ],
         "borders": [
             {
-                "name": "South Africa",
+                "name": "Südafrika",
                 "flag": "🇿🇦"
             }
         ],
@@ -5214,8 +5214,8 @@
     },
     {
         "name": {
-            "common": "Lithuania",
-            "official": "Republic of Lithuania"
+            "official": "Republik Litauen",
+            "common": "Litauen"
         },
         "cca2": "LT",
         "cca3": "LTU",
@@ -5233,19 +5233,19 @@
         ],
         "borders": [
             {
-                "name": "Belarus",
+                "name": "Weißrussland",
                 "flag": "🇧🇾"
             },
             {
-                "name": "Latvia",
+                "name": "Lettland",
                 "flag": "🇱🇻"
             },
             {
-                "name": "Poland",
+                "name": "Polen",
                 "flag": "🇵🇱"
             },
             {
-                "name": "Russia",
+                "name": "Russland",
                 "flag": "🇷🇺"
             }
         ],
@@ -5258,8 +5258,8 @@
     },
     {
         "name": {
-            "common": "Luxembourg",
-            "official": "Grand Duchy of Luxembourg"
+            "official": "Großherzogtum Luxemburg,",
+            "common": "Luxemburg"
         },
         "cca2": "LU",
         "cca3": "LUX",
@@ -5279,15 +5279,15 @@
         ],
         "borders": [
             {
-                "name": "Belgium",
+                "name": "Belgien",
                 "flag": "🇧🇪"
             },
             {
-                "name": "France",
+                "name": "Frankreich",
                 "flag": "🇫🇷"
             },
             {
-                "name": "Germany",
+                "name": "Deutschland",
                 "flag": "🇩🇪"
             }
         ],
@@ -5300,8 +5300,8 @@
     },
     {
         "name": {
-            "common": "Latvia",
-            "official": "Republic of Latvia"
+            "official": "Republik Lettland",
+            "common": "Lettland"
         },
         "cca2": "LV",
         "cca3": "LVA",
@@ -5319,19 +5319,19 @@
         ],
         "borders": [
             {
-                "name": "Belarus",
+                "name": "Weißrussland",
                 "flag": "🇧🇾"
             },
             {
-                "name": "Estonia",
+                "name": "Estland",
                 "flag": "🇪🇪"
             },
             {
-                "name": "Lithuania",
+                "name": "Litauen",
                 "flag": "🇱🇹"
             },
             {
-                "name": "Russia",
+                "name": "Russland",
                 "flag": "🇷🇺"
             }
         ],
@@ -5344,8 +5344,8 @@
     },
     {
         "name": {
-            "common": "Macau",
-            "official": "Macao Special Administrative Region of the People's Republic of China"
+            "official": "Sonderverwaltungsregion Macau der Volksrepublik China",
+            "common": "Macao"
         },
         "cca2": "MO",
         "cca3": "MAC",
@@ -5377,8 +5377,8 @@
     },
     {
         "name": {
-            "common": "Saint Martin",
-            "official": "Saint Martin"
+            "official": "Saint-Martin",
+            "common": "Saint-Martin"
         },
         "cca2": "MF",
         "cca3": "MAF",
@@ -5409,8 +5409,8 @@
     },
     {
         "name": {
-            "common": "Morocco",
-            "official": "Kingdom of Morocco"
+            "official": "Königreich Marokko",
+            "common": "Marokko"
         },
         "cca2": "MA",
         "cca3": "MAR",
@@ -5429,15 +5429,15 @@
         ],
         "borders": [
             {
-                "name": "Algeria",
+                "name": "Algerien",
                 "flag": "🇩🇿"
             },
             {
-                "name": "Western Sahara",
+                "name": "Westsahara",
                 "flag": "🇪🇭"
             },
             {
-                "name": "Spain",
+                "name": "Spanien",
                 "flag": "🇪🇸"
             }
         ],
@@ -5450,8 +5450,8 @@
     },
     {
         "name": {
-            "common": "Monaco",
-            "official": "Principality of Monaco"
+            "official": "Fürstentum Monaco",
+            "common": "Monaco"
         },
         "cca2": "MC",
         "cca3": "MCO",
@@ -5469,7 +5469,7 @@
         ],
         "borders": [
             {
-                "name": "France",
+                "name": "Frankreich",
                 "flag": "🇫🇷"
             }
         ],
@@ -5482,8 +5482,8 @@
     },
     {
         "name": {
-            "common": "Moldova",
-            "official": "Republic of Moldova"
+            "official": "Republik Moldau",
+            "common": "Moldawien"
         },
         "cca2": "MD",
         "cca3": "MDA",
@@ -5501,7 +5501,7 @@
         ],
         "borders": [
             {
-                "name": "Romania",
+                "name": "Rumänien",
                 "flag": "🇷🇴"
             },
             {
@@ -5518,8 +5518,8 @@
     },
     {
         "name": {
-            "common": "Madagascar",
-            "official": "Republic of Madagascar"
+            "official": "Republik Madagaskar",
+            "common": "Madagaskar"
         },
         "cca2": "MG",
         "cca3": "MDG",
@@ -5546,8 +5546,8 @@
     },
     {
         "name": {
-            "common": "Maldives",
-            "official": "Republic of the Maldives"
+            "official": "Republik Malediven",
+            "common": "Malediven"
         },
         "cca2": "MV",
         "cca3": "MDV",
@@ -5573,8 +5573,8 @@
     },
     {
         "name": {
-            "common": "Mexico",
-            "official": "United Mexican States"
+            "official": "Vereinigte Mexikanische Staaten",
+            "common": "Mexiko"
         },
         "cca2": "MX",
         "cca3": "MEX",
@@ -5600,7 +5600,7 @@
                 "flag": "🇬🇹"
             },
             {
-                "name": "United States",
+                "name": "Vereinigte Staaten",
                 "flag": "🇺🇸"
             }
         ],
@@ -5613,8 +5613,8 @@
     },
     {
         "name": {
-            "common": "Marshall Islands",
-            "official": "Republic of the Marshall Islands"
+            "official": "Republik Marshallinseln",
+            "common": "Marshallinseln"
         },
         "cca2": "MH",
         "cca3": "MHL",
@@ -5641,8 +5641,8 @@
     },
     {
         "name": {
-            "common": "North Macedonia",
-            "official": "Republic of North Macedonia"
+            "official": "Republik Nordmazedonien",
+            "common": "Nordmazedonien"
         },
         "cca2": "MK",
         "cca3": "MKD",
@@ -5660,15 +5660,15 @@
         ],
         "borders": [
             {
-                "name": "Albania",
+                "name": "Albanien",
                 "flag": "🇦🇱"
             },
             {
-                "name": "Bulgaria",
+                "name": "Bulgarien",
                 "flag": "🇧🇬"
             },
             {
-                "name": "Greece",
+                "name": "Griechenland",
                 "flag": "🇬🇷"
             },
             {
@@ -5676,7 +5676,7 @@
                 "flag": "🇽🇰"
             },
             {
-                "name": "Serbia",
+                "name": "Serbien",
                 "flag": "🇷🇸"
             }
         ],
@@ -5689,8 +5689,8 @@
     },
     {
         "name": {
-            "common": "Mali",
-            "official": "Republic of Mali"
+            "official": "Republik Mali",
+            "common": "Mali"
         },
         "cca2": "ML",
         "cca3": "MLI",
@@ -5708,7 +5708,7 @@
         ],
         "borders": [
             {
-                "name": "Algeria",
+                "name": "Algerien",
                 "flag": "🇩🇿"
             },
             {
@@ -5720,11 +5720,11 @@
                 "flag": "🇬🇳"
             },
             {
-                "name": "Ivory Coast",
+                "name": "Elfenbeinküste",
                 "flag": "🇨🇮"
             },
             {
-                "name": "Mauritania",
+                "name": "Mauretanien",
                 "flag": "🇲🇷"
             },
             {
@@ -5745,8 +5745,8 @@
     },
     {
         "name": {
-            "common": "Malta",
-            "official": "Republic of Malta"
+            "official": "Republik Malta",
+            "common": "Malta"
         },
         "cca2": "MT",
         "cca3": "MLT",
@@ -5773,8 +5773,8 @@
     },
     {
         "name": {
-            "common": "Myanmar",
-            "official": "Republic of the Union of Myanmar"
+            "official": "Republik der Union Myanmar",
+            "common": "Myanmar"
         },
         "cca2": "MM",
         "cca3": "MMR",
@@ -5792,7 +5792,7 @@
         ],
         "borders": [
             {
-                "name": "Bangladesh",
+                "name": "Bangladesch",
                 "flag": "🇧🇩"
             },
             {
@@ -5800,7 +5800,7 @@
                 "flag": "🇨🇳"
             },
             {
-                "name": "India",
+                "name": "Indien",
                 "flag": "🇮🇳"
             },
             {
@@ -5821,8 +5821,8 @@
     },
     {
         "name": {
-            "common": "Montenegro",
-            "official": "Montenegro"
+            "official": "Montenegro",
+            "common": "Montenegro"
         },
         "cca2": "ME",
         "cca3": "MNE",
@@ -5840,15 +5840,15 @@
         ],
         "borders": [
             {
-                "name": "Albania",
+                "name": "Albanien",
                 "flag": "🇦🇱"
             },
             {
-                "name": "Bosnia and Herzegovina",
+                "name": "Bosnien und Herzegowina",
                 "flag": "🇧🇦"
             },
             {
-                "name": "Croatia",
+                "name": "Kroatien",
                 "flag": "🇭🇷"
             },
             {
@@ -5856,7 +5856,7 @@
                 "flag": "🇽🇰"
             },
             {
-                "name": "Serbia",
+                "name": "Serbien",
                 "flag": "🇷🇸"
             }
         ],
@@ -5869,8 +5869,8 @@
     },
     {
         "name": {
-            "common": "Mongolia",
-            "official": "Mongolia"
+            "official": "Mongolei",
+            "common": "Mongolei"
         },
         "cca2": "MN",
         "cca3": "MNG",
@@ -5892,7 +5892,7 @@
                 "flag": "🇨🇳"
             },
             {
-                "name": "Russia",
+                "name": "Russland",
                 "flag": "🇷🇺"
             }
         ],
@@ -5905,8 +5905,8 @@
     },
     {
         "name": {
-            "common": "Northern Mariana Islands",
-            "official": "Commonwealth of the Northern Mariana Islands"
+            "official": "Commonwealth der Nördlichen Marianen",
+            "common": "Nördliche Marianen"
         },
         "cca2": "MP",
         "cca3": "MNP",
@@ -5934,8 +5934,8 @@
     },
     {
         "name": {
-            "common": "Mozambique",
-            "official": "Republic of Mozambique"
+            "official": "Republik Mosambik",
+            "common": "Mosambik"
         },
         "cca2": "MZ",
         "cca3": "MOZ",
@@ -5957,23 +5957,23 @@
                 "flag": "🇲🇼"
             },
             {
-                "name": "South Africa",
+                "name": "Südafrika",
                 "flag": "🇿🇦"
             },
             {
-                "name": "Eswatini",
+                "name": "Swasiland",
                 "flag": "🇸🇿"
             },
             {
-                "name": "Tanzania",
+                "name": "Tansania",
                 "flag": "🇹🇿"
             },
             {
-                "name": "Zambia",
+                "name": "Sambia",
                 "flag": "🇿🇲"
             },
             {
-                "name": "Zimbabwe",
+                "name": "Simbabwe",
                 "flag": "🇿🇼"
             }
         ],
@@ -5986,8 +5986,8 @@
     },
     {
         "name": {
-            "common": "Mauritania",
-            "official": "Islamic Republic of Mauritania"
+            "official": "Islamische Republik Mauretanien",
+            "common": "Mauretanien"
         },
         "cca2": "MR",
         "cca3": "MRT",
@@ -6005,7 +6005,7 @@
         ],
         "borders": [
             {
-                "name": "Algeria",
+                "name": "Algerien",
                 "flag": "🇩🇿"
             },
             {
@@ -6017,7 +6017,7 @@
                 "flag": "🇸🇳"
             },
             {
-                "name": "Western Sahara",
+                "name": "Westsahara",
                 "flag": "🇪🇭"
             }
         ],
@@ -6030,8 +6030,8 @@
     },
     {
         "name": {
-            "common": "Montserrat",
-            "official": "Montserrat"
+            "official": "Montserrat",
+            "common": "Montserrat"
         },
         "cca2": "MS",
         "cca3": "MSR",
@@ -6057,8 +6057,8 @@
     },
     {
         "name": {
-            "common": "Martinique",
-            "official": "Martinique"
+            "official": "Martinique",
+            "common": "Martinique"
         },
         "cca2": "MQ",
         "cca3": "MTQ",
@@ -6084,8 +6084,8 @@
     },
     {
         "name": {
-            "common": "Mauritius",
-            "official": "Republic of Mauritius"
+            "official": "Republik Mauritius",
+            "common": "Mauritius"
         },
         "cca2": "MU",
         "cca3": "MUS",
@@ -6113,8 +6113,8 @@
     },
     {
         "name": {
-            "common": "Malawi",
-            "official": "Republic of Malawi"
+            "official": "Republik Malawi",
+            "common": "Malawi"
         },
         "cca2": "MW",
         "cca3": "MWI",
@@ -6133,15 +6133,15 @@
         ],
         "borders": [
             {
-                "name": "Mozambique",
+                "name": "Mosambik",
                 "flag": "🇲🇿"
             },
             {
-                "name": "Tanzania",
+                "name": "Tansania",
                 "flag": "🇹🇿"
             },
             {
-                "name": "Zambia",
+                "name": "Sambia",
                 "flag": "🇿🇲"
             }
         ],
@@ -6154,8 +6154,8 @@
     },
     {
         "name": {
-            "common": "Malaysia",
-            "official": "Malaysia"
+            "official": "Malaysia",
+            "common": "Malaysia"
         },
         "cca2": "MY",
         "cca3": "MYS",
@@ -6178,7 +6178,7 @@
                 "flag": "🇧🇳"
             },
             {
-                "name": "Indonesia",
+                "name": "Indonesien",
                 "flag": "🇮🇩"
             },
             {
@@ -6195,8 +6195,8 @@
     },
     {
         "name": {
-            "common": "Mayotte",
-            "official": "Department of Mayotte"
+            "official": "Übersee-Département Mayotte",
+            "common": "Mayotte"
         },
         "cca2": "YT",
         "cca3": "MYT",
@@ -6222,8 +6222,8 @@
     },
     {
         "name": {
-            "common": "Namibia",
-            "official": "Republic of Namibia"
+            "official": "Republik Namibia",
+            "common": "Namibia"
         },
         "cca2": "NA",
         "cca3": "NAM",
@@ -6258,11 +6258,11 @@
                 "flag": "🇧🇼"
             },
             {
-                "name": "South Africa",
+                "name": "Südafrika",
                 "flag": "🇿🇦"
             },
             {
-                "name": "Zambia",
+                "name": "Sambia",
                 "flag": "🇿🇲"
             }
         ],
@@ -6275,8 +6275,8 @@
     },
     {
         "name": {
-            "common": "New Caledonia",
-            "official": "New Caledonia"
+            "official": "Neukaledonien",
+            "common": "Neukaledonien"
         },
         "cca2": "NC",
         "cca3": "NCL",
@@ -6302,8 +6302,8 @@
     },
     {
         "name": {
-            "common": "Niger",
-            "official": "Republic of Niger"
+            "official": "Republik Niger",
+            "common": "Niger"
         },
         "cca2": "NE",
         "cca3": "NER",
@@ -6321,7 +6321,7 @@
         ],
         "borders": [
             {
-                "name": "Algeria",
+                "name": "Algerien",
                 "flag": "🇩🇿"
             },
             {
@@ -6333,11 +6333,11 @@
                 "flag": "🇧🇫"
             },
             {
-                "name": "Chad",
+                "name": "Tschad",
                 "flag": "🇹🇩"
             },
             {
-                "name": "Libya",
+                "name": "Libyen",
                 "flag": "🇱🇾"
             },
             {
@@ -6358,8 +6358,8 @@
     },
     {
         "name": {
-            "common": "Norfolk Island",
-            "official": "Territory of Norfolk Island"
+            "official": "Gebiet der Norfolkinsel",
+            "common": "Norfolkinsel"
         },
         "cca2": "NF",
         "cca3": "NFK",
@@ -6386,8 +6386,8 @@
     },
     {
         "name": {
-            "common": "Nigeria",
-            "official": "Federal Republic of Nigeria"
+            "official": "Bundesrepublik Nigeria",
+            "common": "Nigeria"
         },
         "cca2": "NG",
         "cca3": "NGA",
@@ -6409,11 +6409,11 @@
                 "flag": "🇧🇯"
             },
             {
-                "name": "Cameroon",
+                "name": "Kamerun",
                 "flag": "🇨🇲"
             },
             {
-                "name": "Chad",
+                "name": "Tschad",
                 "flag": "🇹🇩"
             },
             {
@@ -6430,8 +6430,8 @@
     },
     {
         "name": {
-            "common": "Nicaragua",
-            "official": "Republic of Nicaragua"
+            "official": "Republik Nicaragua",
+            "common": "Nicaragua"
         },
         "cca2": "NI",
         "cca3": "NIC",
@@ -6466,8 +6466,8 @@
     },
     {
         "name": {
-            "common": "Niue",
-            "official": "Niue"
+            "official": "Niue",
+            "common": "Niue"
         },
         "cca2": "NU",
         "cca3": "NIU",
@@ -6494,8 +6494,8 @@
     },
     {
         "name": {
-            "common": "Netherlands",
-            "official": "Kingdom of the Netherlands"
+            "official": "Niederlande",
+            "common": "Niederlande"
         },
         "cca2": "NL",
         "cca3": "NLD",
@@ -6513,11 +6513,11 @@
         ],
         "borders": [
             {
-                "name": "Belgium",
+                "name": "Belgien",
                 "flag": "🇧🇪"
             },
             {
-                "name": "Germany",
+                "name": "Deutschland",
                 "flag": "🇩🇪"
             }
         ],
@@ -6530,8 +6530,8 @@
     },
     {
         "name": {
-            "common": "Norway",
-            "official": "Kingdom of Norway"
+            "official": "Königreich Norwegen",
+            "common": "Norwegen"
         },
         "cca2": "NO",
         "cca3": "NOR",
@@ -6551,15 +6551,15 @@
         ],
         "borders": [
             {
-                "name": "Finland",
+                "name": "Finnland",
                 "flag": "🇫🇮"
             },
             {
-                "name": "Sweden",
+                "name": "Schweden",
                 "flag": "🇸🇪"
             },
             {
-                "name": "Russia",
+                "name": "Russland",
                 "flag": "🇷🇺"
             }
         ],
@@ -6572,8 +6572,8 @@
     },
     {
         "name": {
-            "common": "Nepal",
-            "official": "Federal Democratic Republic of Nepal"
+            "official": "Demokratische Bundesrepublik Nepal",
+            "common": "Nepal"
         },
         "cca2": "NP",
         "cca3": "NPL",
@@ -6595,7 +6595,7 @@
                 "flag": "🇨🇳"
             },
             {
-                "name": "India",
+                "name": "Indien",
                 "flag": "🇮🇳"
             }
         ],
@@ -6608,8 +6608,8 @@
     },
     {
         "name": {
-            "common": "Nauru",
-            "official": "Republic of Nauru"
+            "official": "Republik Nauru",
+            "common": "Nauru"
         },
         "cca2": "NR",
         "cca3": "NRU",
@@ -6636,8 +6636,8 @@
     },
     {
         "name": {
-            "common": "New Zealand",
-            "official": "New Zealand"
+            "official": "Neuseeland",
+            "common": "Neuseeland"
         },
         "cca2": "NZ",
         "cca3": "NZL",
@@ -6665,8 +6665,8 @@
     },
     {
         "name": {
-            "common": "Oman",
-            "official": "Sultanate of Oman"
+            "official": "Sultanat Oman",
+            "common": "Oman"
         },
         "cca2": "OM",
         "cca3": "OMN",
@@ -6684,15 +6684,15 @@
         ],
         "borders": [
             {
-                "name": "Saudi Arabia",
+                "name": "Saudi-Arabien",
                 "flag": "🇸🇦"
             },
             {
-                "name": "United Arab Emirates",
+                "name": "Vereinigte Arabische Emirate",
                 "flag": "🇦🇪"
             },
             {
-                "name": "Yemen",
+                "name": "Jemen",
                 "flag": "🇾🇪"
             }
         ],
@@ -6705,8 +6705,8 @@
     },
     {
         "name": {
-            "common": "Pakistan",
-            "official": "Islamic Republic of Pakistan"
+            "official": "Islamische Republik Pakistan",
+            "common": "Pakistan"
         },
         "cca2": "PK",
         "cca3": "PAK",
@@ -6733,7 +6733,7 @@
                 "flag": "🇨🇳"
             },
             {
-                "name": "India",
+                "name": "Indien",
                 "flag": "🇮🇳"
             },
             {
@@ -6750,8 +6750,8 @@
     },
     {
         "name": {
-            "common": "Panama",
-            "official": "Republic of Panama"
+            "official": "Republik Panama",
+            "common": "Panama"
         },
         "cca2": "PA",
         "cca3": "PAN",
@@ -6770,7 +6770,7 @@
         ],
         "borders": [
             {
-                "name": "Colombia",
+                "name": "Kolumbien",
                 "flag": "🇨🇴"
             },
             {
@@ -6787,8 +6787,8 @@
     },
     {
         "name": {
-            "common": "Pitcairn Islands",
-            "official": "Pitcairn Group of Islands"
+            "official": "Pitcairninseln",
+            "common": "Pitcairninseln"
         },
         "cca2": "PN",
         "cca3": "PCN",
@@ -6814,8 +6814,8 @@
     },
     {
         "name": {
-            "common": "Peru",
-            "official": "Republic of Peru"
+            "official": "Republik Peru",
+            "common": "Peru"
         },
         "cca2": "PE",
         "cca3": "PER",
@@ -6835,11 +6835,11 @@
         ],
         "borders": [
             {
-                "name": "Bolivia",
+                "name": "Bolivien",
                 "flag": "🇧🇴"
             },
             {
-                "name": "Brazil",
+                "name": "Brasilien",
                 "flag": "🇧🇷"
             },
             {
@@ -6847,7 +6847,7 @@
                 "flag": "🇨🇱"
             },
             {
-                "name": "Colombia",
+                "name": "Kolumbien",
                 "flag": "🇨🇴"
             },
             {
@@ -6864,8 +6864,8 @@
     },
     {
         "name": {
-            "common": "Philippines",
-            "official": "Republic of the Philippines"
+            "official": "Republik der Philippinen",
+            "common": "Philippinen"
         },
         "cca2": "PH",
         "cca3": "PHL",
@@ -6892,8 +6892,8 @@
     },
     {
         "name": {
-            "common": "Palau",
-            "official": "Republic of Palau"
+            "official": "Republik Palau",
+            "common": "Palau"
         },
         "cca2": "PW",
         "cca3": "PLW",
@@ -6920,8 +6920,8 @@
     },
     {
         "name": {
-            "common": "Papua New Guinea",
-            "official": "Independent State of Papua New Guinea"
+            "official": "Unabhängiger Staat Papua-Neuguinea",
+            "common": "Papua-Neuguinea"
         },
         "cca2": "PG",
         "cca3": "PNG",
@@ -6941,7 +6941,7 @@
         ],
         "borders": [
             {
-                "name": "Indonesia",
+                "name": "Indonesien",
                 "flag": "🇮🇩"
             }
         ],
@@ -6954,8 +6954,8 @@
     },
     {
         "name": {
-            "common": "Poland",
-            "official": "Republic of Poland"
+            "official": "Republik Polen",
+            "common": "Polen"
         },
         "cca2": "PL",
         "cca3": "POL",
@@ -6973,27 +6973,27 @@
         ],
         "borders": [
             {
-                "name": "Belarus",
+                "name": "Weißrussland",
                 "flag": "🇧🇾"
             },
             {
-                "name": "Czechia",
+                "name": "Tschechien",
                 "flag": "🇨🇿"
             },
             {
-                "name": "Germany",
+                "name": "Deutschland",
                 "flag": "🇩🇪"
             },
             {
-                "name": "Lithuania",
+                "name": "Litauen",
                 "flag": "🇱🇹"
             },
             {
-                "name": "Russia",
+                "name": "Russland",
                 "flag": "🇷🇺"
             },
             {
-                "name": "Slovakia",
+                "name": "Slowakei",
                 "flag": "🇸🇰"
             },
             {
@@ -7010,8 +7010,8 @@
     },
     {
         "name": {
-            "common": "Puerto Rico",
-            "official": "Commonwealth of Puerto Rico"
+            "official": "Freistaat Puerto Rico",
+            "common": "Puerto Rico"
         },
         "cca2": "PR",
         "cca3": "PRI",
@@ -7038,8 +7038,8 @@
     },
     {
         "name": {
-            "common": "North Korea",
-            "official": "Democratic People's Republic of Korea"
+            "official": "Demokratische Volksrepublik Korea",
+            "common": "Nordkorea"
         },
         "cca2": "KP",
         "cca3": "PRK",
@@ -7061,11 +7061,11 @@
                 "flag": "🇨🇳"
             },
             {
-                "name": "South Korea",
+                "name": "Südkorea",
                 "flag": "🇰🇷"
             },
             {
-                "name": "Russia",
+                "name": "Russland",
                 "flag": "🇷🇺"
             }
         ],
@@ -7078,8 +7078,8 @@
     },
     {
         "name": {
-            "common": "Portugal",
-            "official": "Portuguese Republic"
+            "official": "Portugiesische Republik",
+            "common": "Portugal"
         },
         "cca2": "PT",
         "cca3": "PRT",
@@ -7097,7 +7097,7 @@
         ],
         "borders": [
             {
-                "name": "Spain",
+                "name": "Spanien",
                 "flag": "🇪🇸"
             }
         ],
@@ -7110,8 +7110,8 @@
     },
     {
         "name": {
-            "common": "Paraguay",
-            "official": "Republic of Paraguay"
+            "official": "Republik Paraguay",
+            "common": "Paraguay"
         },
         "cca2": "PY",
         "cca3": "PRY",
@@ -7130,15 +7130,15 @@
         ],
         "borders": [
             {
-                "name": "Argentina",
+                "name": "Argentinien",
                 "flag": "🇦🇷"
             },
             {
-                "name": "Bolivia",
+                "name": "Bolivien",
                 "flag": "🇧🇴"
             },
             {
-                "name": "Brazil",
+                "name": "Brasilien",
                 "flag": "🇧🇷"
             }
         ],
@@ -7151,8 +7151,8 @@
     },
     {
         "name": {
-            "common": "Palestine",
-            "official": "State of Palestine"
+            "official": "Staat Palästina",
+            "common": "Palästina"
         },
         "cca2": "PS",
         "cca3": "PSE",
@@ -7176,11 +7176,11 @@
                 "flag": "🇮🇱"
             },
             {
-                "name": "Egypt",
+                "name": "Ägypten",
                 "flag": "🇪🇬"
             },
             {
-                "name": "Jordan",
+                "name": "Jordanien",
                 "flag": "🇯🇴"
             }
         ],
@@ -7193,8 +7193,8 @@
     },
     {
         "name": {
-            "common": "French Polynesia",
-            "official": "French Polynesia"
+            "official": "Französisch-Polynesien",
+            "common": "Französisch-Polynesien"
         },
         "cca2": "PF",
         "cca3": "PYF",
@@ -7220,8 +7220,8 @@
     },
     {
         "name": {
-            "common": "Qatar",
-            "official": "State of Qatar"
+            "official": "Staat Katar",
+            "common": "Katar"
         },
         "cca2": "QA",
         "cca3": "QAT",
@@ -7239,7 +7239,7 @@
         ],
         "borders": [
             {
-                "name": "Saudi Arabia",
+                "name": "Saudi-Arabien",
                 "flag": "🇸🇦"
             }
         ],
@@ -7252,8 +7252,8 @@
     },
     {
         "name": {
-            "common": "Réunion",
-            "official": "Réunion Island"
+            "official": "Réunion",
+            "common": "Réunion"
         },
         "cca2": "RE",
         "cca3": "REU",
@@ -7279,8 +7279,8 @@
     },
     {
         "name": {
-            "common": "Romania",
-            "official": "Romania"
+            "official": "Rumänien",
+            "common": "Rumänien"
         },
         "cca2": "RO",
         "cca3": "ROU",
@@ -7298,19 +7298,19 @@
         ],
         "borders": [
             {
-                "name": "Bulgaria",
+                "name": "Bulgarien",
                 "flag": "🇧🇬"
             },
             {
-                "name": "Hungary",
+                "name": "Ungarn",
                 "flag": "🇭🇺"
             },
             {
-                "name": "Moldova",
+                "name": "Moldawien",
                 "flag": "🇲🇩"
             },
             {
-                "name": "Serbia",
+                "name": "Serbien",
                 "flag": "🇷🇸"
             },
             {
@@ -7327,8 +7327,8 @@
     },
     {
         "name": {
-            "common": "Russia",
-            "official": "Russian Federation"
+            "official": "Russische Föderation",
+            "common": "Russland"
         },
         "cca2": "RU",
         "cca3": "RUS",
@@ -7346,11 +7346,11 @@
         ],
         "borders": [
             {
-                "name": "Azerbaijan",
+                "name": "Aserbaidschan",
                 "flag": "🇦🇿"
             },
             {
-                "name": "Belarus",
+                "name": "Weißrussland",
                 "flag": "🇧🇾"
             },
             {
@@ -7358,43 +7358,43 @@
                 "flag": "🇨🇳"
             },
             {
-                "name": "Estonia",
+                "name": "Estland",
                 "flag": "🇪🇪"
             },
             {
-                "name": "Finland",
+                "name": "Finnland",
                 "flag": "🇫🇮"
             },
             {
-                "name": "Georgia",
+                "name": "Georgien",
                 "flag": "🇬🇪"
             },
             {
-                "name": "Kazakhstan",
+                "name": "Kasachstan",
                 "flag": "🇰🇿"
             },
             {
-                "name": "North Korea",
+                "name": "Nordkorea",
                 "flag": "🇰🇵"
             },
             {
-                "name": "Latvia",
+                "name": "Lettland",
                 "flag": "🇱🇻"
             },
             {
-                "name": "Lithuania",
+                "name": "Litauen",
                 "flag": "🇱🇹"
             },
             {
-                "name": "Mongolia",
+                "name": "Mongolei",
                 "flag": "🇲🇳"
             },
             {
-                "name": "Norway",
+                "name": "Norwegen",
                 "flag": "🇳🇴"
             },
             {
-                "name": "Poland",
+                "name": "Polen",
                 "flag": "🇵🇱"
             },
             {
@@ -7411,8 +7411,8 @@
     },
     {
         "name": {
-            "common": "Rwanda",
-            "official": "Republic of Rwanda"
+            "official": "Republik Ruanda",
+            "common": "Ruanda"
         },
         "cca2": "RW",
         "cca3": "RWA",
@@ -7436,11 +7436,11 @@
                 "flag": "🇧🇮"
             },
             {
-                "name": "DR Congo",
+                "name": "DR Kongo",
                 "flag": "🇨🇩"
             },
             {
-                "name": "Tanzania",
+                "name": "Tansania",
                 "flag": "🇹🇿"
             },
             {
@@ -7457,8 +7457,8 @@
     },
     {
         "name": {
-            "common": "Saudi Arabia",
-            "official": "Kingdom of Saudi Arabia"
+            "official": "Königreich Saudi-Arabien",
+            "common": "Saudi-Arabien"
         },
         "cca2": "SA",
         "cca3": "SAU",
@@ -7476,11 +7476,11 @@
         ],
         "borders": [
             {
-                "name": "Iraq",
+                "name": "Irak",
                 "flag": "🇮🇶"
             },
             {
-                "name": "Jordan",
+                "name": "Jordanien",
                 "flag": "🇯🇴"
             },
             {
@@ -7492,15 +7492,15 @@
                 "flag": "🇴🇲"
             },
             {
-                "name": "Qatar",
+                "name": "Katar",
                 "flag": "🇶🇦"
             },
             {
-                "name": "United Arab Emirates",
+                "name": "Vereinigte Arabische Emirate",
                 "flag": "🇦🇪"
             },
             {
-                "name": "Yemen",
+                "name": "Jemen",
                 "flag": "🇾🇪"
             }
         ],
@@ -7513,8 +7513,8 @@
     },
     {
         "name": {
-            "common": "Sudan",
-            "official": "Republic of the Sudan"
+            "official": "Republik Sudan",
+            "common": "Sudan"
         },
         "cca2": "SD",
         "cca3": "SDN",
@@ -7533,15 +7533,15 @@
         ],
         "borders": [
             {
-                "name": "Central African Republic",
+                "name": "Zentralafrikanische Republik",
                 "flag": "🇨🇫"
             },
             {
-                "name": "Chad",
+                "name": "Tschad",
                 "flag": "🇹🇩"
             },
             {
-                "name": "Egypt",
+                "name": "Ägypten",
                 "flag": "🇪🇬"
             },
             {
@@ -7549,15 +7549,15 @@
                 "flag": "🇪🇷"
             },
             {
-                "name": "Ethiopia",
+                "name": "Äthiopien",
                 "flag": "🇪🇹"
             },
             {
-                "name": "Libya",
+                "name": "Libyen",
                 "flag": "🇱🇾"
             },
             {
-                "name": "South Sudan",
+                "name": "Südsudan",
                 "flag": "🇸🇸"
             }
         ],
@@ -7570,8 +7570,8 @@
     },
     {
         "name": {
-            "common": "Senegal",
-            "official": "Republic of Senegal"
+            "official": "Republik Senegal",
+            "common": "Senegal"
         },
         "cca2": "SN",
         "cca3": "SEN",
@@ -7605,7 +7605,7 @@
                 "flag": "🇲🇱"
             },
             {
-                "name": "Mauritania",
+                "name": "Mauretanien",
                 "flag": "🇲🇷"
             }
         ],
@@ -7618,8 +7618,8 @@
     },
     {
         "name": {
-            "common": "Singapore",
-            "official": "Republic of Singapore"
+            "official": "Republik Singapur",
+            "common": "Singapur"
         },
         "cca2": "SG",
         "cca3": "SGP",
@@ -7648,8 +7648,8 @@
     },
     {
         "name": {
-            "common": "South Georgia",
-            "official": "South Georgia and the South Sandwich Islands"
+            "official": "Südgeorgien und die Südlichen Sandwichinseln",
+            "common": "Südgeorgien und die Südlichen Sandwichinseln"
         },
         "cca2": "GS",
         "cca3": "SGS",
@@ -7675,8 +7675,8 @@
     },
     {
         "name": {
-            "common": "Svalbard and Jan Mayen",
-            "official": "Svalbard og Jan Mayen"
+            "official": "Spitzbergen und Jan Mayen",
+            "common": "Spitzbergen und Jan Mayen"
         },
         "cca2": "SJ",
         "cca3": "SJM",
@@ -7702,8 +7702,8 @@
     },
     {
         "name": {
-            "common": "Solomon Islands",
-            "official": "Solomon Islands"
+            "official": "Salomonen",
+            "common": "Salomonen"
         },
         "cca2": "SB",
         "cca3": "SLB",
@@ -7729,8 +7729,8 @@
     },
     {
         "name": {
-            "common": "Sierra Leone",
-            "official": "Republic of Sierra Leone"
+            "official": "Republik Sierra Leone",
+            "common": "Sierra Leone"
         },
         "cca2": "SL",
         "cca3": "SLE",
@@ -7765,8 +7765,8 @@
     },
     {
         "name": {
-            "common": "El Salvador",
-            "official": "Republic of El Salvador"
+            "official": "Republik El Salvador",
+            "common": "El Salvador"
         },
         "cca2": "SV",
         "cca3": "SLV",
@@ -7801,8 +7801,8 @@
     },
     {
         "name": {
-            "common": "San Marino",
-            "official": "Most Serene Republic of San Marino"
+            "official": "Republik San Marino",
+            "common": "San Marino"
         },
         "cca2": "SM",
         "cca3": "SMR",
@@ -7820,7 +7820,7 @@
         ],
         "borders": [
             {
-                "name": "Italy",
+                "name": "Italien",
                 "flag": "🇮🇹"
             }
         ],
@@ -7833,8 +7833,8 @@
     },
     {
         "name": {
-            "common": "Somalia",
-            "official": "Federal Republic of Somalia"
+            "official": "Bundesrepublik Somalia",
+            "common": "Somalia"
         },
         "cca2": "SO",
         "cca3": "SOM",
@@ -7853,15 +7853,15 @@
         ],
         "borders": [
             {
-                "name": "Djibouti",
+                "name": "Dschibuti",
                 "flag": "🇩🇯"
             },
             {
-                "name": "Ethiopia",
+                "name": "Äthiopien",
                 "flag": "🇪🇹"
             },
             {
-                "name": "Kenya",
+                "name": "Kenia",
                 "flag": "🇰🇪"
             }
         ],
@@ -7874,8 +7874,8 @@
     },
     {
         "name": {
-            "common": "Saint Pierre and Miquelon",
-            "official": "Saint Pierre and Miquelon"
+            "official": "St. Pierre und Miquelon",
+            "common": "St. Pierre und Miquelon"
         },
         "cca2": "PM",
         "cca3": "SPM",
@@ -7901,8 +7901,8 @@
     },
     {
         "name": {
-            "common": "Serbia",
-            "official": "Republic of Serbia"
+            "official": "Republik Serbien",
+            "common": "Serbien"
         },
         "cca2": "RS",
         "cca3": "SRB",
@@ -7920,19 +7920,19 @@
         ],
         "borders": [
             {
-                "name": "Bosnia and Herzegovina",
+                "name": "Bosnien und Herzegowina",
                 "flag": "🇧🇦"
             },
             {
-                "name": "Bulgaria",
+                "name": "Bulgarien",
                 "flag": "🇧🇬"
             },
             {
-                "name": "Croatia",
+                "name": "Kroatien",
                 "flag": "🇭🇷"
             },
             {
-                "name": "Hungary",
+                "name": "Ungarn",
                 "flag": "🇭🇺"
             },
             {
@@ -7940,7 +7940,7 @@
                 "flag": "🇽🇰"
             },
             {
-                "name": "North Macedonia",
+                "name": "Nordmazedonien",
                 "flag": "🇲🇰"
             },
             {
@@ -7948,7 +7948,7 @@
                 "flag": "🇲🇪"
             },
             {
-                "name": "Romania",
+                "name": "Rumänien",
                 "flag": "🇷🇴"
             }
         ],
@@ -7961,8 +7961,8 @@
     },
     {
         "name": {
-            "common": "South Sudan",
-            "official": "Republic of South Sudan"
+            "official": "Republik Südsudan",
+            "common": "Südsudan"
         },
         "cca2": "SS",
         "cca3": "SSD",
@@ -7980,19 +7980,19 @@
         ],
         "borders": [
             {
-                "name": "Central African Republic",
+                "name": "Zentralafrikanische Republik",
                 "flag": "🇨🇫"
             },
             {
-                "name": "DR Congo",
+                "name": "DR Kongo",
                 "flag": "🇨🇩"
             },
             {
-                "name": "Ethiopia",
+                "name": "Äthiopien",
                 "flag": "🇪🇹"
             },
             {
-                "name": "Kenya",
+                "name": "Kenia",
                 "flag": "🇰🇪"
             },
             {
@@ -8013,8 +8013,8 @@
     },
     {
         "name": {
-            "common": "São Tomé and Príncipe",
-            "official": "Democratic Republic of São Tomé and Príncipe"
+            "official": "Demokratische Republik São Tomé und Príncipe",
+            "common": "São Tomé und Príncipe"
         },
         "cca2": "ST",
         "cca3": "STP",
@@ -8040,8 +8040,8 @@
     },
     {
         "name": {
-            "common": "Suriname",
-            "official": "Republic of Suriname"
+            "official": "Republik Suriname",
+            "common": "Suriname"
         },
         "cca2": "SR",
         "cca3": "SUR",
@@ -8059,11 +8059,11 @@
         ],
         "borders": [
             {
-                "name": "Brazil",
+                "name": "Brasilien",
                 "flag": "🇧🇷"
             },
             {
-                "name": "French Guiana",
+                "name": "Französisch-Guayana",
                 "flag": "🇬🇫"
             },
             {
@@ -8080,8 +8080,8 @@
     },
     {
         "name": {
-            "common": "Slovakia",
-            "official": "Slovak Republic"
+            "official": "Slowakische Republik",
+            "common": "Slowakei"
         },
         "cca2": "SK",
         "cca3": "SVK",
@@ -8099,19 +8099,19 @@
         ],
         "borders": [
             {
-                "name": "Austria",
+                "name": "Österreich",
                 "flag": "🇦🇹"
             },
             {
-                "name": "Czechia",
+                "name": "Tschechien",
                 "flag": "🇨🇿"
             },
             {
-                "name": "Hungary",
+                "name": "Ungarn",
                 "flag": "🇭🇺"
             },
             {
-                "name": "Poland",
+                "name": "Polen",
                 "flag": "🇵🇱"
             },
             {
@@ -8128,8 +8128,8 @@
     },
     {
         "name": {
-            "common": "Slovenia",
-            "official": "Republic of Slovenia"
+            "official": "Republik Slowenien",
+            "common": "Slowenien"
         },
         "cca2": "SI",
         "cca3": "SVN",
@@ -8147,19 +8147,19 @@
         ],
         "borders": [
             {
-                "name": "Austria",
+                "name": "Österreich",
                 "flag": "🇦🇹"
             },
             {
-                "name": "Croatia",
+                "name": "Kroatien",
                 "flag": "🇭🇷"
             },
             {
-                "name": "Italy",
+                "name": "Italien",
                 "flag": "🇮🇹"
             },
             {
-                "name": "Hungary",
+                "name": "Ungarn",
                 "flag": "🇭🇺"
             }
         ],
@@ -8172,8 +8172,8 @@
     },
     {
         "name": {
-            "common": "Sweden",
-            "official": "Kingdom of Sweden"
+            "official": "Königreich Schweden",
+            "common": "Schweden"
         },
         "cca2": "SE",
         "cca3": "SWE",
@@ -8191,11 +8191,11 @@
         ],
         "borders": [
             {
-                "name": "Finland",
+                "name": "Finnland",
                 "flag": "🇫🇮"
             },
             {
-                "name": "Norway",
+                "name": "Norwegen",
                 "flag": "🇳🇴"
             }
         ],
@@ -8208,8 +8208,8 @@
     },
     {
         "name": {
-            "common": "Eswatini",
-            "official": "Kingdom of Eswatini"
+            "official": "Königreich Eswatini",
+            "common": "Swasiland"
         },
         "cca2": "SZ",
         "cca3": "SWZ",
@@ -8229,11 +8229,11 @@
         ],
         "borders": [
             {
-                "name": "Mozambique",
+                "name": "Mosambik",
                 "flag": "🇲🇿"
             },
             {
-                "name": "South Africa",
+                "name": "Südafrika",
                 "flag": "🇿🇦"
             }
         ],
@@ -8246,8 +8246,8 @@
     },
     {
         "name": {
-            "common": "Sint Maarten",
-            "official": "Sint Maarten"
+            "official": "Sint Maarten",
+            "common": "Sint Maarten"
         },
         "cca2": "SX",
         "cca3": "SXM",
@@ -8267,7 +8267,7 @@
         ],
         "borders": [
             {
-                "name": "Saint Martin",
+                "name": "Saint-Martin",
                 "flag": "🇲🇫"
             }
         ],
@@ -8280,8 +8280,8 @@
     },
     {
         "name": {
-            "common": "Seychelles",
-            "official": "Republic of Seychelles"
+            "official": "Republik der Seychellen",
+            "common": "Seychellen"
         },
         "cca2": "SC",
         "cca3": "SYC",
@@ -8309,8 +8309,8 @@
     },
     {
         "name": {
-            "common": "Syria",
-            "official": "Syrian Arab Republic"
+            "official": "Arabische Republik Syrien",
+            "common": "Syrien"
         },
         "cca2": "SY",
         "cca3": "SYR",
@@ -8328,7 +8328,7 @@
         ],
         "borders": [
             {
-                "name": "Iraq",
+                "name": "Irak",
                 "flag": "🇮🇶"
             },
             {
@@ -8336,15 +8336,15 @@
                 "flag": "🇮🇱"
             },
             {
-                "name": "Jordan",
+                "name": "Jordanien",
                 "flag": "🇯🇴"
             },
             {
-                "name": "Lebanon",
+                "name": "Libanon",
                 "flag": "🇱🇧"
             },
             {
-                "name": "Turkey",
+                "name": "Türkei",
                 "flag": "🇹🇷"
             }
         ],
@@ -8357,8 +8357,8 @@
     },
     {
         "name": {
-            "common": "Turks and Caicos Islands",
-            "official": "Turks and Caicos Islands"
+            "official": "Turks und Caicos Inseln",
+            "common": "Turks-und Caicosinseln"
         },
         "cca2": "TC",
         "cca3": "TCA",
@@ -8384,8 +8384,8 @@
     },
     {
         "name": {
-            "common": "Chad",
-            "official": "Republic of Chad"
+            "official": "Republik Tschad",
+            "common": "Tschad"
         },
         "cca2": "TD",
         "cca3": "TCD",
@@ -8404,15 +8404,15 @@
         ],
         "borders": [
             {
-                "name": "Cameroon",
+                "name": "Kamerun",
                 "flag": "🇨🇲"
             },
             {
-                "name": "Central African Republic",
+                "name": "Zentralafrikanische Republik",
                 "flag": "🇨🇫"
             },
             {
-                "name": "Libya",
+                "name": "Libyen",
                 "flag": "🇱🇾"
             },
             {
@@ -8437,8 +8437,8 @@
     },
     {
         "name": {
-            "common": "Togo",
-            "official": "Togolese Republic"
+            "official": "Republik Togo",
+            "common": "Togo"
         },
         "cca2": "TG",
         "cca3": "TGO",
@@ -8477,8 +8477,8 @@
     },
     {
         "name": {
-            "common": "Thailand",
-            "official": "Kingdom of Thailand"
+            "official": "Königreich Thailand",
+            "common": "Thailand"
         },
         "cca2": "TH",
         "cca3": "THA",
@@ -8500,7 +8500,7 @@
                 "flag": "🇲🇲"
             },
             {
-                "name": "Cambodia",
+                "name": "Kambodscha",
                 "flag": "🇰🇭"
             },
             {
@@ -8521,8 +8521,8 @@
     },
     {
         "name": {
-            "common": "Tajikistan",
-            "official": "Republic of Tajikistan"
+            "official": "Republik Tadschikistan",
+            "common": "Tadschikistan"
         },
         "cca2": "TJ",
         "cca3": "TJK",
@@ -8549,11 +8549,11 @@
                 "flag": "🇨🇳"
             },
             {
-                "name": "Kyrgyzstan",
+                "name": "Kirgisistan",
                 "flag": "🇰🇬"
             },
             {
-                "name": "Uzbekistan",
+                "name": "Usbekistan",
                 "flag": "🇺🇿"
             }
         ],
@@ -8566,8 +8566,8 @@
     },
     {
         "name": {
-            "common": "Tokelau",
-            "official": "Tokelau"
+            "official": "Tokelau",
+            "common": "Tokelau"
         },
         "cca2": "TK",
         "cca3": "TKL",
@@ -8595,8 +8595,8 @@
     },
     {
         "name": {
-            "common": "Turkmenistan",
-            "official": "Turkmenistan"
+            "official": "Turkmenistan",
+            "common": "Turkmenistan"
         },
         "cca2": "TM",
         "cca3": "TKM",
@@ -8623,11 +8623,11 @@
                 "flag": "🇮🇷"
             },
             {
-                "name": "Kazakhstan",
+                "name": "Kasachstan",
                 "flag": "🇰🇿"
             },
             {
-                "name": "Uzbekistan",
+                "name": "Usbekistan",
                 "flag": "🇺🇿"
             }
         ],
@@ -8640,8 +8640,8 @@
     },
     {
         "name": {
-            "common": "Timor-Leste",
-            "official": "Democratic Republic of Timor-Leste"
+            "official": "Demokratische Republik Timor-Leste",
+            "common": "Osttimor"
         },
         "cca2": "TL",
         "cca3": "TLS",
@@ -8660,7 +8660,7 @@
         ],
         "borders": [
             {
-                "name": "Indonesia",
+                "name": "Indonesien",
                 "flag": "🇮🇩"
             }
         ],
@@ -8673,8 +8673,8 @@
     },
     {
         "name": {
-            "common": "Tonga",
-            "official": "Kingdom of Tonga"
+            "official": "Königreich Tonga",
+            "common": "Tonga"
         },
         "cca2": "TO",
         "cca3": "TON",
@@ -8701,8 +8701,8 @@
     },
     {
         "name": {
-            "common": "Trinidad and Tobago",
-            "official": "Republic of Trinidad and Tobago"
+            "official": "Republik Trinidad und Tobago",
+            "common": "Trinidad und Tobago"
         },
         "cca2": "TT",
         "cca3": "TTO",
@@ -8728,8 +8728,8 @@
     },
     {
         "name": {
-            "common": "Tunisia",
-            "official": "Tunisian Republic"
+            "official": "Tunesische Republik",
+            "common": "Tunesien"
         },
         "cca2": "TN",
         "cca3": "TUN",
@@ -8747,11 +8747,11 @@
         ],
         "borders": [
             {
-                "name": "Algeria",
+                "name": "Algerien",
                 "flag": "🇩🇿"
             },
             {
-                "name": "Libya",
+                "name": "Libyen",
                 "flag": "🇱🇾"
             }
         ],
@@ -8764,8 +8764,8 @@
     },
     {
         "name": {
-            "common": "Turkey",
-            "official": "Republic of Turkey"
+            "official": "Republik Türkei",
+            "common": "Türkei"
         },
         "cca2": "TR",
         "cca3": "TUR",
@@ -8783,23 +8783,23 @@
         ],
         "borders": [
             {
-                "name": "Armenia",
+                "name": "Armenien",
                 "flag": "🇦🇲"
             },
             {
-                "name": "Azerbaijan",
+                "name": "Aserbaidschan",
                 "flag": "🇦🇿"
             },
             {
-                "name": "Bulgaria",
+                "name": "Bulgarien",
                 "flag": "🇧🇬"
             },
             {
-                "name": "Georgia",
+                "name": "Georgien",
                 "flag": "🇬🇪"
             },
             {
-                "name": "Greece",
+                "name": "Griechenland",
                 "flag": "🇬🇷"
             },
             {
@@ -8807,11 +8807,11 @@
                 "flag": "🇮🇷"
             },
             {
-                "name": "Iraq",
+                "name": "Irak",
                 "flag": "🇮🇶"
             },
             {
-                "name": "Syria",
+                "name": "Syrien",
                 "flag": "🇸🇾"
             }
         ],
@@ -8824,8 +8824,8 @@
     },
     {
         "name": {
-            "common": "Tuvalu",
-            "official": "Tuvalu"
+            "official": "Tuvalu",
+            "common": "Tuvalu"
         },
         "cca2": "TV",
         "cca3": "TUV",
@@ -8853,8 +8853,8 @@
     },
     {
         "name": {
-            "common": "Taiwan",
-            "official": "Republic of China (Taiwan)"
+            "official": "Republik China (Taiwan)",
+            "common": "Taiwan"
         },
         "cca2": "TW",
         "cca3": "TWN",
@@ -8880,8 +8880,8 @@
     },
     {
         "name": {
-            "common": "Tanzania",
-            "official": "United Republic of Tanzania"
+            "official": "Vereinigte Republik Tansania",
+            "common": "Tansania"
         },
         "cca2": "TZ",
         "cca3": "TZA",
@@ -8904,11 +8904,11 @@
                 "flag": "🇧🇮"
             },
             {
-                "name": "DR Congo",
+                "name": "DR Kongo",
                 "flag": "🇨🇩"
             },
             {
-                "name": "Kenya",
+                "name": "Kenia",
                 "flag": "🇰🇪"
             },
             {
@@ -8916,11 +8916,11 @@
                 "flag": "🇲🇼"
             },
             {
-                "name": "Mozambique",
+                "name": "Mosambik",
                 "flag": "🇲🇿"
             },
             {
-                "name": "Rwanda",
+                "name": "Ruanda",
                 "flag": "🇷🇼"
             },
             {
@@ -8928,7 +8928,7 @@
                 "flag": "🇺🇬"
             },
             {
-                "name": "Zambia",
+                "name": "Sambia",
                 "flag": "🇿🇲"
             }
         ],
@@ -8941,8 +8941,8 @@
     },
     {
         "name": {
-            "common": "Uganda",
-            "official": "Republic of Uganda"
+            "official": "Republik Uganda",
+            "common": "Uganda"
         },
         "cca2": "UG",
         "cca3": "UGA",
@@ -8961,23 +8961,23 @@
         ],
         "borders": [
             {
-                "name": "DR Congo",
+                "name": "DR Kongo",
                 "flag": "🇨🇩"
             },
             {
-                "name": "Kenya",
+                "name": "Kenia",
                 "flag": "🇰🇪"
             },
             {
-                "name": "Rwanda",
+                "name": "Ruanda",
                 "flag": "🇷🇼"
             },
             {
-                "name": "South Sudan",
+                "name": "Südsudan",
                 "flag": "🇸🇸"
             },
             {
-                "name": "Tanzania",
+                "name": "Tansania",
                 "flag": "🇹🇿"
             }
         ],
@@ -8990,8 +8990,8 @@
     },
     {
         "name": {
-            "common": "Ukraine",
-            "official": "Ukraine"
+            "official": "Ukraine",
+            "common": "Ukraine"
         },
         "cca2": "UA",
         "cca3": "UKR",
@@ -9009,31 +9009,31 @@
         ],
         "borders": [
             {
-                "name": "Belarus",
+                "name": "Weißrussland",
                 "flag": "🇧🇾"
             },
             {
-                "name": "Hungary",
+                "name": "Ungarn",
                 "flag": "🇭🇺"
             },
             {
-                "name": "Moldova",
+                "name": "Moldawien",
                 "flag": "🇲🇩"
             },
             {
-                "name": "Poland",
+                "name": "Polen",
                 "flag": "🇵🇱"
             },
             {
-                "name": "Romania",
+                "name": "Rumänien",
                 "flag": "🇷🇴"
             },
             {
-                "name": "Russia",
+                "name": "Russland",
                 "flag": "🇷🇺"
             },
             {
-                "name": "Slovakia",
+                "name": "Slowakei",
                 "flag": "🇸🇰"
             }
         ],
@@ -9046,8 +9046,8 @@
     },
     {
         "name": {
-            "common": "United States Minor Outlying Islands",
-            "official": "United States Minor Outlying Islands"
+            "official": "USA, kleinere ausgelagerte Inseln",
+            "common": "Kleinere Inselbesitzungen der Vereinigten Staaten"
         },
         "cca2": "UM",
         "cca3": "UMI",
@@ -9073,8 +9073,8 @@
     },
     {
         "name": {
-            "common": "Uruguay",
-            "official": "Oriental Republic of Uruguay"
+            "official": "Republik Östlich des Uruguay",
+            "common": "Uruguay"
         },
         "cca2": "UY",
         "cca3": "URY",
@@ -9092,11 +9092,11 @@
         ],
         "borders": [
             {
-                "name": "Argentina",
+                "name": "Argentinien",
                 "flag": "🇦🇷"
             },
             {
-                "name": "Brazil",
+                "name": "Brasilien",
                 "flag": "🇧🇷"
             }
         ],
@@ -9109,8 +9109,8 @@
     },
     {
         "name": {
-            "common": "United States",
-            "official": "United States of America"
+            "official": "Vereinigte Staaten von Amerika",
+            "common": "Vereinigte Staaten"
         },
         "cca2": "US",
         "cca3": "USA",
@@ -9128,11 +9128,11 @@
         ],
         "borders": [
             {
-                "name": "Canada",
+                "name": "Kanada",
                 "flag": "🇨🇦"
             },
             {
-                "name": "Mexico",
+                "name": "Mexiko",
                 "flag": "🇲🇽"
             }
         ],
@@ -9145,8 +9145,8 @@
     },
     {
         "name": {
-            "common": "Uzbekistan",
-            "official": "Republic of Uzbekistan"
+            "official": "Republik Usbekistan",
+            "common": "Usbekistan"
         },
         "cca2": "UZ",
         "cca3": "UZB",
@@ -9169,15 +9169,15 @@
                 "flag": "🇦🇫"
             },
             {
-                "name": "Kazakhstan",
+                "name": "Kasachstan",
                 "flag": "🇰🇿"
             },
             {
-                "name": "Kyrgyzstan",
+                "name": "Kirgisistan",
                 "flag": "🇰🇬"
             },
             {
-                "name": "Tajikistan",
+                "name": "Tadschikistan",
                 "flag": "🇹🇯"
             },
             {
@@ -9194,8 +9194,8 @@
     },
     {
         "name": {
-            "common": "Vatican City",
-            "official": "Vatican City State"
+            "official": "Staat Vatikanstadt",
+            "common": "Vatikanstadt"
         },
         "cca2": "VA",
         "cca3": "VAT",
@@ -9214,7 +9214,7 @@
         ],
         "borders": [
             {
-                "name": "Italy",
+                "name": "Italien",
                 "flag": "🇮🇹"
             }
         ],
@@ -9227,8 +9227,8 @@
     },
     {
         "name": {
-            "common": "Saint Vincent and the Grenadines",
-            "official": "Saint Vincent and the Grenadines"
+            "official": "St. Vincent und die Grenadinen",
+            "common": "St. Vincent und die Grenadinen"
         },
         "cca2": "VC",
         "cca3": "VCT",
@@ -9254,8 +9254,8 @@
     },
     {
         "name": {
-            "common": "Venezuela",
-            "official": "Bolivarian Republic of Venezuela"
+            "official": "Bolivarische Republik Venezuela",
+            "common": "Venezuela"
         },
         "cca2": "VE",
         "cca3": "VEN",
@@ -9273,11 +9273,11 @@
         ],
         "borders": [
             {
-                "name": "Brazil",
+                "name": "Brasilien",
                 "flag": "🇧🇷"
             },
             {
-                "name": "Colombia",
+                "name": "Kolumbien",
                 "flag": "🇨🇴"
             },
             {
@@ -9294,8 +9294,8 @@
     },
     {
         "name": {
-            "common": "British Virgin Islands",
-            "official": "Virgin Islands"
+            "official": "Jungferninseln",
+            "common": "Britische Jungferninseln"
         },
         "cca2": "VG",
         "cca3": "VGB",
@@ -9321,8 +9321,8 @@
     },
     {
         "name": {
-            "common": "United States Virgin Islands",
-            "official": "Virgin Islands of the United States"
+            "official": "Amerikanische Jungferninseln",
+            "common": "Amerikanische Jungferninseln"
         },
         "cca2": "VI",
         "cca3": "VIR",
@@ -9348,8 +9348,8 @@
     },
     {
         "name": {
-            "common": "Vietnam",
-            "official": "Socialist Republic of Vietnam"
+            "official": "Sozialistische Republik Vietnam",
+            "common": "Vietnam"
         },
         "cca2": "VN",
         "cca3": "VNM",
@@ -9367,7 +9367,7 @@
         ],
         "borders": [
             {
-                "name": "Cambodia",
+                "name": "Kambodscha",
                 "flag": "🇰🇭"
             },
             {
@@ -9388,8 +9388,8 @@
     },
     {
         "name": {
-            "common": "Vanuatu",
-            "official": "Republic of Vanuatu"
+            "official": "Vanuatu",
+            "common": "Vanuatu"
         },
         "cca2": "VU",
         "cca3": "VUT",
@@ -9417,8 +9417,8 @@
     },
     {
         "name": {
-            "common": "Wallis and Futuna",
-            "official": "Territory of the Wallis and Futuna Islands"
+            "official": "Gebiet der Wallis und Futuna",
+            "common": "Wallis und Futuna"
         },
         "cca2": "WF",
         "cca3": "WLF",
@@ -9444,8 +9444,8 @@
     },
     {
         "name": {
-            "common": "Samoa",
-            "official": "Independent State of Samoa"
+            "official": "Unabhängige Staat Samoa",
+            "common": "Samoa"
         },
         "cca2": "WS",
         "cca3": "WSM",
@@ -9472,8 +9472,8 @@
     },
     {
         "name": {
-            "common": "Yemen",
-            "official": "Republic of Yemen"
+            "official": "Republik Jemen",
+            "common": "Jemen"
         },
         "cca2": "YE",
         "cca3": "YEM",
@@ -9495,7 +9495,7 @@
                 "flag": "🇴🇲"
             },
             {
-                "name": "Saudi Arabia",
+                "name": "Saudi-Arabien",
                 "flag": "🇸🇦"
             }
         ],
@@ -9508,8 +9508,8 @@
     },
     {
         "name": {
-            "common": "South Africa",
-            "official": "Republic of South Africa"
+            "official": "Republik Südafrika",
+            "common": "Südafrika"
         },
         "cca2": "ZA",
         "cca3": "ZAF",
@@ -9547,7 +9547,7 @@
                 "flag": "🇱🇸"
             },
             {
-                "name": "Mozambique",
+                "name": "Mosambik",
                 "flag": "🇲🇿"
             },
             {
@@ -9555,11 +9555,11 @@
                 "flag": "🇳🇦"
             },
             {
-                "name": "Eswatini",
+                "name": "Swasiland",
                 "flag": "🇸🇿"
             },
             {
-                "name": "Zimbabwe",
+                "name": "Simbabwe",
                 "flag": "🇿🇼"
             }
         ],
@@ -9572,8 +9572,8 @@
     },
     {
         "name": {
-            "common": "Zambia",
-            "official": "Republic of Zambia"
+            "official": "Republik Sambia",
+            "common": "Sambia"
         },
         "cca2": "ZM",
         "cca3": "ZMB",
@@ -9599,7 +9599,7 @@
                 "flag": "🇧🇼"
             },
             {
-                "name": "DR Congo",
+                "name": "DR Kongo",
                 "flag": "🇨🇩"
             },
             {
@@ -9607,7 +9607,7 @@
                 "flag": "🇲🇼"
             },
             {
-                "name": "Mozambique",
+                "name": "Mosambik",
                 "flag": "🇲🇿"
             },
             {
@@ -9615,11 +9615,11 @@
                 "flag": "🇳🇦"
             },
             {
-                "name": "Tanzania",
+                "name": "Tansania",
                 "flag": "🇹🇿"
             },
             {
-                "name": "Zimbabwe",
+                "name": "Simbabwe",
                 "flag": "🇿🇼"
             }
         ],
@@ -9632,8 +9632,8 @@
     },
     {
         "name": {
-            "common": "Zimbabwe",
-            "official": "Republic of Zimbabwe"
+            "official": "Republik Simbabwe",
+            "common": "Simbabwe"
         },
         "cca2": "ZW",
         "cca3": "ZWE",
@@ -9677,15 +9677,15 @@
                 "flag": "🇧🇼"
             },
             {
-                "name": "Mozambique",
+                "name": "Mosambik",
                 "flag": "🇲🇿"
             },
             {
-                "name": "South Africa",
+                "name": "Südafrika",
                 "flag": "🇿🇦"
             },
             {
-                "name": "Zambia",
+                "name": "Sambia",
                 "flag": "🇿🇲"
             }
         ],

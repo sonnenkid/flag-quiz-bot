@@ -1,9 +1,4 @@
 {
-    "AFRICA": "África",
-    "AMERICAS": "América",
-    "ASIA": "Asia",
-    "EUROPE": "Europa",
-    "OCEANIA": "Oceanía",
     "GUESS": "Adivina la bandera",
     "GUESSED": "%REPL% ha adivinado!",
     "STARTING": "Comenzando",
