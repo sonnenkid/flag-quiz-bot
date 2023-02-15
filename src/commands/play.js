@@ -46,6 +46,7 @@ module.exports = {
         playLock.set(serverID, true);
 
         const session = [];
+        let sessionScore = 0;
 
         for (let i = 0; i < 5; i++) {
             const index = Math.floor(Math.random() * countries.length);
@@ -55,16 +56,13 @@ module.exports = {
             const embed = new EmbedBuilder()
                 .setTitle(strings['GUESS'])
                 .setImage(country.flag.attachment)
-                .setColor('#FFFFFF');
+                .setColor('#e0e0e0');
             session.push({
                 content: { embeds: [embed], files: [flag] },
                 answers: [country.name.official, country.name.common],
                 reaction: country.flag.emoji
             });
         }
-
-        let sessionCorrectAnswers = 0;
-        let sessionScore = 0;
 
         try {
             await interaction.reply(strings['STARTING']);
@@ -78,11 +76,10 @@ module.exports = {
                     .then((collected) => {
                         collected.first().react(reaction);
                         sessionScore += 10;
-                        sessionCorrectAnswers++;
                     })
                     .catch();
             }
-            interaction.channel.send(`${strings['CORRECT_ANSWERS'].replace(/%REPL%/g, sessionCorrectAnswers)}. ${strings['POINTS'].replace(/%REPL%/g, sessionScore)}`);
+            interaction.channel.send(strings['POINTS'].replace(/%REPL%/g, sessionScore));
             connection.query("INSERT INTO scores (discord_id, score, last_played, times_played) VALUES (?, ?, ?, default) ON DUPLICATE KEY UPDATE score=score+VALUES(score), last_played=VALUES(last_played), times_played=times_played+1", [userID, sessionScore, today]);
             playLock.delete(serverID);
         }
