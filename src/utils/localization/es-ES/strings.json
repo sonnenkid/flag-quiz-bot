@@ -1,8 +1,6 @@
 {
     "GUESS": "Adivina la bandera",
-    "GUESSED": "%REPL% ha adivinado!",
     "STARTING": "Comenzando",
-    "CORRECT_ANSWERS": "Respondiste correctamente %REPL% veces",
     "POINTS": "Obtuviste %REPL% puntos",
     "DOES_NOT_HAVE": "No tiene",
     "OFFICIAL_NAME": "NOMBRE OFICIAL",
@@ -11,10 +9,10 @@
     "SUBREGION": "REGION",
     "BORDERS_WITH": "LIMITES",
     "AREA": "SUPERFICIE",
-    "COUNTRY_NOT_VALID": "No puedo encontrar ese pais",
+    "COUNTRY_NOT_VALID": "No pude encontrar %REPL%",
     "IN_USE": "Alguien esta jugando, por favor espera!",
     "ALREADY_PLAYED": "Ya has jugado hoy, vuelve mañana!",
     "LEADERBOARD": "🏆  CLASIFICACION",
     "TOP_10": "TOP 10",
-    "EMPTY_LEADERBOARD": "Está vacía, por ahora."
+    "EMPTY_LEADERBOARD": "No hay nadie en el top"
 }
