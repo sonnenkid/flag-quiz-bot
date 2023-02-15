@@ -14,5 +14,6 @@
     "ALREADY_PLAYED": "Ya has jugado hoy, vuelve mañana!",
     "LEADERBOARD": "🏆  CLASIFICACION",
     "TOP_10": "TOP 10",
-    "EMPTY_LEADERBOARD": "No hay nadie en el top"
+    "EMPTY_LEADERBOARD": "No hay nadie en el top",
+    "SORTED_BY": "Ordenados por:\n > puntos\n > dias jugados\n > ult. vez jugado"
 }

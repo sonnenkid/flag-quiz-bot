@@ -14,5 +14,6 @@
     "ALREADY_PLAYED": "Du hast heute schon gespielt, komm morgen wieder!",
     "LEADERBOARD": "🏆  BESTENLISTE",
     "TOP_10": "TOP 10",
-    "EMPTY_LEADERBOARD": "Die Bestenliste ist leer"
+    "EMPTY_LEADERBOARD": "Die Bestenliste ist leer",
+    "SORTED_BY": "Sortiert nach:\n > Punktzahl\n > Tage gespielt\n > Zuletzt gespielt"
 }

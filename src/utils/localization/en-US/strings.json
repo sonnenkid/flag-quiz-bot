@@ -14,5 +14,6 @@
     "ALREADY_PLAYED": "You have already played today, come back tomorrow!",
     "LEADERBOARD": "🏆  LEADERBOARD",
     "TOP_10": "TOP 10",
-    "EMPTY_LEADERBOARD": "The leaderboard is empty"
+    "EMPTY_LEADERBOARD": "The leaderboard is empty",
+    "SORTED_BY": "Sorted by:\n > score\n > times played\n > last time played"
 }
