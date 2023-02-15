@@ -27,7 +27,7 @@ module.exports = {
         let country = await countries.find(c => normalizeText(c.name.common) === normalizeText(option) || normalizeText(c.name.official) === normalizeText(option));
 
         if (!country) {
-            interaction.reply(strings['COUNTRY_NOT_VALID']);
+            interaction.reply(strings['COUNTRY_NOT_VALID'].replace(/%REPL%/g, option));
             return;
         }
 
@@ -37,7 +37,7 @@ module.exports = {
         const embed = new EmbedBuilder()
             .setAuthor({ name: country.name.common.toUpperCase(), iconURL: country.flag.attachment })
             .setImage(country.flag.attachment)
-            .setColor('e0e0e0');
+            .setColor('#e0e0e0');
 
         let bordersText = '';
         if (country.borders.length) {
