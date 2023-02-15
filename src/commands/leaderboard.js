@@ -21,10 +21,10 @@ module.exports = {
                 return;
             }
 
-            let messageEmbed = new EmbedBuilder();
-            messageEmbed.setTitle(strings['LEADERBOARD']);
-            messageEmbed.setDescription('Ordenados por:\n > puntos\n > dias jugados\n > ult. vez jugado');
-            messageEmbed.setColor('#ce1126');
+            const embed = new EmbedBuilder()
+                .setTitle(strings['LEADERBOARD'])
+                .setDescription(strings['SORTED_BY'])
+                .setColor('#e0e0e0');
             let fieldText = '';
             for (let index = 0; index < result.length; index++) {
                 try {
@@ -38,14 +38,14 @@ module.exports = {
 
             }
 
-            messageEmbed.addFields(
+            embed.addFields(
                 {
                     name: strings['TOP_10'],
                     value: styleCodeBlock(fieldText)
                 }
             )
 
-            interaction.reply({ embeds: [messageEmbed] });
+            interaction.reply({ embeds: [embed] });
         }
         catch (err) {
             console.log(err);
